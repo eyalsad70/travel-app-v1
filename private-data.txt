@@ -1,0 +1,25 @@
+
+### This file should be filled with real keys and tokens, and be saved outside of this project. 
+### its path must be defined in key_loader.py
+
+LIST OF KEYS REQUIRED BY RAPID-API Sites
+
+openAI_key = 
+
+aiTripPlanner_key = 
+
+booking_key = 
+
+
+TELEGRAM BOT Token
+
+telebot_token = 
+telebot_chat_id = 
+
+
+AWS Credentials for AWS resources access
+
+aws_access_key_id=
+aws_secret_access_key=
+
+google_places_api_key = 

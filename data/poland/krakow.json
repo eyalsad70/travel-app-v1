@@ -1,0 +1,273 @@
+{
+    "predictions": [
+        {
+            "description": "Krak\u00f3w, Poland",
+            "matched_substrings": [
+                {
+                    "length": 6,
+                    "offset": 0
+                },
+                {
+                    "length": 6,
+                    "offset": 8
+                }
+            ],
+            "place_id": "ChIJ0RhONcBEFkcRv4pHdrW2a7Q",
+            "reference": "ChIJ0RhONcBEFkcRv4pHdrW2a7Q",
+            "structured_formatting": {
+                "main_text": "Krak\u00f3w",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Poland",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 0
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Krak\u00f3w"
+                },
+                {
+                    "offset": 8,
+                    "value": "Poland"
+                }
+            ],
+            "types": [
+                "locality",
+                "geocode",
+                "political"
+            ]
+        },
+        {
+            "description": "Krakow Poland, Beach, near Ecr, Akkarai, Panaiyur, Chennai, Tamil Nadu, India",
+            "matched_substrings": [
+                {
+                    "length": 13,
+                    "offset": 0
+                }
+            ],
+            "place_id": "ChIJM-5nnOlbUjoRaGPgrPQiEQI",
+            "reference": "ChIJM-5nnOlbUjoRaGPgrPQiEQI",
+            "structured_formatting": {
+                "main_text": "Krakow Poland",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 13,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Beach, near Ecr, Akkarai, Panaiyur, Chennai, Tamil Nadu, India"
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Krakow Poland"
+                },
+                {
+                    "offset": 15,
+                    "value": "Beach"
+                },
+                {
+                    "offset": 22,
+                    "value": "near Ecr"
+                },
+                {
+                    "offset": 32,
+                    "value": "Akkarai"
+                },
+                {
+                    "offset": 41,
+                    "value": "Panaiyur"
+                },
+                {
+                    "offset": 51,
+                    "value": "Chennai"
+                },
+                {
+                    "offset": 60,
+                    "value": "Tamil Nadu"
+                },
+                {
+                    "offset": 72,
+                    "value": "India"
+                }
+            ],
+            "types": [
+                "establishment",
+                "lodging",
+                "point_of_interest"
+            ]
+        },
+        {
+            "description": "John Paul II International Airport Krak\u00f3w-Balice, Kapitana Mieczys\u0142awa Medweckiego, Balice, Poland",
+            "matched_substrings": [
+                {
+                    "length": 6,
+                    "offset": 35
+                },
+                {
+                    "length": 6,
+                    "offset": 92
+                }
+            ],
+            "place_id": "ChIJVRM-uydZFkcRSXukEJ66O7k",
+            "reference": "ChIJVRM-uydZFkcRSXukEJ66O7k",
+            "structured_formatting": {
+                "main_text": "John Paul II International Airport Krak\u00f3w-Balice",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 35
+                    }
+                ],
+                "secondary_text": "Kapitana Mieczys\u0142awa Medweckiego, Balice, Poland",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 42
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "John Paul II International Airport Krak\u00f3w-Balice"
+                },
+                {
+                    "offset": 50,
+                    "value": "Kapitana Mieczys\u0142awa Medweckiego"
+                },
+                {
+                    "offset": 84,
+                    "value": "Balice"
+                },
+                {
+                    "offset": 92,
+                    "value": "Poland"
+                }
+            ],
+            "types": [
+                "airport",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "description": "Poland apartments, S\u0142awkowska, Krak\u00f3w, Poland",
+            "matched_substrings": [
+                {
+                    "length": 6,
+                    "offset": 0
+                },
+                {
+                    "length": 6,
+                    "offset": 31
+                }
+            ],
+            "place_id": "ChIJXxH0_4tbFkcRN9HN5QeOzyI",
+            "reference": "ChIJXxH0_4tbFkcRN9HN5QeOzyI",
+            "structured_formatting": {
+                "main_text": "Poland apartments",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "S\u0142awkowska, Krak\u00f3w, Poland",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 12
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Poland apartments"
+                },
+                {
+                    "offset": 19,
+                    "value": "S\u0142awkowska"
+                },
+                {
+                    "offset": 31,
+                    "value": "Krak\u00f3w"
+                },
+                {
+                    "offset": 39,
+                    "value": "Poland"
+                }
+            ],
+            "types": [
+                "lodging",
+                "establishment",
+                "point_of_interest"
+            ]
+        },
+        {
+            "description": "Poland Travel - PolandTravelTours.com, Wielopole, Krak\u00f3w, Poland",
+            "matched_substrings": [
+                {
+                    "length": 6,
+                    "offset": 0
+                },
+                {
+                    "length": 6,
+                    "offset": 50
+                }
+            ],
+            "place_id": "ChIJlTV57mpbFkcRFo5b214-M08",
+            "reference": "ChIJlTV57mpbFkcRFo5b214-M08",
+            "structured_formatting": {
+                "main_text": "Poland Travel - PolandTravelTours.com",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Wielopole, Krak\u00f3w, Poland",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 11
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Poland Travel - PolandTravelTours.com"
+                },
+                {
+                    "offset": 39,
+                    "value": "Wielopole"
+                },
+                {
+                    "offset": 50,
+                    "value": "Krak\u00f3w"
+                },
+                {
+                    "offset": 58,
+                    "value": "Poland"
+                }
+            ],
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    ],
+    "status": "OK"
+}

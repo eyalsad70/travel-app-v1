@@ -1,0 +1,49 @@
+{
+    "predictions": [
+        {
+            "description": "Tatra National Park, Poland, Ku\u017anice, Zakopane, Poland",
+            "matched_substrings": [
+                {
+                    "length": 27,
+                    "offset": 0
+                }
+            ],
+            "place_id": "ChIJZ3iO46eiFUcRS0xKhN41vCg",
+            "reference": "ChIJZ3iO46eiFUcRS0xKhN41vCg",
+            "structured_formatting": {
+                "main_text": "Tatra National Park, Poland",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 27,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Ku\u017anice, Zakopane, Poland"
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Tatra National Park, Poland"
+                },
+                {
+                    "offset": 29,
+                    "value": "Ku\u017anice"
+                },
+                {
+                    "offset": 38,
+                    "value": "Zakopane"
+                },
+                {
+                    "offset": 48,
+                    "value": "Poland"
+                }
+            ],
+            "types": [
+                "establishment",
+                "park",
+                "point_of_interest"
+            ]
+        }
+    ],
+    "status": "OK"
+}

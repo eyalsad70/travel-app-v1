@@ -1,0 +1,265 @@
+{
+    "predictions": [
+        {
+            "description": "Wroc\u0142aw, Poland",
+            "matched_substrings": [
+                {
+                    "length": 7,
+                    "offset": 0
+                },
+                {
+                    "length": 6,
+                    "offset": 9
+                }
+            ],
+            "place_id": "ChIJv4q11MLpD0cR9eAFwq5WCbc",
+            "reference": "ChIJv4q11MLpD0cR9eAFwq5WCbc",
+            "structured_formatting": {
+                "main_text": "Wroc\u0142aw",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 7,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Poland",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 0
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Wroc\u0142aw"
+                },
+                {
+                    "offset": 9,
+                    "value": "Poland"
+                }
+            ],
+            "types": [
+                "geocode",
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "description": "Poland Workforce Sp. o.o. S. K. A., Nenckiego, Wroc\u0142aw, Poland",
+            "matched_substrings": [
+                {
+                    "length": 6,
+                    "offset": 0
+                },
+                {
+                    "length": 7,
+                    "offset": 47
+                }
+            ],
+            "place_id": "ChIJFZN3cnXCD0cRjsYaXN8lKMk",
+            "reference": "ChIJFZN3cnXCD0cRjsYaXN8lKMk",
+            "structured_formatting": {
+                "main_text": "Poland Workforce Sp. o.o. S. K. A.",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Nenckiego, Wroc\u0142aw, Poland",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 7,
+                        "offset": 11
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Poland Workforce Sp. o.o. S. K. A."
+                },
+                {
+                    "offset": 36,
+                    "value": "Nenckiego"
+                },
+                {
+                    "offset": 47,
+                    "value": "Wroc\u0142aw"
+                },
+                {
+                    "offset": 56,
+                    "value": "Poland"
+                }
+            ],
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "description": "POLAND WORKING AGENCY, Stefana Drzewieckiego, Wroc\u0142aw, Poland",
+            "matched_substrings": [
+                {
+                    "length": 6,
+                    "offset": 0
+                },
+                {
+                    "length": 7,
+                    "offset": 46
+                }
+            ],
+            "place_id": "ChIJ8dZLm5PrD0cRkF1S98rr7-4",
+            "reference": "ChIJ8dZLm5PrD0cRkF1S98rr7-4",
+            "structured_formatting": {
+                "main_text": "POLAND WORKING AGENCY",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Stefana Drzewieckiego, Wroc\u0142aw, Poland",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 7,
+                        "offset": 23
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "POLAND WORKING AGENCY"
+                },
+                {
+                    "offset": 23,
+                    "value": "Stefana Drzewieckiego"
+                },
+                {
+                    "offset": 46,
+                    "value": "Wroc\u0142aw"
+                },
+                {
+                    "offset": 55,
+                    "value": "Poland"
+                }
+            ],
+            "types": [
+                "point_of_interest",
+                "travel_agency",
+                "establishment"
+            ]
+        },
+        {
+            "description": "Wroc\u0142aw Nicolaus Copernicus Airport, Graniczna, Wroc\u0142aw, Poland",
+            "matched_substrings": [
+                {
+                    "length": 7,
+                    "offset": 0
+                },
+                {
+                    "length": 6,
+                    "offset": 57
+                }
+            ],
+            "place_id": "ChIJv11892_AD0cRf27AnQ6i4CQ",
+            "reference": "ChIJv11892_AD0cRf27AnQ6i4CQ",
+            "structured_formatting": {
+                "main_text": "Wroc\u0142aw Nicolaus Copernicus Airport",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 7,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Graniczna, Wroc\u0142aw, Poland",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 20
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Wroc\u0142aw Nicolaus Copernicus Airport"
+                },
+                {
+                    "offset": 37,
+                    "value": "Graniczna"
+                },
+                {
+                    "offset": 48,
+                    "value": "Wroc\u0142aw"
+                },
+                {
+                    "offset": 57,
+                    "value": "Poland"
+                }
+            ],
+            "types": [
+                "airport",
+                "establishment",
+                "point_of_interest"
+            ]
+        },
+        {
+            "description": "Poland Green Energy S.A., Skwierzy\u0144ska, Wroc\u0142aw, Poland",
+            "matched_substrings": [
+                {
+                    "length": 6,
+                    "offset": 0
+                },
+                {
+                    "length": 7,
+                    "offset": 40
+                }
+            ],
+            "place_id": "ChIJW1PvqNzDD0cRkfvxl3U9uF8",
+            "reference": "ChIJW1PvqNzDD0cRkfvxl3U9uF8",
+            "structured_formatting": {
+                "main_text": "Poland Green Energy S.A.",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Skwierzy\u0144ska, Wroc\u0142aw, Poland",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 7,
+                        "offset": 14
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Poland Green Energy S.A."
+                },
+                {
+                    "offset": 26,
+                    "value": "Skwierzy\u0144ska"
+                },
+                {
+                    "offset": 40,
+                    "value": "Wroc\u0142aw"
+                },
+                {
+                    "offset": 49,
+                    "value": "Poland"
+                }
+            ],
+            "types": [
+                "establishment",
+                "point_of_interest"
+            ]
+        }
+    ],
+    "status": "OK"
+}

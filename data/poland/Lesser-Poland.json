@@ -1,0 +1,41 @@
+{
+    "predictions": [
+        {
+            "description": "Lesser Poland Voivodeship, Poland",
+            "matched_substrings": [
+                {
+                    "length": 13,
+                    "offset": 0
+                }
+            ],
+            "place_id": "ChIJXe0Xc18WFkcRcMDkxa18AQE",
+            "reference": "ChIJXe0Xc18WFkcRcMDkxa18AQE",
+            "structured_formatting": {
+                "main_text": "Lesser Poland Voivodeship",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 13,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Poland"
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Lesser Poland Voivodeship"
+                },
+                {
+                    "offset": 27,
+                    "value": "Poland"
+                }
+            ],
+            "types": [
+                "geocode",
+                "administrative_area_level_1",
+                "political"
+            ]
+        }
+    ],
+    "status": "OK"
+}

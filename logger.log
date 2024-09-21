@@ -1,0 +1,237 @@
+2024-09-16 23:23:19,906 - ERROR - File 'tourist_locations_new.json' does not exist in bucket 'eyalsad70-s3'.
+2024-09-16 23:23:46,702 - INFO - File 'tourist_locations_new.json' successfully uploaded to 'eyalsad70-s3'
+2024-09-16 23:23:46,802 - INFO - File 'tourist_locations_new.json' exists in bucket 'eyalsad70-s3'.
+2024-09-16 23:23:46,979 - INFO - File 'tourist_locations_new.json' has been downloaded to './data/tourist_locations_new.json'.
+2024-09-16 23:48:46,358 - INFO - File 'tourist_locations_new.json' successfully uploaded to 'eyalsad70-s3'
+2024-09-16 23:48:46,461 - INFO - File 'tourist_locations_new.json' exists in bucket 'eyalsad70-s3'.
+2024-09-16 23:48:46,656 - INFO - File 'tourist_locations_new.json' has been downloaded to './data/tourist_locations_new.json'.
+2024-09-17 00:17:18,712 - INFO - rapidApi request /?days=8&destination=zakopane%2Cpoland was sent. response code = 200
+2024-09-17 00:20:10,952 - INFO - rapidApi request /?days=8&destination=zakopane%2Cpoland was sent. response code = 200
+2024-09-17 00:52:09,596 - INFO - get_openai_content :  request 
+    I am looking for tourist attractions in zakopane in poland. 
+    I want up to 15 nature, urban and aqua-park attractions. 
+    please provide those attractions as a list and add very short description for each attraction was sent. response code = 403
+2024-09-17 01:14:52,188 - INFO - get_openai_content :  request I am looking for tourist attractions in zakopane in poland. I want up to 15 nature, urban and aqua-park attractions was sent. response code = 200
+2024-09-17 01:23:40,955 - INFO - get_openai_content :  request I am looking for tourist attractions in tel-aviv in  israel. I want up to 15 nature, urban and aqua-park attractions was sent. response code = 200
+2024-09-17 02:10:06,450 - ERROR - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2024-09-17 02:10:06,450 - ERROR - Exception traceback:
+Traceback (most recent call last):
+  File "c:\Naya\Python projects\rapid-api\.venv\Lib\site-packages\telebot\__init__.py", line 1225, in __threaded_polling
+    polling_thread.raise_exceptions()
+  File "c:\Naya\Python projects\rapid-api\.venv\Lib\site-packages\telebot\util.py", line 111, in raise_exceptions
+    raise self.exception_info
+  File "c:\Naya\Python projects\rapid-api\.venv\Lib\site-packages\telebot\util.py", line 93, in run
+    task(*args, **kwargs)
+  File "c:\Naya\Python projects\rapid-api\.venv\Lib\site-packages\telebot\__init__.py", line 687, in __retrieve_updates
+    updates = self.get_updates(offset=(self.last_update_id + 1),
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Naya\Python projects\rapid-api\.venv\Lib\site-packages\telebot\__init__.py", line 659, in get_updates
+    json_updates = apihelper.get_updates(
+                   ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Naya\Python projects\rapid-api\.venv\Lib\site-packages\telebot\apihelper.py", line 330, in get_updates
+    return _make_request(token, method_url, params=payload)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Naya\Python projects\rapid-api\.venv\Lib\site-packages\telebot\apihelper.py", line 168, in _make_request
+    json_result = _check_result(method_name, result)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Naya\Python projects\rapid-api\.venv\Lib\site-packages\telebot\apihelper.py", line 195, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 409. Description: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+
+2024-09-17 02:10:19,326 - INFO - Message ID: 65 From User ID: 6550133750 ; Chat ID: 6550133750
+2024-09-17 02:11:54,950 - INFO - Message ID: 69 From User ID: 6550133750 ; Chat ID: 6550133750
+2024-09-17 02:12:06,453 - INFO - get_openai_content :  request I am looking for tourist attractions in krakow in  poland. I want up to 15 nature, urban and aqua-park attractions was sent. response code = 200
+2024-09-17 14:19:02,565 - INFO - get_openai_content :  request List up to 15 tourist attractions in zakopane, poland. For each attraction, include the type of attraction (urban, nature, historical, etc.). was sent. response code = 200
+2024-09-17 14:30:36,495 - INFO - get_openai_content :  request List up to 15 tourist attractions in zakopane, poland. For each attraction, include the type of attraction (urban, nature, historical, etc.). was sent. response code = 200
+2024-09-17 14:46:15,934 - INFO - get_openai_content :  request List up to 15 tourist attractions in zakopane, poland. For each attraction, include the type of attraction (urban, nature, historical, etc.). was sent. response code = 200
+2024-09-17 14:53:21,312 - INFO - get_openai_content :  request List up to 15 tourist attractions in zakopane, poland. For each attraction, include the type of attraction (urban, nature, historical, etc.). was sent. response code = 200
+2024-09-17 15:02:14,786 - INFO - get_openai_content :  request List up to 15 tourist attractions in zakopane, poland. For each attraction, include the type of attraction (urban, nature, historical, etc.). was sent. response code = 200
+2024-09-17 15:14:37,502 - INFO - get_openai_content :  request List up to 15 tourist attractions in zakopane, poland. For each attraction, include only the name and type (e.g., urban, nature, historical) without any additional information was sent. response code = 200
+2024-09-17 18:19:02,356 - INFO - get_place_coordinates for poprad - latitude 49.0511221, longitude 20.295414
+2024-09-17 18:20:04,702 - INFO - get_place_coordinates for poprad - latitude 49.0511221, longitude 20.295414
+2024-09-18 14:41:57,337 - ERROR - update_or_append_row : column Title is not valid
+2024-09-18 18:23:46,378 - ERROR - update_or_append_row : column Title is not valid
+2024-09-18 18:25:15,021 - INFO - get_place_coordinates for Krup\xf3wki Street - latitude 49.29385449999999, longitude 19.9538936
+2024-09-18 18:52:26,137 - INFO - get_place_coordinates for Krup\xf3wki Street - latitude 49.29385449999999, longitude 19.9538936
+2024-09-18 18:57:24,225 - INFO - get_place_coordinates for Krup\xf3wki Street - latitude 49.29385449999999, longitude 19.9538936
+2024-09-18 19:05:22,014 - INFO - get_place_coordinates for Krup\xf3wki Street - latitude 49.29385449999999, longitude 19.9538936
+2024-09-18 19:08:08,925 - INFO - get_place_coordinates for Krup\xf3wki Street - latitude 49.29385449999999, longitude 19.9538936
+2024-09-18 19:10:17,153 - INFO - get_place_coordinates for Guba\u0142\xf3wka Hill - latitude 49.298524, longitude 19.9454401
+2024-09-18 19:10:23,279 - INFO - get_place_coordinates for Tatra National Park - latitude 49.271441, longitude 19.982744
+2024-09-18 19:10:29,805 - INFO - get_place_coordinates for Morskie Oko Lake - latitude 49.1971411, longitude 20.070087
+2024-09-18 19:13:59,949 - INFO - get_place_coordinates for Krup\xf3wki Street - latitude 49.29385449999999, longitude 19.9538936
+2024-09-18 19:15:05,243 - INFO - get_place_coordinates for Guba\u0142\xf3wka Hill - latitude 49.298524, longitude 19.9454401
+2024-09-18 19:15:17,574 - INFO - get_place_coordinates for Tatra National Park - latitude 49.271441, longitude 19.982744
+2024-09-18 19:15:26,693 - INFO - get_place_coordinates for Morskie Oko Lake - latitude 49.1971411, longitude 20.070087
+2024-09-18 19:15:34,262 - INFO - get_place_coordinates for Wielka Krokiew Ski Jumping Center - latitude 49.2794102, longitude 19.9639442
+2024-09-18 19:15:36,727 - INFO - get_place_coordinates for Chocho\u0142owska Valley - latitude 49.26666669999999, longitude 19.8333333
+2024-09-18 19:15:38,886 - INFO - get_place_coordinates for Muzeum Oscyporka w Zakopanem - latitude 49.29539339999999, longitude 19.9638039
+2024-09-18 19:15:40,640 - INFO - get_place_coordinates for Ko\u015bcieliska Valley - latitude 49.25, longitude 19.8666667
+2024-09-18 19:15:42,642 - INFO - get_place_coordinates for Szymoszkowa Ski Resort - latitude 49.292889, longitude 19.9296709
+2024-09-18 19:15:44,653 - INFO - get_place_coordinates for Tatras Aquapark & Spa Complex - latitude 49.1067428, longitude 19.5699039
+2024-09-18 19:15:49,630 - INFO - get_place_coordinates for Willa Koliba Regional Folk Architecture Museum - latitude 49.2943432, longitude 19.9430101
+2024-09-18 19:16:00,318 - INFO - get_place_coordinates for Dunajec River Boat Trips through Pieniny National Park - latitude 49.3944791, longitude 20.4123775
+2024-09-18 19:16:00,857 - INFO - get_place_coordinates for The Wooden Church of Our Lady of Cz\u0119stochowa - latitude 40.31896400000001, longitude -75.179362
+2024-09-18 19:16:01,441 - INFO - get_place_coordinates for Thermal Baths at Terma Bukovina or Chocholowskie Termy - latitude 49.35181739999999, longitude 19.8231171
+2024-09-19 16:42:12,162 - INFO - File 'tourist_locations_new.json' successfully uploaded to 'eyalsad70-s3'
+2024-09-19 16:42:55,293 - INFO - File 'my_travel_app_v1/tourist_locations_new.json' exists in bucket 'eyalsad70-s3'.
+2024-09-19 16:43:25,716 - INFO - File 'my_travel_app_v1/tourist_locations_new.json' has been downloaded to './data/tourist_locations_new.json'.
+2024-09-19 18:22:28,991 - INFO - rapidApi request /api/v1/hotels/searchDestination?query=wroclaw was sent. response code = 200
+2024-09-19 18:24:19,014 - INFO - rapidApi request /api/v1/hotels/searchDestination?query=wroclaw was sent. response code = 200
+2024-09-19 18:25:38,057 - INFO - rapidApi request /api/v1/hotels/getFilter was sent. response code = 200
+2024-09-19 19:03:00,334 - INFO - get_openai_content :  request The user has entered the following location: poprad. Classify this location as a 'city', 'country', 'district', or 'region'. was sent. response code = 200
+2024-09-19 19:04:26,596 - INFO - get_openai_content :  request The user has entered the following location: high tatras. Classify this location as a 'city', 'country', 'district', or 'region'. was sent. response code = 200
+2024-09-19 19:11:43,259 - INFO - get_openai_content :  request The user has entered the following location: high tatras slovakia. Classify this location as a 'city', 'country', 'district', or 'region'. was sent. response code = 200
+2024-09-19 19:19:47,539 - INFO - get_openai_content :  request The user has entered the following location: high tatras slovakia. Classify this location as a 'city', 'country', 'district', or 'region'. 
+            if answer is not unequivocal just say its 'area' and add also region if possible was sent. response code = 200
+2024-09-19 19:23:33,388 - INFO - get_openai_content :  request The user has entered the following location: south west poland. Classify this location as a 'city', 'country', 'district', or 'region'.  was sent. response code = 200
+2024-09-20 11:53:57,017 - INFO - get_openai_content :  request The user has entered the following location: south west poland. Classify this location as a 'city', 'country', 'district', or 'region'.  was sent. response code = 200
+2024-09-20 11:58:27,978 - INFO - new user session was created for user 6550133750
+2024-09-20 11:58:47,869 - INFO - Message ID: 89 From User ID: 6550133750 ; Message Text: jkhgjhg
+2024-09-20 12:01:20,454 - INFO - Message ID: 91 From User ID: 6550133750 ; Message Text: ghjgjhg
+2024-09-20 12:02:07,529 - INFO - Message ID: 93 From User ID: 6550133750 ; Message Text: hjhjh
+2024-09-20 12:03:17,266 - INFO - new user session was created for user 6550133750
+2024-09-20 12:03:51,848 - INFO - Message ID: 98 From User ID: 6550133750 ; Message Text: hgjgjhg
+2024-09-20 12:04:50,292 - INFO - Message ID: 100 From User ID: 6550133750 ; Message Text: hjhhjh
+2024-09-20 12:06:45,552 - INFO - Message ID: 101 From User ID: 6550133750 ; Message Text: hjhjh
+2024-09-20 12:07:33,755 - INFO - new user session was created for user 6550133750
+2024-09-20 12:07:53,903 - INFO - Message ID: 106 From User ID: 6550133750 ; Message Text: gtgtg
+2024-09-20 12:08:23,044 - INFO - Message ID: 108 From User ID: 6550133750 ; Message Text: jony
+2024-09-20 12:08:45,518 - INFO - Message ID: 110 From User ID: 6550133750 ; Message Text: hjhjh
+2024-09-20 12:09:09,850 - INFO - Message ID: 112 From User ID: 6550133750 ; Message Text: ghghg
+2024-09-20 12:09:20,937 - INFO - Message ID: 114 From User ID: 6550133750 ; Message Text: no
+2024-09-20 15:08:35,966 - INFO - get_place_details : types = ['locality', 'political'] formatted_address = Wroc\u0142aw, Poland
+2024-09-20 15:11:02,973 - INFO - get_place_details : types = ['administrative_area_level_1', 'political'] formatted_address = Lesser Poland Voivodeship, Poland
+2024-09-20 15:28:49,625 - INFO - get_place_details : types = ['geocode', 'locality', 'political']
+2024-09-20 15:30:39,254 - INFO - get_place_details : types = ['geocode', 'political', 'locality']
+2024-09-20 15:30:47,793 - INFO - get_place_details : types = ['geocode', 'political', 'locality']
+2024-09-20 15:42:46,367 - INFO - get_place_details : types = ['geocode', 'political', 'locality']
+2024-09-20 15:49:24,742 - INFO - get_place_details : types = ['geocode', 'administrative_area_level_1', 'political']
+2024-09-20 15:50:59,931 - INFO - get_place_details : types = ['geocode', 'political', 'locality']
+2024-09-20 16:26:43,850 - INFO - get_place_details : types = ['geocode', 'locality', 'political'] ; class = city
+2024-09-20 16:27:54,186 - INFO - get_place_details : types = ['health', 'tourist_attraction', 'spa', 'amusement_park', 'point_of_interest', 'establishment'] ; class = attraction
+2024-09-20 16:55:08,723 - INFO - get_place_details : types = ['geocode', 'political', 'locality'] ; class = city
+2024-09-20 16:55:08,928 - INFO - get_place_details : types = ['spa', 'establishment', 'point_of_interest', 'amusement_park', 'tourist_attraction', 'health'] ; class = attraction
+2024-09-20 16:56:18,354 - INFO - Message ID: 117 From User ID: 6550133750 ; Message Text: jkjkj
+2024-09-20 16:56:38,241 - INFO - new user session was created for user 6550133750
+2024-09-20 16:57:40,965 - INFO - Message ID: 122 From User ID: 6550133750 ; Message Text: poland
+2024-09-20 17:00:27,542 - INFO - Message ID: 124 From User ID: 6550133750 ; Message Text: gfgf
+2024-09-20 17:00:56,500 - INFO - new user session was created for user 6550133750
+2024-09-20 17:01:11,608 - INFO - Message ID: 129 From User ID: 6550133750 ; Message Text: poland
+2024-09-20 17:02:23,095 - INFO - Message ID: 130 From User ID: 6550133750 ; Message Text: gddgd
+2024-09-20 17:02:39,561 - INFO - new user session was created for user 6550133750
+2024-09-20 17:03:20,654 - INFO - Message ID: 135 From User ID: 6550133750 ; Message Text: poland
+2024-09-20 17:05:04,363 - INFO - Message ID: 137 From User ID: 6550133750 ; Message Text: tel aviv
+2024-09-20 17:14:21,433 - INFO - Message ID: 139 From User ID: 6550133750 ; Message Text: hjhjh
+2024-09-20 17:14:24,303 - INFO - new user session was created for user 6550133750
+2024-09-20 17:14:49,305 - INFO - Message ID: 144 From User ID: 6550133750 ; Message Text: poland
+2024-09-20 17:15:28,149 - INFO - Message ID: 146 From User ID: 6550133750 ; Message Text: tel aviv
+2024-09-20 17:31:07,668 - INFO - Message ID: 147 From User ID: 6550133750 ; Message Text: jkjkj
+2024-09-20 17:31:15,572 - INFO - new user session was created for user 6550133750
+2024-09-20 17:31:32,229 - INFO - Message ID: 152 From User ID: 6550133750 ; Message Text: poland
+2024-09-20 17:31:58,719 - INFO - Message ID: 154 From User ID: 6550133750 ; Message Text: tel aviv
+2024-09-20 17:44:11,103 - INFO - Message ID: 155 From User ID: 6550133750 ; Message Text: gfg
+2024-09-20 17:44:13,917 - INFO - new user session was created for user 6550133750
+2024-09-20 17:44:18,432 - INFO - Message ID: 160 From User ID: 6550133750 ; Message Text: poland
+2024-09-20 17:44:24,238 - INFO - Message ID: 162 From User ID: 6550133750 ; Message Text: tel aviv
+2024-09-21 10:54:52,884 - INFO - Message ID: 163 From User ID: 6550133750 ; Message Text: ghghg
+2024-09-21 10:56:21,900 - INFO - Message ID: 166 From User ID: 6550133750 ; Message Text: hi
+2024-09-21 10:56:25,713 - INFO - new user session was created for user 6550133750
+2024-09-21 10:58:02,580 - INFO - Message ID: 172 From User ID: 6550133750 ; Message Text: poland
+2024-09-21 12:09:00,485 - INFO - get_place_details : types = ['administrative_area_level_1', 'geocode', 'political'] ; class = unknown
+2024-09-21 12:10:23,222 - INFO - get_place_details : types = ['bus_station', 'transit_station', 'point_of_interest', 'establishment'] ; class = attraction
+2024-09-21 12:11:08,532 - INFO - get_place_details : types = ['establishment', 'point_of_interest'] ; class = attraction
+2024-09-21 13:06:26,967 - INFO - get_place_details : types = ['geocode', 'political', 'administrative_area_level_1'] ; class = district
+2024-09-21 13:12:16,471 - INFO - get_place_details : name = Lesser Poland Voivodeship, Poland types = ['political', 'geocode', 'administrative_area_level_1'] ; class = district
+2024-09-21 13:13:14,485 - INFO - get_place_details : name = Lesser Poland Bus Station (MDA Krakow), Bosacka, Krak\xf3w, Poland types = ['point_of_interest', 'establishment', 'bus_station', 'transit_station'] ; class = attraction
+2024-09-21 13:16:03,744 - INFO - get_place_details : name = Aleksander Rembielinski’s Palace, Ujazd\xf3w Avenue, Warsaw, Poland types = ['establishment', 'point_of_interest'] ; class = attraction
+2024-09-21 13:18:30,115 - INFO - get_place_details : name = Wroc\u0142aw, Poland types = ['political', 'geocode', 'locality'] ; class = city
+2024-09-21 13:21:09,370 - INFO - get_place_details : name = Wroc\u0142aw Nicolaus Copernicus Airport, Graniczna, Wroc\u0142aw, Poland types = ['establishment', 'point_of_interest', 'airport'] ; class = attraction
+2024-09-21 13:22:04,639 - INFO - get_place_details : name = Wroc\u0142awska, Krak\xf3w, Poland types = ['geocode', 'route'] ; class = unknown
+2024-09-21 13:22:30,571 - INFO - get_place_details : name = Wroc\u0142awska, Pozna\u0144, Poland types = ['route', 'geocode'] ; class = unknown
+2024-09-21 13:22:54,858 - INFO - get_place_details : name = Wroc\u0142awska Fontanna Multimedialna, Wystawowa, Wroc\u0142aw, Poland types = ['tourist_attraction', 'point_of_interest', 'park', 'establishment'] ; class = attraction
+2024-09-21 19:59:32,993 - INFO - get_place_details : name = Lesser Poland Voivodeship, Poland types = ['political', 'geocode', 'administrative_area_level_1'] ; class = district
+2024-09-21 22:09:58,092 - INFO - get_place_details : name = Lesser Poland Voivodeship, Poland types = ['administrative_area_level_1', 'political', 'geocode'] ; class = district
+2024-09-21 22:13:15,173 - INFO - get_place_details : name = Lesser Poland Voivodeship, Poland types = ['geocode', 'administrative_area_level_1', 'political'] ; class = district
+2024-09-21 22:13:55,345 - INFO - get_place_details : name = Wroc\u0142aw, Poland types = ['geocode', 'locality', 'political'] ; class = city
+2024-09-21 22:15:17,090 - INFO - get_place_details : name = Poland Workforce Sp. o.o. S. K. A., Nenckiego, Wroc\u0142aw, Poland types = ['point_of_interest', 'establishment'] ; class = attraction
+2024-09-21 22:17:02,363 - INFO - get_place_details : name = Tatra National Park, Poland, Ku\u017anice, Zakopane, Poland types = ['establishment', 'park', 'point_of_interest'] ; class = attraction
+2024-09-21 23:17:40,730 - INFO - rapidApi request /?days=8&destination=zakopane%2Cpoland was sent. response code = 200
+2024-09-21 23:18:20,137 - INFO - rapidApi request /?days=8&destination=zakopane%2Cpoland was sent. response code = 200
+2024-09-21 23:25:22,761 - INFO - get_openai_content :  request List up to 15 tourist attractions in Poprad, Slovakia. For each attraction, include only the name and type (e.g., urban, nature, historical) without any additional information was sent. response code = 200
+2024-09-21 23:27:45,148 - INFO - get_openai_content :  request List up to 15 tourist attractions in zakopane, poland. For each attraction, include only the name and type (e.g., urban, nature, historical) without any additional information was sent. response code = 200
+2024-09-21 23:37:31,320 - ERROR - get_proccessed_content -> can't find country in query. json file can't be saved
+2024-09-21 23:47:09,512 - INFO - Message ID: 174 From User ID: 6550133750 ; Message Text: hi
+2024-09-21 23:47:12,976 - INFO - new user session was created for user 6550133750
+2024-09-21 23:47:56,260 - INFO - Message ID: 180 From User ID: 6550133750 ; Message Text: poland
+2024-09-21 23:48:07,602 - INFO - Message ID: 182 From User ID: 6550133750 ; Message Text: krakow
+2024-09-21 23:50:02,307 - INFO - get_place_details : name = Krak\xf3w, Poland types = ['locality', 'geocode', 'political'] ; class = city
+2024-09-21 23:50:31,603 - INFO - get_place_details : name = Krakow Poland, Beach, near Ecr, Akkarai, Panaiyur, Chennai, Tamil Nadu, India types = ['point_of_interest', 'establishment', 'lodging'] ; class = attraction
+2024-09-21 23:58:47,748 - INFO - Message ID: 183 From User ID: 6550133750 ; Message Text: hi
+2024-09-21 23:58:51,524 - INFO - new user session was created for user 6550133750
+2024-09-21 23:58:58,486 - INFO - Message ID: 189 From User ID: 6550133750 ; Message Text: poland
+2024-09-21 23:59:10,598 - INFO - Message ID: 191 From User ID: 6550133750 ; Message Text: krakow
+2024-09-22 00:00:09,576 - INFO - Message ID: 192 From User ID: 6550133750 ; Message Text: jj
+2024-09-22 00:00:11,268 - INFO - new user session was created for user 6550133750
+2024-09-22 00:00:16,725 - INFO - Message ID: 198 From User ID: 6550133750 ; Message Text: poland
+2024-09-22 00:00:27,079 - INFO - Message ID: 200 From User ID: 6550133750 ; Message Text: krakow
+2024-09-22 00:01:09,440 - INFO - get_place_details : name = Krak\xf3w, Poland types = ['locality', 'geocode', 'political'] ; class = city
+2024-09-22 00:01:28,689 - INFO - get_place_details : name = Krakow Poland, Beach, near Ecr, Akkarai, Panaiyur, Chennai, Tamil Nadu, India types = ['establishment', 'point_of_interest', 'lodging'] ; class = city
+2024-09-22 00:03:00,029 - INFO - get_place_details : name = John Paul II International Airport Krak\xf3w-Balice, Kapitana Mieczys\u0142awa Medweckiego, Balice, Poland types = ['establishment', 'airport', 'point_of_interest'] ; class = airport
+2024-09-22 00:10:08,350 - INFO - Message ID: 201 From User ID: 6550133750 ; Message Text: hi
+2024-09-22 00:10:11,066 - INFO - new user session was created for user 6550133750
+2024-09-22 00:10:15,959 - INFO - Message ID: 207 From User ID: 6550133750 ; Message Text: poland
+2024-09-22 00:10:21,768 - INFO - Message ID: 209 From User ID: 6550133750 ; Message Text: krakow
+2024-09-22 00:17:06,193 - INFO - Message ID: 210 From User ID: 6550133750 ; Message Text: jj
+2024-09-22 00:17:08,951 - INFO - new user session was created for user 6550133750
+2024-09-22 00:17:13,310 - INFO - Message ID: 216 From User ID: 6550133750 ; Message Text: poland
+2024-09-22 00:17:18,224 - INFO - Message ID: 218 From User ID: 6550133750 ; Message Text: krakow
+2024-09-22 00:18:09,877 - ERROR - file {file_path} has corrupted row {row}. skipping...
+2024-09-22 00:19:13,582 - INFO - get_place_details : name = Krak\xf3w, Poland types = ['locality', 'geocode', 'political'] ; class = city
+2024-09-22 00:19:23,775 - INFO - get_place_details : name = Krakow Poland, Beach, near Ecr, Akkarai, Panaiyur, Chennai, Tamil Nadu, India types = ['establishment', 'lodging', 'point_of_interest'] ; class = city
+2024-09-22 00:19:36,078 - INFO - get_place_details : name = John Paul II International Airport Krak\xf3w-Balice, Kapitana Mieczys\u0142awa Medweckiego, Balice, Poland types = ['airport', 'point_of_interest', 'establishment'] ; class = city
+2024-09-22 00:20:56,440 - INFO - Message ID: 220 From User ID: 6550133750 ; Message Text: 1
+2024-09-22 00:36:09,545 - INFO - Message ID: 221 From User ID: 6550133750 ; Message Text: hi
+2024-09-22 00:36:11,873 - INFO - new user session was created for user 6550133750
+2024-09-22 00:36:16,463 - INFO - Message ID: 227 From User ID: 6550133750 ; Message Text: poland
+2024-09-22 00:36:23,618 - INFO - Message ID: 229 From User ID: 6550133750 ; Message Text: krakow
+2024-09-22 00:36:30,256 - ERROR - file ./data/poland/destinations.csv has corrupted row []. skipping...
+2024-09-22 00:37:58,053 - INFO - Message ID: 231 From User ID: 6550133750 ; Message Text: 1
+2024-09-22 00:38:46,810 - INFO - get_openai_content :  request List up to 15 tourist attractions in krakow, Poland. For each attraction, include only the name and type (e.g., urban, nature, historical) without any additional information was sent. response code = 200
+2024-09-22 00:41:21,680 - INFO - Message ID: 233 From User ID: 6550133750 ; Message Text: 2
+2024-09-22 00:51:48,553 - INFO - Message ID: 235 From User ID: 6550133750 ; Message Text: hi
+2024-09-22 00:51:57,360 - INFO - new user session was created for user 6550133750
+2024-09-22 00:52:02,085 - INFO - Message ID: 241 From User ID: 6550133750 ; Message Text: poland
+2024-09-22 00:52:07,119 - INFO - Message ID: 243 From User ID: 6550133750 ; Message Text: krakow
+2024-09-22 00:52:11,756 - ERROR - file ./data/poland/destinations.csv has corrupted row []. skipping...
+2024-09-22 00:53:06,760 - INFO - Message ID: 246 From User ID: 6550133750 ; Message Text: 1
+2024-09-22 00:54:01,126 - INFO - Message ID: 249 From User ID: 6550133750 ; Message Text: 2
+2024-09-22 00:54:32,845 - ERROR - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message text is empty
+2024-09-22 00:54:32,848 - ERROR - Exception traceback:
+Traceback (most recent call last):
+  File "c:\Naya\Python projects\rapid-api\.venv\Lib\site-packages\telebot\__init__.py", line 1226, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "c:\Naya\Python projects\rapid-api\.venv\Lib\site-packages\telebot\util.py", line 150, in raise_exceptions
+    raise self.exception_info
+  File "c:\Naya\Python projects\rapid-api\.venv\Lib\site-packages\telebot\util.py", line 93, in run
+    task(*args, **kwargs)
+  File "c:\Naya\Python projects\rapid-api\.venv\Lib\site-packages\telebot\__init__.py", line 8822, in _run_middlewares_and_handler
+    result = handler['function'](message)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Naya\Python projects\rapid-api\my_bot.py", line 81, in handle_response
+    if response:
+  File "c:\Naya\Python projects\rapid-api\.venv\Lib\site-packages\telebot\__init__.py", line 5729, in reply_to
+    return self.send_message(message.chat.id, text, reply_parameters=reply_parameters, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Naya\Python projects\rapid-api\.venv\Lib\site-packages\telebot\__init__.py", line 1766, in send_message
+    apihelper.send_message(
+  File "c:\Naya\Python projects\rapid-api\.venv\Lib\site-packages\telebot\apihelper.py", line 273, in send_message
+    return _make_request(token, method_url, params=payload, method='post')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Naya\Python projects\rapid-api\.venv\Lib\site-packages\telebot\apihelper.py", line 168, in _make_request
+    json_result = _check_result(method_name, result)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Naya\Python projects\rapid-api\.venv\Lib\site-packages\telebot\apihelper.py", line 195, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message text is empty
+
