@@ -1,0 +1,1012 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AXCi2Q5xwHwWWQuUcy4AuTfRy4y2oHz9pFwaa0gpbYRLyX1QfyWGPatmwntbCav413I_OIt-DmvHVzBbWI3oouSdJArrhDPwo41ZuT73FbOlmaRHLdvQDRkbKjua-lEAJbd219mxnBQPtKi2aA_hC-DufffH4XW0Gc9A6ZQwdxXI1yfIshyZcDe9H9WipzF-IHBkja7qoSYxJgZ4_WlgbUaB8jm3KQ1kRLVjAI2rJdkEftHnbSAqjft4YHO22VmBi1pMKbSKf4ACnu1fhOPMy6XpHwpnonuTlUBO0PlnCF6321TF23xq_q7PXk1e89i-May6jb7nBLOsyTZHThZ-Kum0-A0DtgBKtNzv0mC2aOxkmAzZob7vjSaG4FGKIF_zRZ7yrJvwUAXzM9yoY1M_rJMCAneTzH8lNJSZ4tAOIkR5RvDrXbqD5CFpyw",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "K\u00fape\u013en\u00e1 6, 059 85 Vysok\u00e9 Tatry-\u0160trbsk\u00e9 Pleso, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.1193343,
+                    "lng": 20.0590182
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.12061567989272,
+                        "lng": 20.06034242989272
+                    },
+                    "southwest": {
+                        "lat": 49.11791602010728,
+                        "lng": 20.05764277010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Grand Hotel Kempinski High Tatras",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105098066230946670968\">Grand Hotel Kempinski High Tatras</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5DoPqy9ZtOg0GvOyAY43d_DnQjwDVXaMiY9HrGdRsFuYtdPt97KTdofWO232BoQ1TWBqfONslLjtUvcqBvdgo2NTz4Oip-YuevSZ_dajmBgki5FlWQ1Wipt7mM5JVqb9CYPD5oGTOFGcS0e5UETtAfuM1SjEiZEgm7-_XT2DTSmzks",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJH0H2Q4MnPkcRSCwsDJsNsyw",
+            "plus_code": {
+                "compound_code": "4395+PJ Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX24395+PJ"
+            },
+            "rating": 4.7,
+            "reference": "ChIJH0H2Q4MnPkcRSCwsDJsNsyw",
+            "types": [
+                "spa",
+                "lodging",
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 1844
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Star\u00fd Smokovec 25, 062 01 Vysok\u00e9 Tatry-Star\u00fd Smokovec, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.1388341,
+                    "lng": 20.2242454
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.14017287989272,
+                        "lng": 20.22560252989272
+                    },
+                    "southwest": {
+                        "lat": 49.13747322010727,
+                        "lng": 20.22290287010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "High Tatras - Accommodation",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104413449948761107395\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q61yypwFAkyDpKn3t_tt93lYwwHIu5VEbDWAuzervhuev-O5I7HAWBQLbOnc1aO3mM6eBC7508o828b4WDIonXWZ2n76r6SeOIEknkhhTcdL4gQL0fEko4UMOVZtRtwA0Ic7cUvcFFxL9-rGOLHSha2rhRoemf2NjjmZalla1a5_mrz",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJZ_m2vfYjPkcR9eUNyHPSM40",
+            "plus_code": {
+                "compound_code": "46QF+GM Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX246QF+GM"
+            },
+            "rating": 4.8,
+            "reference": "ChIJZ_m2vfYjPkcR9eUNyHPSM40",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Star\u00fd Smokovec 38, 062 01 Vysok\u00e9 Tatry-Star\u00fd Smokovec, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.1408168,
+                    "lng": 20.2215439
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.14228472989272,
+                        "lng": 20.22307402989272
+                    },
+                    "southwest": {
+                        "lat": 49.13958507010728,
+                        "lng": 20.22037437010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Grand Hotel Stary Smokovec",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110854060898791825368\">Grandhotel Star\u00fd Smokovec</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7-hrVc88FD1aL8zFzOlwOwPk5KfAXhV49W6UwrdxzkWNM8SxHsTxA7ltB3ICrhpT0LWFmeOD39fFlyMXZU4YdCfOY3Ux57f6rKidlyaiy15q-QKy-JOUyC93hEcm9ZM8BX81kRMepdqUp2mFOVtGqj12wdv45Sh2bwOZ1snR66a3pL",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJO8xwqvcjPkcRSfk53L1WtFk",
+            "plus_code": {
+                "compound_code": "46RC+8J Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX246RC+8J"
+            },
+            "rating": 4.6,
+            "reference": "ChIJO8xwqvcjPkcRSfk53L1WtFk",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1658
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Tatransk\u00e1 Lomnica 8, 059 60 Vysok\u00e9 Tatry-Tatransk\u00e1 Lomnica, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.1698,
+                    "lng": 20.280179
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.17120217989272,
+                        "lng": 20.28153732989272
+                    },
+                    "southwest": {
+                        "lat": 49.16850252010727,
+                        "lng": 20.27883767010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Grandhotel Praha Tatransk\u00e1 Lomnica",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102984476109570525906\">Grandhotel Praha</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4vEX-KNqGExMx_4YZoZtegUXPRf_pgDeYOl25el7FBvR0eEZx-p3mLKoU7TyEII5wiMTSFB4uWf-nutnMOCgkJDYOkFcHToIMSoi9SOFpsNPcGG0qcbH7JrrWH9EKPCbIL7RAKcHkSr3PWs_1-Yb4s98m9i78GKxNBtD3gV8XSoSrv",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJyendiqsjPkcRJt6glqleANI",
+            "plus_code": {
+                "compound_code": "579J+W3 Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX2579J+W3"
+            },
+            "rating": 4.6,
+            "reference": "ChIJyendiqsjPkcRJt6glqleANI",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2505
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Popradsk\u00e9 Pleso, \u0160trbsk\u00e9 Pleso, 059 85 Vysok\u00e9 Tatry, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.155012,
+                    "lng": 20.07992
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.15636182989272,
+                        "lng": 20.08126982989272
+                    },
+                    "southwest": {
+                        "lat": 49.15366217010727,
+                        "lng": 20.07857017010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Mountain hotel Popradsk\u00e9 pleso",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110774743389572624308\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6WQ6lZvuCe0CdldF9T7bFxDcAgAyAJifEocmqn03XqefOzdMjY4KQmXH7TS9iJfVBa_iMKM8lG6xCM6LpYE4HmrUEvi6ZlxKL35nCo2ucPu9fF6w3-Kupg6xd5W7XKrIKTjYnbsMXr8gYvXXg2jsyXAqlH8l-_TTpMEAz2oah1ii6U",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJq6qqvv2JFUcRIgvrpqzSNQ4",
+            "plus_code": {
+                "compound_code": "534H+2X Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX2534H+2X"
+            },
+            "rating": 4.4,
+            "reference": "ChIJq6qqvv2JFUcRIgvrpqzSNQ4",
+            "types": [
+                "lodging",
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 1787
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "\u0160trbsk\u00e9 Pleso 33, 059 85 Vysok\u00e9 Tatry-\u0160trbsk\u00e9 Pleso, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.1244727,
+                    "lng": 20.0612118
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.12589847989272,
+                        "lng": 20.06262677989272
+                    },
+                    "southwest": {
+                        "lat": 49.12319882010728,
+                        "lng": 20.05992712010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Wellness Hotel Patria",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 339,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108940640338948890370\">Hotel Patria ****</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7HzvY2zZ56RQOGtnPCUvvMtGtUlYdGfnuN017ERbQIjyi6bcMxhD2GQTZ5VGwzSQRMKpJibC4H54r8ZvMpn9pi6v-7kfvh99COwZXEnKRBO-b2hHXM3vDgS2Uit0WMT9DTjRLTg0GY0YhdR2d0xms8AbGRiKxJGmzXgnKp-9Fe8VUM",
+                    "width": 421
+                }
+            ],
+            "place_id": "ChIJIcFyK34nPkcRV2RW4j46WIU",
+            "plus_code": {
+                "compound_code": "43F6+QF Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX243F6+QF"
+            },
+            "rating": 4.5,
+            "reference": "ChIJIcFyK34nPkcRV2RW4j46WIU",
+            "types": [
+                "spa",
+                "lodging",
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 2488
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "\u0160trbsk\u00e9 Pleso, 059 85 Vysok\u00e9 Tatry-\u0160trbsk\u00e9 Pleso, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.1443765,
+                    "lng": 20.0405334
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.14572632989272,
+                        "lng": 20.04188322989272
+                    },
+                    "southwest": {
+                        "lat": 49.14302667010728,
+                        "lng": 20.03918357010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "COTTAGE Solisko 1840 m asl",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 576,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112789178101963394328\">CHATA POD SOLISKO 1840 m.n.m</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7ht5oMsrfaTrJYUV2xUyxBH6srzCiNvZg8trUI3jl7OVf6oZq3Ia7yYak-62L0KjDxpUuLN8lmWVkUBU2_c5E3QWRF2QE6PCwh5ZCKCOl5UdIKmK7MKsc6wOrOgUr43dFEwNaoy4de6gjsmS9EBrB6yRw2qcayTDXiNTYKd_imRwN1",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJs5yjrr-JFUcRXPL1HQw_xDA",
+            "plus_code": {
+                "compound_code": "42VR+Q6 Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX242VR+Q6"
+            },
+            "rating": 4.7,
+            "reference": "ChIJs5yjrr-JFUcRXPL1HQw_xDA",
+            "types": [
+                "tourist_attraction",
+                "lodging",
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 5632
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Tatransk\u00e1 Lomnica 92, 059 60 Vysok\u00e9 Tatry-Tatransk\u00e1 Lomnica, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.1657283,
+                    "lng": 20.2802877
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.16708427989271,
+                        "lng": 20.28141082989272
+                    },
+                    "southwest": {
+                        "lat": 49.16438462010727,
+                        "lng": 20.27871117010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Lomnica",
+            "photos": [
+                {
+                    "height": 5200,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111132729412212692592\">Hotel Lomnica</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4EhHNKktGDVeBOni_Fp85KHt0qwnGeolpO4RO2mUoeEQLLu8g7ye6sFuzGxjYGiM5ZIeoNRnX7L-8ORi1nt957yBhWyIcPE0iNHpS4xnqwuAup1E_0G_i1khpaiZ-BmOQgosYGpifCdFm773DFxbEFpNaKqNSYDdZLtJyO2Zsa9Dq8",
+                    "width": 8256
+                }
+            ],
+            "place_id": "ChIJnbxvrqojPkcRYgXvXBrVYs8",
+            "plus_code": {
+                "compound_code": "578J+74 Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX2578J+74"
+            },
+            "rating": 4.8,
+            "reference": "ChIJnbxvrqojPkcRYgXvXBrVYs8",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1367
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Tatransk\u00e1 polianka 32, 062 01 Vysok\u00e9 Tatry, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.1560822,
+                    "lng": 20.15658
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.15743202989272,
+                        "lng": 20.15792982989272
+                    },
+                    "southwest": {
+                        "lat": 49.15473237010728,
+                        "lng": 20.15523017010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Sliezsky Dom",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102209158721474259851\">Horsk\u00fd Hotel Sliezsky dom</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5sfCdPPUpcR8kzrcuBLt6RIp9nIDuHZuj5HqwTjJY_exxPLPZa1YZylTXmgs4n2JW7GbfihxRS3exlAyn3-jfWIpzJFQJoIPmiT9-ebU_SA9f4w_nIiRaoVo8ZmYEJS2XYbHkeRGsn1G9gtgjOFMVUXWPZ2nzk2p1vJUUkejvb_Bes",
+                    "width": 1500
+                }
+            ],
+            "place_id": "ChIJWziFRi8hPkcRMLnsopJGthg",
+            "plus_code": {
+                "compound_code": "5544+CJ Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX25544+CJ"
+            },
+            "rating": 4.6,
+            "reference": "ChIJWziFRi8hPkcRMLnsopJGthg",
+            "types": [
+                "spa",
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3708
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Cyrhla 19d, 34-500 Zakopane, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 49.2919985,
+                    "lng": 20.01936
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.29339447989272,
+                        "lng": 20.02064067989272
+                    },
+                    "southwest": {
+                        "lat": 49.29069482010728,
+                        "lng": 20.01794102010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Slow Tatry Boutique Resort",
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112752607682372251549\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6tW8E8ald8x7HrPCRkipgbKXTZxv61Rrcg9Y_VWUU4AZ-XkvUoRdXlyuIEpeah3Hce32wjv-oTV_kKVGXLjWRDC1K5jJ5cv28akPtxiAir8G1GIUhg8pxRIfDdNfGgAbOGSSn-Tsbbo1cY_ovOzs0i3PifBeExGcfjSbTcwc84Ccdl",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJJ_zZrzTzFUcRgLnyXmDgmRY",
+            "plus_code": {
+                "compound_code": "72R9+QP Zakopane, Poland",
+                "global_code": "8GX272R9+QP"
+            },
+            "rating": 4.9,
+            "reference": "ChIJJ_zZrzTzFUcRgLnyXmDgmRY",
+            "types": [
+                "spa",
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 195
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "\u0160trbsk\u00e9 Pleso 4020, 059 85 Vysok\u00e9 Tatry-\u0160trbsk\u00e9 Pleso, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.1179091,
+                    "lng": 20.0611585
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.11922822989273,
+                        "lng": 20.06254617989272
+                    },
+                    "southwest": {
+                        "lat": 49.11652857010728,
+                        "lng": 20.05984652010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Panorama Resort",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1644,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108357741825319329606\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4cgePiTy1JfB_TLK3pGguqtDg1HQSD361CtV6fgwPKyTyMzenVz_1VdjeVYznsRMOZIZZ4Pv4srVCvO3rWc0TejgpLGFCGBowLHTnFBHsKjviMd1QoWLy_z2ixKRkNqPGlZVYIjDnuUSS0qN2nziVp8Yr6DgNwipJ6tb47eldlYCZ1",
+                    "width": 2463
+                }
+            ],
+            "place_id": "ChIJsclh94AnPkcR9HtW6aeEzKQ",
+            "plus_code": {
+                "compound_code": "4396+5C Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX24396+5C"
+            },
+            "rating": 4.6,
+            "reference": "ChIJsclh94AnPkcR9HtW6aeEzKQ",
+            "types": [
+                "bar",
+                "spa",
+                "lodging",
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 1269
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Hrebienok, 062 01 Vysok\u00e9 Tatry-Star\u00fd Smokovec, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.16004299999999,
+                    "lng": 20.2243621
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.16139282989271,
+                        "lng": 20.22571192989272
+                    },
+                    "southwest": {
+                        "lat": 49.15869317010726,
+                        "lng": 20.22301227010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Bil\u00edkova Chata",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3397,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111226001466730920657\">Robert Gyenes</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6COAXCCaSglCmcR7rB4xIdFWTYasxXD705M9ivYPXWPoy1Q4LHEat3mgUe2m9S9DU0-_-R9cZol1QbxHdoWKJh6wepyUHJHxWZWenD5rvlSmK_IvfpF7t62ilTMrqQ38NFzlW4jeAFt5y7PSIjAEhbxCRj2wcFyyy_yKgY_dC0lqGG",
+                    "width": 5115
+                }
+            ],
+            "place_id": "ChIJWSxdcNwjPkcRra5TvoqiZ7E",
+            "plus_code": {
+                "compound_code": "566F+2P Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX2566F+2P"
+            },
+            "rating": 4.6,
+            "reference": "ChIJWSxdcNwjPkcRra5TvoqiZ7E",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1605
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Star\u00fd Smokovec 18095, 062 01 Vysok\u00e9 Tatry-Star\u00fd Smokovec, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.1410069,
+                    "lng": 20.2194317
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.14239507989272,
+                        "lng": 20.22075067989272
+                    },
+                    "southwest": {
+                        "lat": 49.13969542010727,
+                        "lng": 20.21805102010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "TATRA SUITES Luxury Studio A305",
+            "photos": [
+                {
+                    "height": 3448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116191666940867600641\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6LjeHLtvZWLW6lAGUZA1oO269Glcg3y6rVk0-rAJ1W5mH9YABLoLpIiaGiDVka42bASqvwPoSLqz02HZQnm4Z0w7oYQ_5Oo_Sgyv79d5NPpcLxWTLznq8s0FVLB0jyiXRdWsbeo_9b41C1pSrRc0Vah4tfmhwRpSzkhwHUMow-9JN1",
+                    "width": 4592
+                }
+            ],
+            "place_id": "ChIJsa09ka4jPkcRY_AxDBklafo",
+            "plus_code": {
+                "compound_code": "46R9+9Q Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX246R9+9Q"
+            },
+            "rating": 4.8,
+            "reference": "ChIJsa09ka4jPkcRY_AxDBklafo",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 42
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "M\u00f3ryho 4014/6, 059 85 Vysok\u00e9 Tatry-\u0160trbsk\u00e9 Pleso, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.1162054,
+                    "lng": 20.0617727
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.11761027989272,
+                        "lng": 20.06323822989272
+                    },
+                    "southwest": {
+                        "lat": 49.11491062010728,
+                        "lng": 20.06053857010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Vila Polar",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110947463058835528727\">Vila Polar</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4K7efh39njlMZsq042xpsyG7ZCJmyg5sckI7Nn6nsbJMC8rJnfX6S56RYwF6_tMIljODBQcNsMUfudKGm8QyexpaNng1QJPNkdhUXMBh_F5FIheaW7ieX-koU1R-YMIn9rdaXV0izVB9iJe59_jKcvIS6bpXclfQxhKhyGRRvcdfxW",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJRZV1rYYnPkcR7Ohln79u9yE",
+            "plus_code": {
+                "compound_code": "4386+FP Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX24386+FP"
+            },
+            "rating": 4.9,
+            "reference": "ChIJRZV1rYYnPkcR7Ohln79u9yE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 203
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dem\u00e4novsk\u00e1 Dolina 71, 031 01 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 48.9705429,
+                    "lng": 19.5806266
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 48.97174892989272,
+                        "lng": 19.58170077989272
+                    },
+                    "southwest": {
+                        "lat": 48.96904927010728,
+                        "lng": 19.57900112010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Grand Jasn\u00e1",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2840,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108880383013120606040\">Hotel Grand Jasna</a>"
+                    ],
+                    "photo_reference": "AXCi2Q53nemM2pf1vr3qYexnCrjDpb5ICsjeCDvH49BdIJ1vfKhYe48wRc4xBR5V7bqNogTY6_B_hWtohEN9Ib00FbtdPr6eVBIt1KobQABvumQ71o0rlK9ScqLFZ2RSEyUCQcCtpJd4Bo9oLBykHW24jnaYz0_AU7_yYEHCD7GJMuGRSF7y",
+                    "width": 4256
+                }
+            ],
+            "place_id": "ChIJta6LVXF2FUcRkbMhYA-C19s",
+            "plus_code": {
+                "compound_code": "XHCJ+66 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+                "global_code": "8FWXXHCJ+66"
+            },
+            "rating": 4.4,
+            "reference": "ChIJta6LVXF2FUcRkbMhYA-C19s",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2251
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Szentiv\u00e1nyho 4078/11, 059 38 Vysok\u00e9 Tatry-\u0160trbsk\u00e9 Pleso, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.11902140000001,
+                    "lng": 20.0633521
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.12039807989272,
+                        "lng": 20.06473697989272
+                    },
+                    "southwest": {
+                        "lat": 49.11769842010727,
+                        "lng": 20.06203732010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Crocus | \u0160trbsk\u00e9 Pleso",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1266,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100046095862246529364\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7r3NZJ8k0NyeCtJU8y05c7bnUUFOmFMxAfsLznBjbg4ptOM6-Cx2RvH4hZcyLyIXF-ay-CJaKYx6eaab6ShyqRATzzzcwCEtuXGwp8C5wfgKlahP2tbuKeUnOWfRD_Zf7t1Q-Yh1o0-zDq6VY3Kugrq5WZjrubuwp78gfdnKjo_Pjl",
+                    "width": 1899
+                }
+            ],
+            "place_id": "ChIJ3Ur3YIMnPkcRPcUTJes07Wo",
+            "plus_code": {
+                "compound_code": "4397+J8 Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX24397+J8"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ3Ur3YIMnPkcRPcUTJes07Wo",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 783
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Star\u00e1 Lesn\u00e1 180, 059 52 Star\u00e1 Lesn\u00e1, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.1509042,
+                    "lng": 20.285787
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.15219242989272,
+                        "lng": 20.28719587989272
+                    },
+                    "southwest": {
+                        "lat": 49.14949277010728,
+                        "lng": 20.28449622010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Kontakt Wellness Hotel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4912,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117457887348353224760\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q74iMkl7F9WHHMTSu-KfNDLDm7heejMQWXqLxrvkM_l0n-IMrwhwDPZzle_WX_iEcgH5UNyJ6XfMYajFj3CntLI920hWrtPTlxrgthq-l529S3fjfsLLu4zLtEe-uTcloEkQXilGOM988t126jpwhrfxdBfGB9JYLHetjN10ngxn4qH",
+                    "width": 7360
+                }
+            ],
+            "place_id": "ChIJ7ajdoacjPkcRVdNVYhZ7XPY",
+            "plus_code": {
+                "compound_code": "572P+98 Star\u00e1 Lesn\u00e1, Slovakia",
+                "global_code": "8GX2572P+98"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ7ajdoacjPkcRVdNVYhZ7XPY",
+            "types": [
+                "spa",
+                "lodging",
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 882
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "K Vodop\u00e1dom 4028/26, 059 85 Vysok\u00e9 Tatry-\u0160trbsk\u00e9 Pleso, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.1286684,
+                    "lng": 20.0610709
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.12995247989272,
+                        "lng": 20.06238982989272
+                    },
+                    "southwest": {
+                        "lat": 49.12725282010727,
+                        "lng": 20.05969017010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel FIS",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 990,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109519200029308701243\">FIS</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7JOGWXPz_SkGCrpA71ShWMdO1txe9RIAVck0H_yuRRx0Z-BajIALszWbKx5QvHbKnyvUxeD-kw1X-fdILWSYByAwD6bWbAb2Z6bAK2ILwkciqUeBpbo7nJJKxL0Q5k9-DiAjWd5Ew_C6pFVD3FB0JA-GKu8tGlc_O_yq11OC12AugT",
+                    "width": 2000
+                }
+            ],
+            "place_id": "ChIJR-GdRNaJFUcRyEUTyuPtvCA",
+            "plus_code": {
+                "compound_code": "43H6+FC \u0160trbsk\u00e9 Pleso, Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX243H6+FC"
+            },
+            "rating": 4.4,
+            "reference": "ChIJR-GdRNaJFUcRyEUTyuPtvCA",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1574
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Tatransk\u00e1 Lomnica - Eurocamp 202, 059 60 Vysok\u00e9 Tatry, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.1590204,
+                    "lng": 20.3093219
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.16037022989272,
+                        "lng": 20.31067172989272
+                    },
+                    "southwest": {
+                        "lat": 49.15767057010728,
+                        "lng": 20.30797207010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Tatranec",
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108997035562753225287\">Nem clickbate-es vide\u00f3k</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5uswAW7wp5FMSfyVLoWNGExucsDPuk6OdoMnT2fHEUGxVMRNz5TJslmo2m0G5IczHTIXDBHfo-hAt2AuFLjysouVoWcm_X_2cAxuwJj2DrjBuoiqS9YMl7tePeGfiPdtcSV7I9JosOyLEq96Kmq-y7IULtNHRAkmog2szyoiS-7mhO",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJkaF0NyAjPkcRg0FM5a6ch4Q",
+            "plus_code": {
+                "compound_code": "5855+JP Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX25855+JP"
+            },
+            "rating": 3.9,
+            "reference": "ChIJkaF0NyAjPkcRg0FM5a6ch4Q",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 387
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Nov\u00fd Smokovec 19258, 062 01 Vysok\u00e9 Tatry-Star\u00fd Smokovec, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.13911,
+                    "lng": 20.2159427
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.14038417989272,
+                        "lng": 20.21741902989272
+                    },
+                    "southwest": {
+                        "lat": 49.13768452010728,
+                        "lng": 20.21471937010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "APLEND Vila Ol\u00edvia",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2832,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109389268090444299867\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7gbppvASDXd6FpRD6AEb3AWVYRazsAXd5fqk10CiHd1CPjQg3dLWMVNSXgvlTuc74JzBexcO45cJHYx9LYq8OacCf2iHHSUudvfy_OcZrnUjnNTgMRV64eIJZqYd-s_zrkum3OXv7z8yiD67Ne8kBlLyZC-kU34oO0AKPi6T1kqf4r",
+                    "width": 4256
+                }
+            ],
+            "place_id": "ChIJw9uIDfcjPkcRMfGd9WtMqTo",
+            "plus_code": {
+                "compound_code": "46Q8+M9 Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX246Q8+M9"
+            },
+            "rating": 4.8,
+            "reference": "ChIJw9uIDfcjPkcRMfGd9WtMqTo",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 221
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,216 @@
+{
+    "predictions": [
+        {
+            "description": "High Tatras, Vysok\u00e9 Tatry, Slovakia",
+            "matched_substrings": [
+                {
+                    "length": 11,
+                    "offset": 0
+                },
+                {
+                    "length": 8,
+                    "offset": 27
+                }
+            ],
+            "place_id": "ChIJ29ORAcQgPkcRMmbvpqLLqjY",
+            "reference": "ChIJ29ORAcQgPkcRMmbvpqLLqjY",
+            "structured_formatting": {
+                "main_text": "High Tatras",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 11,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Vysok\u00e9 Tatry, Slovakia",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 8,
+                        "offset": 14
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "High Tatras"
+                },
+                {
+                    "offset": 13,
+                    "value": "Vysok\u00e9 Tatry"
+                },
+                {
+                    "offset": 27,
+                    "value": "Slovakia"
+                }
+            ],
+            "types": [
+                "establishment",
+                "natural_feature"
+            ]
+        },
+        {
+            "description": "High Tatras - Accommodation, Star\u00fd Smokovec, Vysok\u00e9 Tatry-Star\u00fd Smokovec, Slovakia",
+            "matched_substrings": [
+                {
+                    "length": 11,
+                    "offset": 0
+                },
+                {
+                    "length": 8,
+                    "offset": 74
+                }
+            ],
+            "place_id": "ChIJZ_m2vfYjPkcR9eUNyHPSM40",
+            "reference": "ChIJZ_m2vfYjPkcR9eUNyHPSM40",
+            "structured_formatting": {
+                "main_text": "High Tatras - Accommodation",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 11,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Star\u00fd Smokovec, Vysok\u00e9 Tatry-Star\u00fd Smokovec, Slovakia",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 8,
+                        "offset": 45
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "High Tatras - Accommodation"
+                },
+                {
+                    "offset": 29,
+                    "value": "Star\u00fd Smokovec"
+                },
+                {
+                    "offset": 45,
+                    "value": "Vysok\u00e9 Tatry"
+                },
+                {
+                    "offset": 58,
+                    "value": "Star\u00fd Smokovec"
+                },
+                {
+                    "offset": 74,
+                    "value": "Slovakia"
+                }
+            ],
+            "types": [
+                "establishment",
+                "point_of_interest",
+                "lodging"
+            ]
+        },
+        {
+            "description": "Accomodation High Tatras, Vy\u0161n\u00e1, Va\u017eec, Slovakia",
+            "matched_substrings": [
+                {
+                    "length": 11,
+                    "offset": 13
+                },
+                {
+                    "length": 8,
+                    "offset": 40
+                }
+            ],
+            "place_id": "ChIJW9a8P5yHFUcR0cs8bVFxq4w",
+            "reference": "ChIJW9a8P5yHFUcR0cs8bVFxq4w",
+            "structured_formatting": {
+                "main_text": "Accomodation High Tatras",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 11,
+                        "offset": 13
+                    }
+                ],
+                "secondary_text": "Vy\u0161n\u00e1, Va\u017eec, Slovakia",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 8,
+                        "offset": 14
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Accomodation High Tatras"
+                },
+                {
+                    "offset": 26,
+                    "value": "Vy\u0161n\u00e1"
+                },
+                {
+                    "offset": 33,
+                    "value": "Va\u017eec"
+                },
+                {
+                    "offset": 40,
+                    "value": "Slovakia"
+                }
+            ],
+            "types": [
+                "establishment",
+                "point_of_interest",
+                "lodging"
+            ]
+        },
+        {
+            "description": "Apartment High Tatras, Ve\u013ek\u00fd Slavkov, Slovakia",
+            "matched_substrings": [
+                {
+                    "length": 11,
+                    "offset": 10
+                },
+                {
+                    "length": 8,
+                    "offset": 38
+                }
+            ],
+            "place_id": "ChIJteCBCn4lPkcRgHMs59UT1aM",
+            "reference": "ChIJteCBCn4lPkcRgHMs59UT1aM",
+            "structured_formatting": {
+                "main_text": "Apartment High Tatras",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 11,
+                        "offset": 10
+                    }
+                ],
+                "secondary_text": "Ve\u013ek\u00fd Slavkov, Slovakia",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 8,
+                        "offset": 15
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Apartment High Tatras"
+                },
+                {
+                    "offset": 23,
+                    "value": "Ve\u013ek\u00fd Slavkov"
+                },
+                {
+                    "offset": 38,
+                    "value": "Slovakia"
+                }
+            ],
+            "types": [
+                "lodging",
+                "establishment",
+                "point_of_interest"
+            ]
+        }
+    ],
+    "status": "OK"
+}

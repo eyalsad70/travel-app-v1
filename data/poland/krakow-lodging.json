@@ -1,0 +1,989 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AXCi2Q7tJbm18gSbNo7CAcDF8elzRJcCLUfdU5Jo20OYYlSRzSz57t5sjZrPB1p6B8_Ves-8DvVObth7Xh45DTVAe3-pigTT8EBTXoCcbX0ckEFXPmUz276hcX6Jxp6UytUnw4AJnFLHizmJFvZD1jK6diIBbRGNT0bARWPfZPPL9eZux_a0QCjjTUSDtIum3-UdNGp3V5kCLst6QEeS568uBGwVYXvY59derWlNtc-mjpBOu5IfOcL-Xxuw1wci3tGWTkU0t6HP1LaqoWe_w0-vXTG_0sR6XNiNo-sp5EzqYlqIyA2Tt5lHxFiG8kvQhini726-p8D6tg45j11VQT2daP6g2aVfnS2c5QWeXcb8PPHD1xBZC4tL4IXIf_6Cw8Ls_42rI87mDY-yo9dPSzv2HlfsW6--V1efAoIirS-O20K9",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "\u015awi\u0119tego Jana 15, 31-017 Krak\u00f3w, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 50.064346,
+                    "lng": 19.939594
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 50.06571112989273,
+                        "lng": 19.94089867989272
+                    },
+                    "southwest": {
+                        "lat": 50.06301147010728,
+                        "lng": 19.93819902010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "H15 Palace Hotel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4155,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102692235237883964089\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5qHnjhiFjrhWp5osVCWRINJBp8SDxUEd7ZUxFFBnsBY0iBkwOJq6-N5DzqIt63QUGrvnYjbdPD6Hv0fLNscUrBcVziLvyY8GBZ3pbI698n5CITDDNsqt6lFdH7q6TdlTFsuGJeOEkVH93oFGbTGiVGdREeUHZ0Lq4eDDwtu9YSRmi1",
+                    "width": 6233
+                }
+            ],
+            "place_id": "ChIJt9c30Q9bFkcRhF5pRjb9nFs",
+            "plus_code": {
+                "compound_code": "3W7Q+PR Krak\u00f3w, Poland",
+                "global_code": "9F2X3W7Q+PR"
+            },
+            "rating": 4.8,
+            "reference": "ChIJt9c30Q9bFkcRhF5pRjb9nFs",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 372
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "plac Jana Matejki 8, 31-157 Krak\u00f3w, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 50.0670929,
+                    "lng": 19.9431039
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 50.06843237989272,
+                        "lng": 19.94430897989272
+                    },
+                    "southwest": {
+                        "lat": 50.06573272010728,
+                        "lng": 19.94160932010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Matejko",
+            "photos": [
+                {
+                    "height": 683,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112853722364144568693\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6a87HD9yG3PaXAgEhiMYYJFNAf9MsK9w_1JDlMtR9QkHRKWnYWWWmjqrynXV0NrZsQ5uhm7lGq-ts81Iq-F8jFsiYPmUVtC2t8a0X2YnA1ydi-Yj2bQQh6P4QE8EfNhXwaoyzHxEXVpPRyP0cJluy6-SBT7FEzE1I_X_hwyhhk7poa",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJGczTiJRbFkcRj5trvP7PN9Q",
+            "plus_code": {
+                "compound_code": "3W8V+R6 Krak\u00f3w, Poland",
+                "global_code": "9F2X3W8V+R6"
+            },
+            "rating": 4.2,
+            "reference": "ChIJGczTiJRbFkcRj5trvP7PN9Q",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 703
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Pijarska 13, 31-015 Krak\u00f3w, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 50.0649337,
+                    "lng": 19.9393182
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 50.06631652989272,
+                        "lng": 19.94062772989272
+                    },
+                    "southwest": {
+                        "lat": 50.06361687010727,
+                        "lng": 19.93792807010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Francuski",
+            "photos": [
+                {
+                    "height": 2449,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117883089552338003555\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4ZFU-EhT5Y_uMqcfYkl2mYfmEeP-5LoCn-Do5gn-g3AcwEo1COVTC_T2xSaXLF3_EyLxb1Pne3S8wI7IBb_OuKL5QMJBSrEy9Oo8rOoYW9jJs6Iy0Mp5RT-expbO4a-Kprru5klVlIT84asp5uh8e8Aqklz7fZ_i9fCnJVBsLfPXpW",
+                    "width": 3674
+                }
+            ],
+            "place_id": "ChIJJfW-xA9bFkcRIQWx0AYPqI8",
+            "plus_code": {
+                "compound_code": "3W7Q+XP Krak\u00f3w, Poland",
+                "global_code": "9F2X3W7Q+XP"
+            },
+            "rating": 4.6,
+            "reference": "ChIJJfW-xA9bFkcRIQWx0AYPqI8",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 596
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Floria\u0144ska 28, 31-021 Krak\u00f3w, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 50.06383700000001,
+                    "lng": 19.9404501
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 50.06916035,
+                        "lng": 19.94965595000001
+                    },
+                    "southwest": {
+                        "lat": 50.05589055,
+                        "lng": 19.92738494999999
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Wyndham Grand Krakow Old Town",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 400,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113121688893779374301\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6gR1U4r64005pAQEAjdPw69zBtjbHDc_GbqwSMvlQxMxIhjcydQkuqvLmiz-T8c7iWuFZSHVZMXHlD8QPajOvxKWhk8618fyAbEJAzasu0ByyclD2YHbYPJxecX5gP_5qNvJlVuUWK6qDPNUwyr72gQ71KhMha22gTF8iN0fSTAogo",
+                    "width": 600
+                }
+            ],
+            "place_id": "ChIJc8-YLBBbFkcRvy3XQHEOEAo",
+            "plus_code": {
+                "compound_code": "3W7R+G5 Krak\u00f3w, Poland",
+                "global_code": "9F2X3W7R+G5"
+            },
+            "rating": 4.7,
+            "reference": "ChIJc8-YLBBbFkcRvy3XQHEOEAo",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 804
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Berka Joselewicza 19, 31-031 Krak\u00f3w, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 50.0550038,
+                    "lng": 19.9478058
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 50.05639102989272,
+                        "lng": 19.94910662989272
+                    },
+                    "southwest": {
+                        "lat": 50.05369137010727,
+                        "lng": 19.94640697010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Metropolitan Boutique Hotel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100759894116710529901\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7jUviBr_NKRzTFpHl1u9HdglZTSIgSFpBfjB6G-4xho2isn_aCEE2I0UW4Rt08yJbzu9A7p1tEjYYCmFb8kBTXLwjt1uSX9ssjSyudOEDTMiz1LwgQIpVc6SnIbA_0mHah9TecqkUSPbwdjORudU--M-x2AGD_1P2LclIUa104_Dq3",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJOTGp5hRbFkcRpqpcCDyo6D0",
+            "plus_code": {
+                "compound_code": "3W4X+24 Krak\u00f3w, Poland",
+                "global_code": "9F2X3W4X+24"
+            },
+            "rating": 4.8,
+            "reference": "ChIJOTGp5hRbFkcRpqpcCDyo6D0",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 896
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Go\u0142\u0119bia 2, 31-007 Krak\u00f3w, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 50.0601709,
+                    "lng": 19.9358442
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 50.06121727989272,
+                        "lng": 19.93735582989272
+                    },
+                    "southwest": {
+                        "lat": 50.05851762010727,
+                        "lng": 19.93465617010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Aparthotel Stare Miasto",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114326895843219409145\">Phil G</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4BLyIEbLybRtySo6AHli_rrRHNQvZmtKPatgvoiBBUWL4wm-XphPcTM3TuzI9MejfredZDbXxFYSSxIJkwmvnVyVWWCrwkLhwlla30Of4Q-uhivE9U1_JmRVcTAvj6AJfTcWdQzQJWFjY74DdcHPgbSpjEXL9Fom3_X_dmQQ9gfE2F",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJc39wkQ1bFkcRkbPLcTTjI1M",
+            "plus_code": {
+                "compound_code": "3W6P+38 Krak\u00f3w, Poland",
+                "global_code": "9F2X3W6P+38"
+            },
+            "rating": 4.5,
+            "reference": "ChIJc39wkQ1bFkcRkbPLcTTjI1M",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 674
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Szczepa\u0144ska 5, 31-011 Krak\u00f3w, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 50.0630953,
+                    "lng": 19.936383
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 50.06440932989273,
+                        "lng": 19.93769852989272
+                    },
+                    "southwest": {
+                        "lat": 50.06170967010728,
+                        "lng": 19.93499887010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Stary",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1365,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103588726179319358315\">Hotel Stary</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4uogSOaRcfEU-uoHDca12A3y4g39o0A3hjiqsbslqhfLShyj1o0Hs6WCr7593lEBVIM9b4cJ-psJTXheTx5ri3NISpSWWI7IqMg1R3Yu9fFEr6K-FICNqYO8V1PFFkguIdv253YJu_SO12e7mQFU9kdVavJdXxVg97Fc1Ij91VlucX",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJwcY5aA5bFkcRfJy_I8QtAUk",
+            "plus_code": {
+                "compound_code": "3W7P+6H Krak\u00f3w, Poland",
+                "global_code": "9F2X3W7P+6H"
+            },
+            "rating": 4.7,
+            "reference": "ChIJwcY5aA5bFkcRfJy_I8QtAUk",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 871
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Halicka 14A, 31-036 Krak\u00f3w, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 50.0519148,
+                    "lng": 19.951572
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 50.05325637989272,
+                        "lng": 19.95302122989272
+                    },
+                    "southwest": {
+                        "lat": 50.05055672010728,
+                        "lng": 19.95032157010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "PURO Krak\u00f3w Kazimierz",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4112,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104333789232295041825\">Yoav</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4JeVnMIL9lHk4rU2aL5wZ3BqSWg6ZA3bVj0JZngNi5Ho9W5sSJ3CxJa2ZvR5KkeUU8MtbD39EJHbCjeC8QYCRa7wd9Olt2uNuIKPhtw2vy_KxfJzbarExkSXPKUyItT-JWbQq3cTnvL84cmqF3afHZSzZLgje6m2pKqplnIMJZHgQG",
+                    "width": 5488
+                }
+            ],
+            "place_id": "ChIJ1WrY9kBbFkcR_bA6rB4krBE",
+            "plus_code": {
+                "compound_code": "3X22+QJ Krak\u00f3w, Poland",
+                "global_code": "9F2X3X22+QJ"
+            },
+            "rating": 4.8,
+            "reference": "ChIJ1WrY9kBbFkcR_bA6rB4krBE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2550
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "G\u0119sia 22A, 31-535 Krak\u00f3w, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 50.0534385,
+                    "lng": 19.9586487
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 50.05476137989272,
+                        "lng": 19.95999132989272
+                    },
+                    "southwest": {
+                        "lat": 50.05206172010728,
+                        "lng": 19.95729167010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Galaxy",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106982943716649442342\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4KGPGJ-CbdGApBqf4TopNwjWQoV_md4lbZgBHZsfzdBE4YgPTq7CWwGk4V46dTpWGosAmseT2zmHpJMD1-SF2QBHPE9rIP_xz3ErQzNKOEMuJKep09dGt_jp9_bdd0Ra_1xbVjpRx2_dGw27hhLurNVddvZEBlZSRmdk3QYCTdHkUs",
+                    "width": 4928
+                }
+            ],
+            "place_id": "ChIJaRXlvDhbFkcRIu6f2sZpiPc",
+            "plus_code": {
+                "compound_code": "3X35+9F Krak\u00f3w, Poland",
+                "global_code": "9F2X3X35+9F"
+            },
+            "rating": 4.4,
+            "reference": "ChIJaRXlvDhbFkcRIu6f2sZpiPc",
+            "types": [
+                "spa",
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2908
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Ma\u0142opolskie, al. 3 Maja 47a, 30-062 Krak\u00f3w, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 50.0627928,
+                    "lng": 19.9097089
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 50.06414262989271,
+                        "lng": 19.91105872989272
+                    },
+                    "southwest": {
+                        "lat": 50.06144297010727,
+                        "lng": 19.90835907010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hyatt Place Krakow",
+            "photos": [
+                {
+                    "height": 1308,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106009830697296703322\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7yowbyIXJh-N2dv4NKoc9a-e4efDOUxOPKpnEjdzqEitUKEpI-EuKHas4pMIXFbJd-qTajsJab3jgNTJCzs-kv7qWigd1Wx79N9ZZbg6YIpIRrOBzPWl-MTVNhC05QlaBuJuEJUqP7a6XdoHCitdgEM3GyC6UCR9QzNutLseER3pTG",
+                    "width": 2000
+                }
+            ],
+            "place_id": "ChIJ_e0Qf6lbFkcRAwvwesf61hY",
+            "plus_code": {
+                "compound_code": "3W75+4V Krak\u00f3w, Poland",
+                "global_code": "9F2X3W75+4V"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ_e0Qf6lbFkcRAwvwesf61hY",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 619
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Westerplatte 15, 31-033 Krak\u00f3w, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 50.06075,
+                    "lng": 19.9446262
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 50.06200162989273,
+                        "lng": 19.94589082989272
+                    },
+                    "southwest": {
+                        "lat": 50.05930197010728,
+                        "lng": 19.94319117010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Wyspia\u0144ski - pokoje, konferencje, restauracja, parking",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 5376,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106235991782785985340\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q46P8apdYOlL7BMXXdZhyQdtb4WBQG_2UaGf83iPkD75-WzLVDhXDLudNtg5iK08dH1FOfXNTUhjQbhU9OkZO-50WQKhTcUVz47qQkP-UL7SSwpNVuUooii_DqRo8iDLBE694BsCei-1byjZK6xoHaYZGQHSm-z50T_e5wPN_7KwgIr",
+                    "width": 8064
+                }
+            ],
+            "place_id": "ChIJgQyrQhFbFkcRjQ_pLvAB2TM",
+            "plus_code": {
+                "compound_code": "3W6V+7V Krak\u00f3w, Poland",
+                "global_code": "9F2X3W6V+7V"
+            },
+            "rating": 4.1,
+            "reference": "ChIJgQyrQhFbFkcRjQ_pLvAB2TM",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2966
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Fabryczna 13, 31-553 Krak\u00f3w, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 50.062526,
+                    "lng": 19.9739676
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 50.06388987989272,
+                        "lng": 19.97541172989272
+                    },
+                    "southwest": {
+                        "lat": 50.06119022010728,
+                        "lng": 19.97271207010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Mercure Hotel",
+            "photos": [
+                {
+                    "height": 5504,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108311674851982269463\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q40zjxLREeqKhSC2-PzZEesrP9gqwIzcYM50vcre5VKQ_yixu8rdIbMBZ45FUyj0VOihKcqRV-ij7q5gOTv0-_B1zN3zF2NWVdUpuY1uSChwFwqFEWrcvEFAdr6Viq7veT43V5zochqFUqgo8JAmKziYzUOwbhddhjMgI9LieGDMWzF",
+                    "width": 8256
+                }
+            ],
+            "place_id": "ChIJeds0sXlbFkcRfGWU6mZQiLY",
+            "plus_code": {
+                "compound_code": "3X7F+2H Krak\u00f3w, Poland",
+                "global_code": "9F2X3X7F+2H"
+            },
+            "rating": 4.6,
+            "reference": "ChIJeds0sXlbFkcRfGWU6mZQiLY",
+            "types": [
+                "gym",
+                "lodging",
+                "health",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 703
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "\u015bw. Marka 35, 31-024 Krak\u00f3w, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 50.0626305,
+                    "lng": 19.9433993
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 50.06397922989272,
+                        "lng": 19.94474482989272
+                    },
+                    "southwest": {
+                        "lat": 50.06127957010727,
+                        "lng": 19.94204517010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Amber Design Residence",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2832,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106243334022400400205\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5jVLFwaj4AVxdcC0xYTheIo_QxQtaCSxpK3GqxB99QapafYFo7F_0D7NJSJoHWcbS3w5BealkSGw3XP69B5wBnLU5dqFzIn8aR9lDbs3ei1krWv0VHvEbM2fvqrRJVzP0cxc9gNfky135bChNUEgcxaLiHKs7V2MFqJEqDD1RawqaN",
+                    "width": 4256
+                }
+            ],
+            "place_id": "ChIJuyUZBhFbFkcRzRP5C6aLfZQ",
+            "plus_code": {
+                "compound_code": "3W7V+28 Krak\u00f3w, Poland",
+                "global_code": "9F2X3W7V+28"
+            },
+            "rating": 4.7,
+            "reference": "ChIJuyUZBhFbFkcRzRP5C6aLfZQ",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 342
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Lubicz 4, 31-156 Krak\u00f3w, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 50.0652549,
+                    "lng": 19.9459644
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 50.06630087989272,
+                        "lng": 19.94735802989272
+                    },
+                    "southwest": {
+                        "lat": 50.06360122010728,
+                        "lng": 19.94465837010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Central Palace by Habitan",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103098473971461602626\">ilan</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4XDgxU225dX4OLpHpbq-qOJkNvY2lC71mlou4jJGfU1fjk_qG5of5GDCA9rZJiSAFR7_AdrDIWhPU0dT4-Dj1wYATqLKKa58recD-hJsME33vVkTIi4BqNYo8XqzGr0uUTFLebbpy2mYWzaUJNEcQmezCV74pFnUi3VCZd5CDB2S2p",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJK--jnBBbFkcRsTEIqXl2x8Q",
+            "plus_code": {
+                "compound_code": "3W8W+49 Krak\u00f3w, Poland",
+                "global_code": "9F2X3W8W+49"
+            },
+            "rating": 4.2,
+            "reference": "ChIJK--jnBBbFkcRsTEIqXl2x8Q",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 75
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Rynek G\u0142\u00f3wny 11, 31-042 Krak\u00f3w, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 50.0605129,
+                    "lng": 19.9379605
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 50.0612861,
+                        "lng": 19.93920267989272
+                    },
+                    "southwest": {
+                        "lat": 50.05850409999999,
+                        "lng": 19.93650302010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Venetian House Market Square Aparthotel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2677,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118329816843498743335\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q40JREClqpS0I-l5bbiJlCDkENP81nUUi0dQnU49MwyqQThqfG8vwaBavXhKxB_XY9N3pXuspXq8c6oUbiX2Dd5GJcjKrgBUd7f_IMdpMGF50Pfaqd01DBQEFDB-oNhgqZYiHaxQ1Ll-XINTgyjJf78tpT8U1w0tMp-GI9NaAF60UyY",
+                    "width": 5450
+                }
+            ],
+            "place_id": "ChIJTa4aDBJbFkcR03_5M_392f8",
+            "plus_code": {
+                "compound_code": "3W6Q+65 Krak\u00f3w, Poland",
+                "global_code": "9F2X3W6Q+65"
+            },
+            "rating": 4.6,
+            "reference": "ChIJTa4aDBJbFkcR03_5M_392f8",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 283
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Bosacka 5, 31-508 Krak\u00f3w, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 50.067493,
+                    "lng": 19.9500569
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 50.06887322989272,
+                        "lng": 19.95132522989272
+                    },
+                    "southwest": {
+                        "lat": 50.06617357010728,
+                        "lng": 19.94862557010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Station Aparthotel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2028,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116852481372187659537\">Aparthotel Station</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7aflhc92WVktReu1kLf8jdtNIvcDAzqi5GignnOC6jW5yKHMeeh-e79_rFtDh8LtYBPIp_t0vtLTmTSUahgdyznmDtPgqhbHBRgPq-xol9Wc4YcIzAZ5UOtbuV4yQnZW4FtjO4r3wld4oHzKNbAN_IV-8toyY0RfoZwr7pPKQtvfGy",
+                    "width": 4256
+                }
+            ],
+            "place_id": "ChIJBwOl1BtbFkcRXRK5Qh0tL3I",
+            "plus_code": {
+                "compound_code": "3X82+X2 Krak\u00f3w, Poland",
+                "global_code": "9F2X3X82+X2"
+            },
+            "rating": 3.9,
+            "reference": "ChIJBwOl1BtbFkcRXRK5Qh0tL3I",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 743
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Kupa 7, 31-057 Krak\u00f3w, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 50.0516899,
+                    "lng": 19.9459723
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 50.05305747989272,
+                        "lng": 19.94740952989272
+                    },
+                    "southwest": {
+                        "lat": 50.05035782010728,
+                        "lng": 19.94470987010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Perfect Hotel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113150984556813299468\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5O6U61kv7n0ABc2j8uQn9_sbSB5ikXIcYi7nVtJ3328KzmvW2EWNKowRWqvNPyzSQyC9nRCmd_Knqk_H8h3dWVlbBliZpS2r7QQDVPZAlDZgn5LC0KJEMH9DWM7z9nCjQnbIz8SQBw0dm0t8rMN1jI8khpcz8CA3scfCMf6-NsKXqP",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJA5N1Y2pbFkcRMuqEzp-hT-M",
+            "plus_code": {
+                "compound_code": "3W2W+M9 Krak\u00f3w, Poland",
+                "global_code": "9F2X3W2W+M9"
+            },
+            "rating": 4.6,
+            "reference": "ChIJA5N1Y2pbFkcRMuqEzp-hT-M",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 287
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Profesora Stanis\u0142awa \u0141ojasiewicza 2, 30-348 Krak\u00f3w, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 50.0291221,
+                    "lng": 19.9098463
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 50.03043112989272,
+                        "lng": 19.91102957989272
+                    },
+                    "southwest": {
+                        "lat": 50.02773147010728,
+                        "lng": 19.90832992010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Campanile Krakow South",
+            "photos": [
+                {
+                    "height": 6048,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115187426299963086019\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7NwwdSM7-JVD6ytDPcHGdVn7dRkFMKzbGQFohdlFRQkbhvtj3XhGSAsPET3zbMNmprSVKSqFiJg2QGR3zjUOeaZa-a8_SLBg83F-nX1-xcEqOIDPcKkDE6T7KIj5GBlA4MvaeygcIoEtDmOkndZpqOvVpwXTYaJNQv4XEwuSUuH1ca",
+                    "width": 8064
+                }
+            ],
+            "place_id": "ChIJBxCSy4ZdFkcRoInkwHvoXis",
+            "plus_code": {
+                "compound_code": "2WH5+JW Krak\u00f3w, Poland",
+                "global_code": "9F2X2WH5+JW"
+            },
+            "rating": 4.5,
+            "reference": "ChIJBxCSy4ZdFkcRoInkwHvoXis",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 438
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "S\u0142awkowska 3, 31-014 Krak\u00f3w, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 50.063337,
+                    "lng": 19.9374219
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 50.06470187989273,
+                        "lng": 19.93872492989272
+                    },
+                    "southwest": {
+                        "lat": 50.06200222010728,
+                        "lng": 19.93602527010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Saski Krakow, Curio Collection by Hilton",
+            "photos": [
+                {
+                    "height": 1666,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109465009900604676029\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6n_VFN-vlBX2eu8N7zQadcG-hxxjF8csFbWKC9WMtybcK4M8TZ2UBcFzz0ksT88VDc1TaIHzEPlcpiiyC5CTQFcYiyf9P0jp_MsXJahWunBtlGUvwvDmqLvwiQbjUi4MmG9WQe8sNyR-8Z6bk1v8eSpGVZ6x7G2ks24LLDiok-S0Or",
+                    "width": 2500
+                }
+            ],
+            "place_id": "ChIJm5beKEpbFkcREF8fPtOblUs",
+            "plus_code": {
+                "compound_code": "3W7P+8X Krak\u00f3w, Poland",
+                "global_code": "9F2X3W7P+8X"
+            },
+            "rating": 4.7,
+            "reference": "ChIJm5beKEpbFkcREF8fPtOblUs",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 457
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Floriana Straszewskiego 12, 31-101 Krak\u00f3w, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 50.0567795,
+                    "lng": 19.9339095
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 50.05816477989272,
+                        "lng": 19.93536187989272
+                    },
+                    "southwest": {
+                        "lat": 50.05546512010728,
+                        "lng": 19.93266222010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Wawel Queen",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1800,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115918904664052542658\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6KqCxlMXVSG6CJ1lDaq5BWug-2rnz34P7gTn31ZvxBKbdZphPGZAk0UZbzWI-xYWXlOsXu-58ASnuMS-4t_qbqEVN5OGgYPuz-KCXUEuFPNXuva1aO9Ho_U2Xs0-Gz36DfRXaLGIeHCXm7aWAUG_5Gp88LhH2jteLtkBaClfqEYFLV",
+                    "width": 2400
+                }
+            ],
+            "place_id": "ChIJrUsPrHJbFkcRqTbYUwhvd2s",
+            "plus_code": {
+                "compound_code": "3W4M+PH Krak\u00f3w, Poland",
+                "global_code": "9F2X3W4M+PH"
+            },
+            "rating": 4.7,
+            "reference": "ChIJrUsPrHJbFkcRqTbYUwhvd2s",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 442
+        }
+    ],
+    "status": "OK"
+}

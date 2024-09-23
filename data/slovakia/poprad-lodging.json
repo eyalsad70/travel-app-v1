@@ -1,0 +1,1004 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AXCi2Q584fcRaCPV1xNdUWBu-9gwqmzuO8obBw-U1qeuVs1qfbQPeZY-Ku7cyLgCmXHu8XBRakYPPr30WF381nugixKIo_s-ABeFcisVXR_ZjaG2T5jhi-kqaIw5q6JvKpvRuUhY7Tb_05tqV0Z_rFYDzjG5lIcwL2uMnzNNkAdtvXxIg5z2mKKqfnx8piBFSmO8xYm4Fkm8ASf8ByW7YPjlBcOkR-8c5Uo3yKjqaOik5Cb8Pi19DcszwAiDZiJ6il74DvQtBEE2FRCpk_Th4yPGcHXmN4t4MyG7YNO4z5vccc6ME2Nz6S65-YUZA9yXrgw_7IwoHpf4yvkYifQWoTVZ42UILC5aIJMNGrDyBn3cWhi6X5iCZ2JO0e15qsbMHYqMHFkChevgoevsjC5Lf-v-9sYQbJYgBipA3y5D38ZfyqZwWoA",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "\u0160portov\u00e1 1397/1, 058 01 Poprad-Spi\u0161sk\u00e1 Sobota, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.06057029999999,
+                    "lng": 20.3075101
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.06235057989272,
+                        "lng": 20.31037974999999
+                    },
+                    "southwest": {
+                        "lat": 49.05965092010728,
+                        "lng": 20.30655355000001
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Riverside AquaCity Poprad",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3968,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116130093814509993421\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6QXMt8wNwrXX7agAENpGbc9YtrHJBgMcDyQUAyBP-IzGoF9KxVxfJ7tQocv31ewCMV1MaXX_urRKZKx93HJ1BBMN-z-otMb5QdFn4P_G-z2CYTfmXqpbYpw2T5GY9YWArKZWIZSmx1nT9AOZzNPP8bec9uzu1dvCKx0DRKkFhcTIiF",
+                    "width": 2976
+                }
+            ],
+            "place_id": "ChIJVQbJtu46PkcR382JcIpPeZg",
+            "plus_code": {
+                "compound_code": "3865+62 Poprad, Slovakia",
+                "global_code": "8GX23865+62"
+            },
+            "rating": 4,
+            "reference": "ChIJVQbJtu46PkcR382JcIpPeZg",
+            "types": [
+                "lodging",
+                "park",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 430
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Mnohe\u013eova 826/5, 058 01 Poprad, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.0566667,
+                    "lng": 20.2958332
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.05800732989272,
+                        "lng": 20.29714977989272
+                    },
+                    "southwest": {
+                        "lat": 49.05530767010728,
+                        "lng": 20.29445012010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel SATEL",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106147235194195772877\">Hotel SATEL*** Poprad</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4b2EmZ3OPCFnoelDmGskM27J0H4d6yoCH_AGVMGuSwa6YBNv5UIOMQ9gZGqYfzH7yCKqfE3AejdvfUUJKalKTSPI31tb3DMiaTQfmP3ByrMmC19kpghQT4TBhvtz-_iiBsUdgccW8snW7Y_3pR3FFKXx59ZhrRDIcKe9St8RqKSkUy",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJ5yQoapU6PkcRM-JeaJrApS8",
+            "plus_code": {
+                "compound_code": "374W+M8 Poprad, Slovakia",
+                "global_code": "8GX2374W+M8"
+            },
+            "rating": 4.1,
+            "reference": "ChIJ5yQoapU6PkcRM-JeaJrApS8",
+            "types": [
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2227
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Franti\u0161ka He\u010dku 582, 058 01 Poprad-Str\u00e1\u017ee, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.0551463,
+                    "lng": 20.3265742
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.05654477989272,
+                        "lng": 20.32802382989272
+                    },
+                    "southwest": {
+                        "lat": 49.05384512010728,
+                        "lng": 20.32532417010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Kalix Boutique Hotel ****",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103069610119506165998\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q48dh7DMN1qgojBAoiHsd_1h1bZtbn9JgGYARFDca4TY8ImLxphEDgBH8oWR0NlCNhZ4fp3ZJ6gMJHoilRPI-Dcf80cgHjZsbCt0n78MUKpzCS2bBhwgXlW8Op7qRUP9idUnv18mNwDcKveglbtQZiJuPe_exJxE5q18Jf6OHQuXJwX",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJu-oE-mc7PkcRGNU_LKZ_b0A",
+            "plus_code": {
+                "compound_code": "384G+3J Poprad, Slovakia",
+                "global_code": "8GX2384G+3J"
+            },
+            "rating": 4.9,
+            "reference": "ChIJu-oE-mc7PkcRGNU_LKZ_b0A",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 120
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "N\u00e1mestie sv\u00e4t\u00e9ho Eg\u00eddia 38, 058 01 Poprad, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.0550694,
+                    "lng": 20.3042116
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.05630827989273,
+                        "lng": 20.30562737989272
+                    },
+                    "southwest": {
+                        "lat": 49.05360862010728,
+                        "lng": 20.30292772010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Cafe Razy",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2736,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118349952247234455485\">Peter Pro\u010dka</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4xwGpgs9K3FzSIRQSWma0a82k23eO-bMAGTbbEyOuGsCvj5E2StSPeVLK1sP9K0fVILRbPXktrdDGzvwzEVHFAwBQIZWPSEZnm88P1cSiQeGs5j8eXutbe2HVoEIWa1DUnuMvjCmbzBnnfHVlRLFbi6hBeYCyi6ni8cBINdBXb7e3o",
+                    "width": 3648
+                }
+            ],
+            "place_id": "ChIJmVtpcJM6PkcR9RNvY8M_lLM",
+            "plus_code": {
+                "compound_code": "3843+2M Poprad, Slovakia",
+                "global_code": "8GX23843+2M"
+            },
+            "rating": 4.1,
+            "reference": "ChIJmVtpcJM6PkcR9RNvY8M_lLM",
+            "types": [
+                "cafe",
+                "lodging",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 574
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Kuku\u010d\u00ednova 6/5317/7A, 058 01 Poprad, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.057874,
+                    "lng": 20.3101881
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.05929297989272,
+                        "lng": 20.31166797989272
+                    },
+                    "southwest": {
+                        "lat": 49.05659332010728,
+                        "lng": 20.30896832010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Villa Zauber",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2252,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107310723582686788801\">nitzan</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7EyKTLXAIWQ2AmJpx0WcMyzHgdowXJRJG1g3ILZ2XUD_CR8IdsA6jg0iiy1HmFYzBE5X6VD5h1rp1d0ecGk4w6iPNYteeKeqJ96n2KosryMtz0A1wQMfc0lOQR7A0xyrLsD2mf3FkiHBoxlrl7zv_QfIRu0aiAgRKOjpW4wrZr3tAF",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJzVoZnu06PkcRj7_AGPq3h4M",
+            "plus_code": {
+                "compound_code": "3856+43 Poprad, Slovakia",
+                "global_code": "8GX23856+43"
+            },
+            "rating": 4.7,
+            "reference": "ChIJzVoZnu06PkcRj7_AGPq3h4M",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 273
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1. m\u00e1ja 227, 058 01 Poprad, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.05919069999999,
+                    "lng": 20.299139
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.06054887989271,
+                        "lng": 20.30061142989272
+                    },
+                    "southwest": {
+                        "lat": 49.05784922010727,
+                        "lng": 20.29791177010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Penzi\u00f3n Sl\u00e1via",
+            "photos": [
+                {
+                    "height": 2736,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105664114417736633755\">Adi Szirmai</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5hyeO3gvgLeBR9CFXDWOFODmlfTObbK84yE-gAvWO7cHSypDfqGSUu09eUFIdlM7y2uKdFxvHbQmM17Nj8Cl8x5TjeAjDyb9xIppHOX4erAEFQZUpDGE5FJrjrEkcgwahg2qN6oiQaN3bvj3Ci5G876rdZELkJJn57jsPm0royGpfm",
+                    "width": 3648
+                }
+            ],
+            "place_id": "ChIJF-tGmuo6PkcRWZ8W_PcM16o",
+            "plus_code": {
+                "compound_code": "375X+MM Poprad, Slovakia",
+                "global_code": "8GX2375X+MM"
+            },
+            "rating": 3.9,
+            "reference": "ChIJF-tGmuo6PkcRWZ8W_PcM16o",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 499
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Sobotsk\u00e9 n\u00e1mestie 27, Spi\u0161sk\u00e1 Sobota, 058 01 Poprad, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.0655912,
+                    "lng": 20.3159869
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.06698632989271,
+                        "lng": 20.31730467989272
+                    },
+                    "southwest": {
+                        "lat": 49.06428667010727,
+                        "lng": 20.31460502010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "doma u n\u00e1s by Gabo Koc\u00e1k",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1702,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102544248479536140510\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7lGXk3AKJfEoUpZgPJE4Q1i3CrKqkYY68RgdYlbCZ1C_FuSnSek5TYYZCzmQWZj0r3dBR4VataJOT83hTl6-S9R44pxy08UU_-vCpcDko8FZJFa4XOY--B-exD08_UmbvV2yHFm0Evtquvj7ApuxJxubmIvakRpF3Xc3UOLWTrYgY-",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJPUDjROU6PkcRK4h_bxSNe9k",
+            "plus_code": {
+                "compound_code": "3888+69 Poprad, Slovakia",
+                "global_code": "8GX23888+69"
+            },
+            "rating": 4.9,
+            "reference": "ChIJPUDjROU6PkcRK4h_bxSNe9k",
+            "types": [
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 271
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Bre\u017en\u00fd riadok 189/5, 058 01 Poprad, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.054621,
+                    "lng": 20.2910722
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.05602572989271,
+                        "lng": 20.29245727989272
+                    },
+                    "southwest": {
+                        "lat": 49.05332607010727,
+                        "lng": 20.28975762010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Vila Mery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 792,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100419724686077895421\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7XmwYjctURoatYztge8E6GBzbwE1v7tdNCx5EAPftyd6p4o0XS8Me_GvXnkN3ofzAeySmoEsn2ZIdd4KrBUMi2s981wQ-5RzjbBvIERRtP0Lk7ALS13y7smG7ZdMfixDjy9bKWfgExbya0LP_wORZ59JgvndksT7X3Uog6mgOyjmwo",
+                    "width": 1179
+                }
+            ],
+            "place_id": "ChIJwzZia746PkcR8ZarLN-IPj0",
+            "plus_code": {
+                "compound_code": "373R+RC Poprad, Slovakia",
+                "global_code": "8GX2373R+RC"
+            },
+            "rating": 4.7,
+            "reference": "ChIJwzZia746PkcR8ZarLN-IPj0",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 297
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Star\u00fd Smokovec 25, 062 01 Vysok\u00e9 Tatry-Star\u00fd Smokovec, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.1388341,
+                    "lng": 20.2242454
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.14017287989272,
+                        "lng": 20.22560252989272
+                    },
+                    "southwest": {
+                        "lat": 49.13747322010727,
+                        "lng": 20.22290287010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "High Tatras - Accommodation",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104413449948761107395\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5WnF0wOGwprAoozIIv3NsLPQICFKBlN4VqLHhKXa0UeYkjWF-8LdNrV3uJvdPvbzdASM1PtKnV9xJPyW1Xc4AUOHEDD_mB14Ztgy6F2LkA1trVzQQFoNMYPaToSpEGNdjyCNUeyuWkSMw7Dt-CUfHYrlC4NTsqnJaNTfHyPvvqtVXb",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJZ_m2vfYjPkcR9eUNyHPSM40",
+            "plus_code": {
+                "compound_code": "46QF+GM Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX246QF+GM"
+            },
+            "rating": 4.8,
+            "reference": "ChIJZ_m2vfYjPkcR9eUNyHPSM40",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "\u0160portov\u00e1 05801, Spi\u0161sk\u00e1 Sobota, 058 01 Poprad, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.0606569,
+                    "lng": 20.309278
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.06186772989272,
+                        "lng": 20.31041397989272
+                    },
+                    "southwest": {
+                        "lat": 49.05916807010728,
+                        "lng": 20.30771432010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Pension U Stephen",
+            "photos": [
+                {
+                    "height": 2524,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116407189275194621476\">fjrae yamaha</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7V2NU5CPFSENwJCf-OyKm4N8OL7uU5REkoZQRJX3c3BL1-7QEMb0OnMPVoZgwmNB7C3SHHSeNvWwrficuwjCXfmacliSMFrCsJcJnlM5EcCnXyW9X_zv4ZwJL0_jbs9PUfzwHoR5U_UY5h6HcON6Zm6kJ9DBWs8t-cWD4StgpIjbkD",
+                    "width": 3292
+                }
+            ],
+            "place_id": "ChIJCbIrg-46PkcRBnbX6wCZrBY",
+            "plus_code": {
+                "compound_code": "3865+7P Poprad, Slovakia",
+                "global_code": "8GX23865+7P"
+            },
+            "rating": 4.3,
+            "reference": "ChIJCbIrg-46PkcRBnbX6wCZrBY",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 822
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "\u0160trbsk\u00e9 Pleso 33, 059 85 Vysok\u00e9 Tatry-\u0160trbsk\u00e9 Pleso, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.1244727,
+                    "lng": 20.0612118
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.12589847989272,
+                        "lng": 20.06262677989272
+                    },
+                    "southwest": {
+                        "lat": 49.12319882010728,
+                        "lng": 20.05992712010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Wellness Hotel Patria",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 339,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108940640338948890370\">Hotel Patria ****</a>"
+                    ],
+                    "photo_reference": "AXCi2Q72_ulYaY-36HkAyvqJWxG4XiC9AOAJzWddEAF2HBPCxYAuLTYbRPgEHQroSJMJ6poWpzNmfhTpkiJyFWSLFUlZOYHJ90rTAJcoI0Iyh96o37MmYxAoj3YiLsTpajCdr-3yrZBSnlmuNjtaR3g_gl6jd0MWMK2FCBFp0VUWxdu9h4Wh",
+                    "width": 421
+                }
+            ],
+            "place_id": "ChIJIcFyK34nPkcRV2RW4j46WIU",
+            "plus_code": {
+                "compound_code": "43F6+QF Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX243F6+QF"
+            },
+            "rating": 4.5,
+            "reference": "ChIJIcFyK34nPkcRV2RW4j46WIU",
+            "types": [
+                "spa",
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2488
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Spi\u0161sk\u00e1 Sobota, 058 01 Poprad-Spi\u0161sk\u00e1 Sobota, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.0598824,
+                    "lng": 20.3068601
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.06157557989273,
+                        "lng": 20.30826042989272
+                    },
+                    "southwest": {
+                        "lat": 49.05887592010728,
+                        "lng": 20.30556077010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Mountain View",
+            "photos": [
+                {
+                    "height": 4080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112945297464021607432\">\u013dubom\u00edr Koprla</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4czUEltyKS5ZDgCgtJpEzdya5wRwFuAjevbWTKzBz6IrF3_BI7W7O6fRsJilbMIkFCXfjhNq0MynS9zdVnGtL8s7SZeng117WfSB3BgkToCsOW1F8V2XtiI6HT7Z_Sqxw5kwveefSUjr6yfKkbZQyOUlVlcGebUOBLYlYfT8NGLQv5",
+                    "width": 3072
+                }
+            ],
+            "place_id": "ChIJe-xRkY07PkcRCMvn8wwcRyc",
+            "plus_code": {
+                "compound_code": "3854+VP Poprad, Slovakia",
+                "global_code": "8GX23854+VP"
+            },
+            "rating": 3.7,
+            "reference": "ChIJe-xRkY07PkcRCMvn8wwcRyc",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Tatransk\u00e1 Lomnica - Eurocamp 202, 059 60 Vysok\u00e9 Tatry, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.1590204,
+                    "lng": 20.3093219
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.16037022989272,
+                        "lng": 20.31067172989272
+                    },
+                    "southwest": {
+                        "lat": 49.15767057010728,
+                        "lng": 20.30797207010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Tatranec",
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108997035562753225287\">Nem clickbate-es vide\u00f3k</a>"
+                    ],
+                    "photo_reference": "AXCi2Q48Een2HpHEzB9G6pNLGbR8RVxLDGhGZ1WodOnKWZVjrlyCFhvbQ04SSllLAIPIHlCslJyNdTpbO4D-Hl8Ji31g_mfYAz1LxgoIxuEcRwjCFrzlWffgbyFb6AImwiI01g5fzCUnALVA9dIGrFkGnD2xpRBdoYJfsZ20-T75N70Iu6YU",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJkaF0NyAjPkcRg0FM5a6ch4Q",
+            "plus_code": {
+                "compound_code": "5855+JP Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX25855+JP"
+            },
+            "rating": 3.9,
+            "reference": "ChIJkaF0NyAjPkcRg0FM5a6ch4Q",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 387
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Ji\u0159\u00edho Wolkera 464/11, 058 01 Poprad, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.0595274,
+                    "lng": 20.2942541
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.06087097989271,
+                        "lng": 20.29558262989272
+                    },
+                    "southwest": {
+                        "lat": 49.05817132010727,
+                        "lng": 20.29288297010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Eur\u00f3pa",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1667,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117022277744655917016\">Hotel Eur\u00f3pa</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7Uvb2WYTdfyCvYWNyiJsvrotAJnqPJ4pmloF1sgNFdjnC7NZQSwA4arLuqoLkIrO-aqvxLZmja8BjYukdN5oTXUOAdbRgAUm_3jQkZoeub0nZkeeHSUHMbx_gp1_LHIT-KS0LCl8WqQUpm974PbA9swzSV6dNDLxanlyMz8Zolrh5K",
+                    "width": 2498
+                }
+            ],
+            "place_id": "ChIJ7zTYa8A6PkcRxZTpTgHIINc",
+            "plus_code": {
+                "compound_code": "375V+RP Poprad, Slovakia",
+                "global_code": "8GX2375V+RP"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ7zTYa8A6PkcRxZTpTgHIINc",
+            "types": [
+                "cafe",
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 548
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jesensk\u00e9ho 2227/2, 058 01 Poprad-Spi\u0161sk\u00e1 Sobota, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.0671528,
+                    "lng": 20.3142552
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.06856082989272,
+                        "lng": 20.31554242989272
+                    },
+                    "southwest": {
+                        "lat": 49.06586117010728,
+                        "lng": 20.31284277010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Penzi\u00f3n Borievka",
+            "photos": [
+                {
+                    "height": 2976,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108838652087536597034\">Adrian Roos</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6eZyMpbbl859CJvKUFHQd8l9lO2jTe55xdTBl13ZWhXg9WsiCL-ID6iOkGgLU8U8RH_uSWPe63a1P6xVJ2M_BTKsVERc9yoQV9nldGXVFp3gpbg0VW0gWWrMMAYyp5S4PAQChxcZGChW0NRdojntfHglw-cZ1qnbVmDONZI_9sYeuA",
+                    "width": 3968
+                }
+            ],
+            "place_id": "ChIJGep1qOU6PkcRLKUWvuXzIHw",
+            "plus_code": {
+                "compound_code": "3887+VP Poprad, Slovakia",
+                "global_code": "8GX23887+VP"
+            },
+            "rating": 4.8,
+            "reference": "ChIJGep1qOU6PkcRLKUWvuXzIHw",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 204
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Bulharsk\u00e1 2271, Spi\u0161sk\u00e1 Sobota, 058 01 Poprad, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.0621121,
+                    "lng": 20.3144059
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.06348067989273,
+                        "lng": 20.31576822989272
+                    },
+                    "southwest": {
+                        "lat": 49.06078102010728,
+                        "lng": 20.31306857010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Penzi\u00f3n Plesnivec",
+            "photos": [
+                {
+                    "height": 5472,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103904803057940233715\">103904803057940233715</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4Mx7Bpm-Valxfo6vellXjCTZ-tR9fhd71ELqM995z9yV5_O9M8KTcEN553iD7jZ_loUVhbkbItrsEJ7pHYqYRk1V3WdxXqi2JPW7TWRsfWu6bweN-3RyKNC_0FijcKVmII5UdNglfcqWarVLGQLjEqHutYwC6hbL6uu4Xt8pQxBhM8",
+                    "width": 7296
+                }
+            ],
+            "place_id": "ChIJPZPbK-46PkcR7jHgrQ4YQnM",
+            "plus_code": {
+                "compound_code": "3867+VP Poprad, Slovakia",
+                "global_code": "8GX23867+VP"
+            },
+            "rating": 4.6,
+            "reference": "ChIJPZPbK-46PkcR7jHgrQ4YQnM",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 100
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Bo\u017eeny N\u011bmcovej 5355/1B, 058 01 Poprad-Spi\u0161sk\u00e1 Sobota, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.06417440000001,
+                    "lng": 20.3109182
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.06549692989272,
+                        "lng": 20.31210997989272
+                    },
+                    "southwest": {
+                        "lat": 49.06279727010728,
+                        "lng": 20.30941032010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Pension Darinka",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3712,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113852812465640863801\">Penzi\u00f3n Darinka</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6oqttiGFPZEOdRUxSM5KsCoS6Ec8IGu143j6lpQoSwszmYQuqyWVxTcLNkfpfWp_8hUHVB9BSPmVsBSLSZJw1jE_iYLVNVyqP4-yw5B4nQteNGeFUDTwhl5ZVJI7bIfHyVWBpxVSWvUWHzpCbK8RL02UzFehEU9ac138k8P3f_WLmh",
+                    "width": 5568
+                }
+            ],
+            "place_id": "ChIJ1e6KC-86PkcRn8-GnUxD47A",
+            "plus_code": {
+                "compound_code": "3876+P9 Poprad, Slovakia",
+                "global_code": "8GX23876+P9"
+            },
+            "rating": 4.8,
+            "reference": "ChIJ1e6KC-86PkcRn8-GnUxD47A",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 301
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Moyzesova 30, 058 01 Poprad, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.0486081,
+                    "lng": 20.2933101
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.04997247989272,
+                        "lng": 20.29480687989272
+                    },
+                    "southwest": {
+                        "lat": 49.04727282010727,
+                        "lng": 20.29210722010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Mamut",
+            "photos": [
+                {
+                    "height": 1824,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100318279239653747926\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7TEu8GlfSho7gGgucWn0bDDOofZ2pKawu22sltAtNIDAZo31e0cQecI_NeXM9ghUtvd3Qx-8BoduyBdAEku2DgF7P3MBOVwYelaqareS-VNwT-Sa6hiYLFanCOCB98NlT-yGcVqvEGvuUyIWo1zWrhFnV_jxbOHIoE6te4Cm3Xo6q-",
+                    "width": 2736
+                }
+            ],
+            "place_id": "ChIJ8S1Q7Cc7PkcRmBmsqgs5hwU",
+            "plus_code": {
+                "compound_code": "27XV+C8 Poprad, Slovakia",
+                "global_code": "8GX227XV+C8"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ8S1Q7Cc7PkcRmBmsqgs5hwU",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 200
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "7, Karpatsk\u00e1 3314, 058 01 Poprad, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.0579317,
+                    "lng": 20.2922546
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.05905837989273,
+                        "lng": 20.29361202989272
+                    },
+                    "southwest": {
+                        "lat": 49.05635872010728,
+                        "lng": 20.29091237010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Tatra Hotel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115774952686163857979\">Ilona Ozola</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6NVORFoQZKrwctKpsmA1l7owvHJfDsALA48ULQazFr6JmpagThekvPAj0dDsdyzDFUQZOem85qGYnzdfw3zMTvqbzE-_L7sRZFMSwjkzKl39bUrq6K9PbPnJjx7s_z_9dx12Rzb-gdhpwcfSkDHJ3ZKL5AB_9vCKlPX7Er_V6Jii6o",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJFzn-w1qJbEcRGysuxK7N_3k",
+            "plus_code": {
+                "compound_code": "375R+5W Poprad, Slovakia",
+                "global_code": "8GX2375R+5W"
+            },
+            "rating": 4.1,
+            "reference": "ChIJFzn-w1qJbEcRGysuxK7N_3k",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 747
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Hlavn\u00e1 30, 059 51 Poprad-Matejovce-Matejovce, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.0804215,
+                    "lng": 20.3277934
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.08172527989272,
+                        "lng": 20.32914442989272
+                    },
+                    "southwest": {
+                        "lat": 49.07902562010727,
+                        "lng": 20.32644477010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Kask\u00e1da Hotel & Catering",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 974,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104226463145562235697\">Re\u0161taur\u00e1cia Kaskada</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4uD8lo_OQ869iMR2Oybcvuo_oFQpWg9ITB_-ZjOgkOjSSJTe8TAS4KpHVpLNCXE-JyuMYKoX2N9xOl3lnfB-afVaqkH1t_6e3cl_0r4zoIWCbO1c6F0p5xvr9T4fSFvFxPVUqcRLiIPVN6WkrVIw267OCLEIw6MtXxljHKF5_2gvDV",
+                    "width": 2000
+                }
+            ],
+            "place_id": "ChIJRWiOToElPkcRzTKNgY5Iesg",
+            "plus_code": {
+                "compound_code": "38JH+54 Matejovce, Poprad, Slovakia",
+                "global_code": "8GX238JH+54"
+            },
+            "rating": 4.5,
+            "reference": "ChIJRWiOToElPkcRzTKNgY5Iesg",
+            "types": [
+                "restaurant",
+                "meal_delivery",
+                "lodging",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 891
+        }
+    ],
+    "status": "OK"
+}

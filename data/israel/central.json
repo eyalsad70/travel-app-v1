@@ -1,0 +1,278 @@
+{
+    "predictions": [
+        {
+            "description": "Israel Consulate, Harcourt Road, Central, Hong Kong",
+            "matched_substrings": [
+                {
+                    "length": 6,
+                    "offset": 0
+                },
+                {
+                    "length": 7,
+                    "offset": 33
+                }
+            ],
+            "place_id": "ChIJl8iNCGcABDQRNcl5mDEqWJ8",
+            "reference": "ChIJl8iNCGcABDQRNcl5mDEqWJ8",
+            "structured_formatting": {
+                "main_text": "Israel Consulate",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Harcourt Road, Central, Hong Kong",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 7,
+                        "offset": 15
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Israel Consulate"
+                },
+                {
+                    "offset": 18,
+                    "value": "Harcourt Road"
+                },
+                {
+                    "offset": 33,
+                    "value": "Central"
+                },
+                {
+                    "offset": 42,
+                    "value": "Hong Kong"
+                }
+            ],
+            "types": [
+                "embassy",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "description": "Israel, Fernando de la Mora, Central, Paraguay",
+            "matched_substrings": [
+                {
+                    "length": 6,
+                    "offset": 0
+                },
+                {
+                    "length": 7,
+                    "offset": 29
+                }
+            ],
+            "place_id": "Ei5Jc3JhZWwsIEZlcm5hbmRvIGRlIGxhIE1vcmEsIENlbnRyYWwsIFBhcmFndWF5Ii4qLAoUChIJUS7KMEepXZQRQVFUNrZF3QwSFAoSCRlEmAUtqV2UEbsv1SeUfwvJ",
+            "reference": "Ei5Jc3JhZWwsIEZlcm5hbmRvIGRlIGxhIE1vcmEsIENlbnRyYWwsIFBhcmFndWF5Ii4qLAoUChIJUS7KMEepXZQRQVFUNrZF3QwSFAoSCRlEmAUtqV2UEbsv1SeUfwvJ",
+            "structured_formatting": {
+                "main_text": "Israel",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Fernando de la Mora, Central, Paraguay",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 7,
+                        "offset": 21
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Israel"
+                },
+                {
+                    "offset": 8,
+                    "value": "Fernando de la Mora"
+                },
+                {
+                    "offset": 29,
+                    "value": "Central"
+                },
+                {
+                    "offset": 38,
+                    "value": "Paraguay"
+                }
+            ],
+            "types": [
+                "geocode",
+                "route"
+            ]
+        },
+        {
+            "description": "Israel Packing Inc., Towne Avenue, Fashion District, Los Angeles, CA, USA",
+            "matched_substrings": [
+                {
+                    "length": 6,
+                    "offset": 0
+                }
+            ],
+            "place_id": "ChIJI5_tPSnGwoARkA_xms4Gfx0",
+            "reference": "ChIJI5_tPSnGwoARkA_xms4Gfx0",
+            "structured_formatting": {
+                "main_text": "Israel Packing Inc.",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Towne Avenue, Fashion District, Los Angeles, CA, USA"
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Israel Packing Inc."
+                },
+                {
+                    "offset": 21,
+                    "value": "Towne Avenue"
+                },
+                {
+                    "offset": 35,
+                    "value": "Fashion District"
+                },
+                {
+                    "offset": 53,
+                    "value": "Los Angeles"
+                },
+                {
+                    "offset": 66,
+                    "value": "CA"
+                },
+                {
+                    "offset": 70,
+                    "value": "USA"
+                }
+            ],
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "description": "Israel Government Tourist Office, Wilshire Boulevard, Central LA, Los Angeles, CA, USA",
+            "matched_substrings": [
+                {
+                    "length": 6,
+                    "offset": 0
+                },
+                {
+                    "length": 7,
+                    "offset": 54
+                }
+            ],
+            "place_id": "ChIJvxmnuDi5woARNMPGmyyREpU",
+            "reference": "ChIJvxmnuDi5woARNMPGmyyREpU",
+            "structured_formatting": {
+                "main_text": "Israel Government Tourist Office",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Wilshire Boulevard, Central LA, Los Angeles, CA, USA",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 7,
+                        "offset": 20
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Israel Government Tourist Office"
+                },
+                {
+                    "offset": 34,
+                    "value": "Wilshire Boulevard"
+                },
+                {
+                    "offset": 54,
+                    "value": "Central LA"
+                },
+                {
+                    "offset": 66,
+                    "value": "Los Angeles"
+                },
+                {
+                    "offset": 79,
+                    "value": "CA"
+                },
+                {
+                    "offset": 83,
+                    "value": "USA"
+                }
+            ],
+            "types": [
+                "travel_agency",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "description": "Israel, Villa Elisa, Central, Paraguay",
+            "matched_substrings": [
+                {
+                    "length": 6,
+                    "offset": 0
+                },
+                {
+                    "length": 7,
+                    "offset": 21
+                }
+            ],
+            "place_id": "EiZJc3JhZWwsIFZpbGxhIEVsaXNhLCBDZW50cmFsLCBQYXJhZ3VheSIuKiwKFAoSCTm4KDneq12UEXjJm3i42tqSEhQKEgnVMZMMfKldlBGXoRGdwbvvCQ",
+            "reference": "EiZJc3JhZWwsIFZpbGxhIEVsaXNhLCBDZW50cmFsLCBQYXJhZ3VheSIuKiwKFAoSCTm4KDneq12UEXjJm3i42tqSEhQKEgnVMZMMfKldlBGXoRGdwbvvCQ",
+            "structured_formatting": {
+                "main_text": "Israel",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Villa Elisa, Central, Paraguay",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 7,
+                        "offset": 13
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Israel"
+                },
+                {
+                    "offset": 8,
+                    "value": "Villa Elisa"
+                },
+                {
+                    "offset": 21,
+                    "value": "Central"
+                },
+                {
+                    "offset": 30,
+                    "value": "Paraguay"
+                }
+            ],
+            "types": [
+                "geocode",
+                "route"
+            ]
+        }
+    ],
+    "status": "OK"
+}

@@ -1,4 +1,9 @@
 
+
+""" AI Trip planner using rapid API. it can plan a detailed trip for location travveled for X days 
+    it was tested but NOT used at the moment. will be used in future for more detailed trip plan, as it gives only basic info 
+"""
+
 import keys_loader
 import rapidApi_client
 import my_json_repository
@@ -7,12 +12,11 @@ from my_logger import print_info, print_error
 
 ai_trip_planner_host_url = "ai-trip-planner.p.rapidapi.com"
 
-def get_activities(file_name, request_url = None):
+def get_activities(file_name, country, request_url = None):
     private_key = keys_loader.load_private_key("ai_trip_planner")
     ai_trip_planner_header = keys_loader.RapidApiRequestHeader(private_key, ai_trip_planner_host_url)
-    file_path = "./data"
 
-    my_plan = my_json_repository.read_json_data(file_name, file_path)
+    my_plan = my_json_repository.read_json_data(file_name, country)
 
     if not my_plan: # file isn't cached yet. retreive data from API and save it
         my_plan = rapidApi_client.get_rapidApi_data(ai_trip_planner_header, request_url)
@@ -20,7 +24,7 @@ def get_activities(file_name, request_url = None):
             print_error(f"get_activities :: Cant find destination {request_url}")
             return None
         else:
-            my_json_repository.save_json_data(file_name, file_path, my_plan)
+            my_json_repository.save_json_data(file_name, country, my_plan)
             
     sample_plan = my_plan['plan']
 
@@ -42,7 +46,7 @@ def get_activities(file_name, request_url = None):
 
 def get_destination_attractions(destination_name:str, country:str, number_of_days:int, file_name_for_saving:str):
     request_url = f"/?days={number_of_days}&destination={destination_name}%2C{country}"
-    get_activities(file_name_for_saving, request_url)
+    get_activities(file_name_for_saving, country, request_url)
 
 
 if __name__ == "__main__":

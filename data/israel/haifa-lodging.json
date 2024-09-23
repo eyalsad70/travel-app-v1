@@ -1,0 +1,991 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AXCi2Q498GYBSJqedya-rK6-_I3najxm8ZoAu7pb1aSImoQauUFwLdJxW2X-xhbd7V7g2FfmL7Y6N7EWDHgBu3bO-BJjv7Ucwo94H1lLSjAKaxKJ5SaLMWy_Xq3wduU311kw6QcCQsnMDIJFm3zzgfFOdu691PHQgLuk4D9_WJR-wog18A8L2SkWytz3N2S9Gy_LyNuT8Sct53jmtXzzNugYAFEyQeJB9j822HPnf3xFCuDFMQx4Uiryv4P20DtTmqOSgOSSQO9cIr1BFHWvKht0WWm_AGHm94O4Rnz1jPZk6_0Cw8EZXwZxahGlkj50pJZK-BSSwOsQ8QhRjLK1nYQRMhk7ypXgo6pO439o2O1fNvuu56RAZ1jx4HDLHoQG2F71rg68oXqkDidpQnIsfxivZIUPw46qrkreKfjFMmKTyQQ",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "\u05e8\u05d1 \u05d0\u05dc\u05d5\u05e3, David Elazar St 10, Haifa, 3508107, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.8045623,
+                    "lng": 34.9564989
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.80617832989272,
+                        "lng": 34.95815972989272
+                    },
+                    "southwest": {
+                        "lat": 32.80347867010727,
+                        "lng": 34.95546007010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Leonardo Plaza Haifa",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1363,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102710262988965724510\">Leonardo Haifa</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4gKVnmtT9397AoxONUTwfgEKVf19YT2P_zov1ANtYW1U1pHut6S7UJfYC5J5ZIbhFHRqUwDNm-4cGuspZjfnPip6wsepGpYBJF8IOmK98GUhYFDzpWKdSA_v9z3nTYZ45KcFTlKKVqL_3k9zBaLSxfoCvcMmjcSCTvykbZm5aDnoBq",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJW1BrbGS7HRURIn93z2iWd8E",
+            "plus_code": {
+                "compound_code": "RX34+RH Haifa",
+                "global_code": "8G4PRX34+RH"
+            },
+            "rating": 4.3,
+            "reference": "ChIJW1BrbGS7HRURIn93z2iWd8E",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3773
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "HaNassi Blvd 107, Haifa, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.8066179,
+                    "lng": 34.987542
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.80826302989272,
+                        "lng": 34.98862272989272
+                    },
+                    "southwest": {
+                        "lat": 32.80556337010728,
+                        "lng": 34.98592307010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Dan Panorama Haifa Hotel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1197,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111120523495515239215\">Dan Panorama Haifa Hotel</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4DRLo9JWMNvkafDxwRq_OJdAHbKU7OoH-zWFkxP54ek8Asp9YnlHTlUjyqEJwrK0Yjd7lAHPNUaxsD8GBAgXELLaArRC-GcJsPQBOvtXYqdyEZhXNyVnkCp42EFLT9AEWkJfkAgQTSCtjhczYCYJB00uvzYQX6o3uu13lmvYr6PSJv",
+                    "width": 1540
+                }
+            ],
+            "place_id": "ChIJecVz3a67HRUR34h8a8xMrGw",
+            "plus_code": {
+                "compound_code": "RX4Q+M2 Haifa",
+                "global_code": "8G4PRX4Q+M2"
+            },
+            "rating": 4.7,
+            "reference": "ChIJecVz3a67HRUR34h8a8xMrGw",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7106
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "HaNassi Blvd 85-87, Haifa, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.809967,
+                    "lng": 34.9846916
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.81127132989272,
+                        "lng": 34.98597107989272
+                    },
+                    "southwest": {
+                        "lat": 32.80857167010728,
+                        "lng": 34.98327142010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Dan Carmel Haifa Hotel",
+            "photos": [
+                {
+                    "height": 764,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104548281653123784439\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4R3ikUVW0igmyfa78N7HJVqasbB_wdltBFs1xprls-85Gt2XiKX6xt3WksqMWf4aBIPS9nbznvP3aPRl8tIs8YKn-9lGquuQdwqB58Nz0bc4oNje_QPEyp8qmrkG3Ed7uGFSuGWxi1qfGzQq5r1bHHAbJpvcqtLNQ9cOaZqD_8RoDf",
+                    "width": 1140
+                }
+            ],
+            "place_id": "ChIJG9DomK-7HRUR7PDvxMRfnAw",
+            "plus_code": {
+                "compound_code": "RX5M+XV Haifa",
+                "global_code": "8G4PRX5M+XV"
+            },
+            "rating": 4.7,
+            "reference": "ChIJG9DomK-7HRUR7PDvxMRfnAw",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6561
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "HaNassi Blvd 101, Haifa, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.8079991,
+                    "lng": 34.986414
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.80931747989273,
+                        "lng": 34.98771602989272
+                    },
+                    "southwest": {
+                        "lat": 32.80661782010728,
+                        "lng": 34.98501637010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "\u05de\u05dc\u05d5\u05df \u05d7\u05d9\u05e4\u05d4 \u05d1\u05d9\u05d9 \u05d5\u05d5\u05d9\u05d5 Haifa Bayview Hotel by AFI HOTELS",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 9000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109690257567613311671\">maria del carmen modarelli</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7cSFmCRNvp_txCgRW9m54FcP1RQK1U4sbyOuNY99GxoZFQUOZHZ9HvhrOOZWelYy27pUWoGd3e9tJOSzrhvu239qpqdj0aDIiw8JJBoa95H3TzGUgWMA0jpKGB7COQKDh1nqf0qMCMaOi8nb42zv2be8UXJr9e_uteSeSx9dAKWLwd",
+                    "width": 12000
+                }
+            ],
+            "place_id": "ChIJC4QwA6-7HRURHUWA435-XgU",
+            "plus_code": {
+                "compound_code": "RX5P+5H Haifa",
+                "global_code": "8G4PRX5P+5H"
+            },
+            "rating": 4,
+            "reference": "ChIJC4QwA6-7HRURHUWA435-XgU",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1599
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Derech Jaffa 115, Haifa, 3541410, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.8234624,
+                    "lng": 34.9916562
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.82484327989272,
+                        "lng": 34.99303727989273
+                    },
+                    "southwest": {
+                        "lat": 32.82214362010728,
+                        "lng": 34.99033762010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Golden Crown Haifa Hotel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1193,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113048791026923840090\">Golden Crown Haifa Hotel</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4vnHfAl2pQaZDFqPKKjt66rVXPihZyStQCwJ5ELj495GIXtITPEVqhjPqe82GbDQUXTWQU_jOxTW8kulb3NqQYItWlOrL1CnuePzFlMo1e8gPY7jyg-Y75jhYoorEuy3NxihLGq26rDqTlmp4qHeXOvNUqYcvURkyKHV0npwX2hHke",
+                    "width": 2000
+                }
+            ],
+            "place_id": "ChIJsbbAnMu7HRURLRLGZ5IfVdI",
+            "plus_code": {
+                "compound_code": "RXFR+9M Haifa",
+                "global_code": "8G4PRXFR+9M"
+            },
+            "rating": 4.3,
+            "reference": "ChIJsbbAnMu7HRURLRLGZ5IfVdI",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1190
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Kdoshei Jassy St 2, Haifa, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.7919749,
+                    "lng": 34.9649281
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.79344457989272,
+                        "lng": 34.96630742989272
+                    },
+                    "southwest": {
+                        "lat": 32.79074492010727,
+                        "lng": 34.96360777010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "\u05d2\u05d0\u05e8\u05d3\u05df \u05d4\u05d5\u05d8\u05dc - \u05d2\u05df \u05d0\u05d9\u05e8\u05d5\u05e2\u05d9\u05dd \u05d5\u05de\u05dc\u05d5\u05df \u05d1\u05d5\u05d8\u05d9\u05e7 \u05d1\u05d7\u05d9\u05e4\u05d4",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115363916446111250532\">Cohen Yigal</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4TbXMABTsoMaEOmok01mIQ14P4vcPXXhvMWqGqXV_zlSkNyYDNDGHHTCHLXdnDohOafZvWXLKzhwCxG9H4DmsUKfiQH8xrgMMjnDMrKVspGOSIXaTDrxHeGmERQmQMjIgo9b5Bc2skPJ0V-xJPGYkhaHR7_rs--xL8eqOgVNyJcBTS",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJK09OAGm7HRURr5lgaoJm0cM",
+            "plus_code": {
+                "compound_code": "QXR8+Q2 Haifa",
+                "global_code": "8G4PQXR8+Q2"
+            },
+            "rating": 4.1,
+            "reference": "ChIJK09OAGm7HRURr5lgaoJm0cM",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1479
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Sderot Ben Gurion 28, Haifa, 3502322, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.8203528,
+                    "lng": 34.9904556
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.82166462989272,
+                        "lng": 34.99188967989272
+                    },
+                    "southwest": {
+                        "lat": 32.81896497010727,
+                        "lng": 34.98919002010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "The Colony Hotel",
+            "photos": [
+                {
+                    "height": 2084,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100329379154753472778\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7lpWN85pdHxQD8eyQFLJa99ZBUH0crt0EzJLG60ajI-Rw1UC9H4ML5ZNEuYVhLQimCY9Hau6m8N4ql3UFSRGLrc3oxfO-E8xH8VviI6Ruq4MJmTZEFSIFLhkPrLNBNdV8amaoqqPHjL_1jYpcy_1a8jzvS2ta7lbd_zKFUQs9QF47G",
+                    "width": 2778
+                }
+            ],
+            "place_id": "ChIJxe6zEsq7HRURpOeEKRS0xzg",
+            "plus_code": {
+                "compound_code": "RXCR+45 Haifa",
+                "global_code": "8G4PRXCR+45"
+            },
+            "rating": 4.4,
+            "reference": "ChIJxe6zEsq7HRURpOeEKRS0xzg",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1017
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Lokhamei ha-Geta'ot St 25, Haifa, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.8216667,
+                    "lng": 34.9890975
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.82312242989272,
+                        "lng": 34.99021442989272
+                    },
+                    "southwest": {
+                        "lat": 32.82042277010728,
+                        "lng": 34.98751477010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Schumacher Haifa",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1333,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110401612992401392975\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q57lLG4P1XgUSHQDcFB_MHa1TzHEsHPflzPEsMSB3G-TWbV4rA1GcpGJXIUoFyYtpNX022bRjDEDPYXik9JJgrIffM5wEq-kUteMmOUjRODqarzsW-l2grmFf2c2EuuyIw4E0ZYUX44aYeypw9UpFFlJ3SeLcI1JMKQ9CqKBvKKomcE",
+                    "width": 1999
+                }
+            ],
+            "place_id": "ChIJNQOfM5C7HRUR1PGj6YkeHlw",
+            "plus_code": {
+                "compound_code": "RXCQ+MJ Haifa",
+                "global_code": "8G4PRXCQ+MJ"
+            },
+            "rating": 4.7,
+            "reference": "ChIJNQOfM5C7HRUR1PGj6YkeHlw",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 529
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Sderot Ben Gurion 50, Haifa, 3566306, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.8176265,
+                    "lng": 34.9886832
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.81894407989272,
+                        "lng": 34.99010597989272
+                    },
+                    "southwest": {
+                        "lat": 32.81624442010727,
+                        "lng": 34.98740632010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Botanica",
+            "photos": [
+                {
+                    "height": 600,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101503621825688444502\">Anna</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6J1yeGlaEuW57TGHaWqskumU4R1JmnhxMfeQmeurUNAce8-kDWRkyusZqjGdyqyXP6gV0vE0DPoPq8oVOmx7VQO4qbz1nEfQ2OS4R5MGT5HHOVz-8ei0y15q7l_nF2q6ccTVFTWfm_YLRWySwCHBUdYy5SbwPZrlVK8irVNIxBVPZi",
+                    "width": 900
+                }
+            ],
+            "place_id": "ChIJq6rmcLa7HRUR5XpueDrx1dE",
+            "plus_code": {
+                "compound_code": "RX9Q+3C Haifa",
+                "global_code": "8G4PRX9Q+3C"
+            },
+            "rating": 4.7,
+            "reference": "ChIJq6rmcLa7HRUR5XpueDrx1dE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 678
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Herzl St 61, Haifa, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.8080386,
+                    "lng": 35.0008469
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.80932737989272,
+                        "lng": 35.00212727989273
+                    },
+                    "southwest": {
+                        "lat": 32.80662772010728,
+                        "lng": 34.99942762010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Satori Hotel Haifa",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4469,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103597973027259875171\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q46hUCiSCfmCicC4fsPtg-4qO2Txk41McwC6h4xsZhPNlCWuvVjZ2NNHmrh2CuzFi7WT-vIf4ivlhbRwEDnHxI5OE3QwMj57BhsE6mGzpFSxv9g7y200rxVH8olvCr58dS-GrtNXsFJaD-uxuQqKoF-7XUAkpQQsL7zBGiyb54lkd_a",
+                    "width": 6703
+                }
+            ],
+            "place_id": "ChIJ848py0W6HRURUx--5AFklxM",
+            "plus_code": {
+                "compound_code": "R252+68 Haifa",
+                "global_code": "8G4QR252+68"
+            },
+            "rating": 3.8,
+            "reference": "ChIJ848py0W6HRURUx--5AFklxM",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 747
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Shmaryahu Levin St 8, Haifa, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.8130654,
+                    "lng": 34.9974138
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.81437737989272,
+                        "lng": 34.99881867989272
+                    },
+                    "southwest": {
+                        "lat": 32.81167772010728,
+                        "lng": 34.99611902010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Eden Hotel Haifa",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 619,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115170391789200805063\">Eden Haifa</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5jww3ce53db90mLgXPxpdoYpLGgPlX2gbDwjvEPh6YqB2RAq6Kbr5GtxVlMn68mM3E3oKq6AQnJZVlJe2HJQAVAMpds5fhRhabwyUTKisRUN0Hno8t9LUVxrV5IlLQ79dPGwykk3JY0j78HdX5QI9XdxJkV2PGY-GoPIX5YDfjH7E",
+                    "width": 928
+                }
+            ],
+            "place_id": "ChIJ1WN0eEu6HRURu4oe7rxj7d8",
+            "plus_code": {
+                "compound_code": "RX7W+6X Haifa",
+                "global_code": "8G4PRX7W+6X"
+            },
+            "rating": 3.6,
+            "reference": "ChIJ1WN0eEu6HRURu4oe7rxj7d8",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 468
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Ha-Tishbi St 130, Haifa, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.8065619,
+                    "lng": 34.9865953
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.80795322989273,
+                        "lng": 34.98796472989272
+                    },
+                    "southwest": {
+                        "lat": 32.80525357010728,
+                        "lng": 34.98526507010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Carmela Boutique Hotel",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113737250106330199355\">\u05e9\u05d7\u05e3 \u05d9\u05e4\u05e8\u05d7</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7ZX0iLZ8p5CN4sC1jYLYQkvF5qavyfnnp6zU2HBxcDBTZjmV_GRYDbLz7dFI-blK39dP8ni1zG_1DUbcKe173WQBo3VOZGyFYQu7wMLa2tPLuYMApq74TfiNETWHMkI7zctgExaQsGnAdTEiWVAQx-0ZH80vyXblYc6p544pqT0ke-",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJSQQI2K67HRUR3fTDjWuycgg",
+            "plus_code": {
+                "compound_code": "RX4P+JJ Haifa",
+                "global_code": "8G4PRX4P+JJ"
+            },
+            "rating": 4.6,
+            "reference": "ChIJSQQI2K67HRUR3fTDjWuycgg",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 443
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Yonatan St 10, Haifa, 3501255, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.8324343,
+                    "lng": 34.978197
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.83377167989271,
+                        "lng": 34.97959102989272
+                    },
+                    "southwest": {
+                        "lat": 32.83107202010727,
+                        "lng": 34.97689137010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "\u05de\u05dc\u05d5\u05df \u05d1\u05d5\u05d8\u05d9\u05e7 \u05d1\u05ea \u05d2\u05dc\u05d9\u05dd Bat Galim Boutique Hotel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 914,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112702422962878785307\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5nWyO4RV6cHC3GIICcsEHWR6PrSWihnKyGY4cXYtNQF814N7wrHBaFo5Vt2S1J_JifczrpEQqVbXYRavxXNdth955N5pWGTe8TDmlOXwaEg7UMThjSbD6YFIx5OK-UgndMcg0TYPZPKQy3bmrqRU0AHKe41nnnUaoZtJH4E4UIEQ8L",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJba84p8S7HRUR1FbdmdQZ3uw",
+            "plus_code": {
+                "compound_code": "RXJH+X7 Haifa",
+                "global_code": "8G4PRXJH+X7"
+            },
+            "rating": 4.6,
+            "reference": "ChIJba84p8S7HRUR1FbdmdQZ3uw",
+            "types": [
+                "lodging",
+                "travel_agency",
+                "spa",
+                "real_estate_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 438
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Herzl St 63, Haifa, 3321214, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.8078884,
+                    "lng": 35.0009611
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.80913062989272,
+                        "lng": 35.00234782989271
+                    },
+                    "southwest": {
+                        "lat": 32.80643097010727,
+                        "lng": 34.99964817010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Haifa Tower Hotel",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102101049984409425768\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6oIHJVN5XSQEFC-jBiW7fyAr_-deUh7t4RJ2dNlDQ5vt47NCDtzEMMh5ZSXotOawvWR5g-1b_Ti0DhpcioRoSEMGLY_QGN8TOK1BIuYgrVRthrWNaHwtONXycyuwzkI_k-DC2QSXsHezaZrMdy3VSapjcsJMlGqxgVNqvhSjbfSRFi",
+                    "width": 2250
+                }
+            ],
+            "place_id": "ChIJifn2bU66HRURhSCKgtX78B0",
+            "plus_code": {
+                "compound_code": "R252+59 Haifa",
+                "global_code": "8G4QR252+59"
+            },
+            "rating": 3.4,
+            "reference": "ChIJifn2bU66HRURhSCKgtX78B0",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 200
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Yefe Nof St 111, Haifa, 34454, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.8047054,
+                    "lng": 34.9900236
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.80600817989272,
+                        "lng": 34.99130247989272
+                    },
+                    "southwest": {
+                        "lat": 32.80330852010727,
+                        "lng": 34.98860282010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Crowne Plaza Haifa, an IHG Hotel",
+            "photos": [
+                {
+                    "height": 1366,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110615093876982650739\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7iGUCmHqV5Dq73DBsw6OI79PYZEJJIJhW3wQZOHJBpxaV5pkQfhXaTsXT8uBCE93g6fOWcyZHS-3IvgckGeJbOCBugyxGuRbeaabDaOmAe4DeE2e1LxLS3xGBpfXPyzIpZJ7uEmWlL8blbwtVznIblUYh5TMiryr6iqq951UmEvSho",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJOQua8Ku7HRURw10S6lVIRHk",
+            "plus_code": {
+                "compound_code": "RX3R+V2 Haifa",
+                "global_code": "8G4PRX3R+V2"
+            },
+            "rating": 4.1,
+            "reference": "ChIJOQua8Ku7HRURw10S6lVIRHk",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1130
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Sderot Ben Gurion 36, Haifa, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.8195364,
+                    "lng": 34.9898529
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.82098282989271,
+                        "lng": 34.99101412989273
+                    },
+                    "southwest": {
+                        "lat": 32.81828317010727,
+                        "lng": 34.98831447010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Templers Boutique Hotel by Golden Crown",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1020,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104539390257174248998\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6AUj1YOdP8H-CSOCodq8r8atXTHrl6c0zWM21PiUL0xjEs9Q58H5YqvAToJd5faJVyoHt0KXgk0JUbUElIQS1eFKyrTIx7G_f4G6h_TBp0KYXdpMuIpppDgjgnFr_UvRzymF_6fJZhxYwP4-1D-wMLxIWwZ83UmSTwufYjve4cHMRA",
+                    "width": 1279
+                }
+            ],
+            "place_id": "ChIJLQ0M8LW7HRURZDSXxLDApts",
+            "plus_code": {
+                "compound_code": "RX9Q+RW Haifa",
+                "global_code": "8G4PRX9Q+RW"
+            },
+            "rating": 4.3,
+            "reference": "ChIJLQ0M8LW7HRURZDSXxLDApts",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 396
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Bat Galim 6, Haifa, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.8334662,
+                    "lng": 34.9770447
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.83483537989272,
+                        "lng": 34.97840242989271
+                    },
+                    "southwest": {
+                        "lat": 32.83213572010728,
+                        "lng": 34.97570277010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "\u05de\u05dc\u05d5\u05df \u05d3\u05d5\u05de\u05d5\u05e1 \u05d1\u05ea \u05d2\u05dc\u05d9\u05dd \u05d7\u05d9\u05e4\u05d4",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105258618828174387823\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q55coG5asZV-BXcYsG1i6vkr97lfHQ-vIb6TdHzcckTmR7Yg6bWE7NyrcDrYFRb1uzS02nMpC87rE-TmyoLiA8xDchggxU_e_AnY8PTn3DDcBxeEYisGRUy8ZWeb_-ev8TkI0WB4f444EmWSOJtQhrE6j7mhOivnJdIuAiKv14d5nNt",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJeePXJDm7HRURfgmQYcsVMaw",
+            "plus_code": {
+                "compound_code": "RXMG+9Q Haifa",
+                "global_code": "8G4PRXMG+9Q"
+            },
+            "rating": 4.5,
+            "reference": "ChIJeePXJDm7HRURfgmQYcsVMaw",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 158
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Derekh Yafo 34, Haifa, 3326108, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.81934870000001,
+                    "lng": 34.9977028
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.82067037989273,
+                        "lng": 34.99901912989272
+                    },
+                    "southwest": {
+                        "lat": 32.81797072010728,
+                        "lng": 34.99631947010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Port Inn",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1402,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116415661755853967264\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7rX59zP1d3Hjk4TE0z8nuuq6oCFruSeL_LubO3OmGhTRJEWOZr0xAwCJDQVEdxBb3cQNur5X9cKOYS639R0txQihWboMkNPZ3DneqR6o1ksCeaLXITAroAmuFl6bp6a3mLH9_BGUQM0-ovtt5DXgixHj-DYHW0sw-FlIBw3t_6na-8",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJ_W_2qDW6HRURBPwue5TJO6A",
+            "plus_code": {
+                "compound_code": "RX9X+P3 Haifa",
+                "global_code": "8G4PRX9X+P3"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ_W_2qDW6HRURBPwue5TJO6A",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 339
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Heinrich Heine 1, Haifa, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.7993317,
+                    "lng": 34.9840508
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.80071377989272,
+                        "lng": 34.98539392989272
+                    },
+                    "southwest": {
+                        "lat": 32.79801412010728,
+                        "lng": 34.98269427010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Villa Carmel",
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107178027362300219679\">mazal tzubeli</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5ImZ5ie0Arf9BFzEYuqLdK1VAsvOazdiVqVz6lo5FDNXcuBO6H-pLadgygN1gl7oXVbldi8e7qjij9VnHhhyE6K5iKZMWZsuGH3lSaHcM4sG3YuHNZiKCaBGKoTkLvHSIq359w8KRD-AyRqDZ8LqwUsVNmWhZpU2-Tp9J9xQVm1OSs",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJgYF1Kga7HRURsbOeCtHEzqQ",
+            "plus_code": {
+                "compound_code": "QXXM+PJ Haifa",
+                "global_code": "8G4PQXXM+PJ"
+            },
+            "rating": 4.1,
+            "reference": "ChIJgYF1Kga7HRURsbOeCtHEzqQ",
+            "types": [
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 529
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "HeHaluts St 35, Haifa, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.8107664,
+                    "lng": 34.999255
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.81210902989272,
+                        "lng": 35.00050572989272
+                    },
+                    "southwest": {
+                        "lat": 32.80940937010728,
+                        "lng": 34.99780607010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Loui Hotel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104069386127500570706\">Loui M Apartments</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5-JYasmocEVezqh6qjHT58Gsni6gyCyn5cBBmdt4KpFIMNkeCisW3se-jRxBLivGoEb2al0LIkUSabhvqYdyzhLP0U9fRTskItcRUSN9zWmQZsj5atdhUoEcQTtnTQbp-DVJJ_qRTdXooaBbVPoM-u7kngOC9Xf-XxEpmLv4DsJNCZ",
+                    "width": 1965
+                }
+            ],
+            "place_id": "ChIJJ0YqPky6HRURzXAsc4TQ1V0",
+            "plus_code": {
+                "compound_code": "RX6X+8P Haifa",
+                "global_code": "8G4PRX6X+8P"
+            },
+            "rating": 4.1,
+            "reference": "ChIJJ0YqPky6HRURzXAsc4TQ1V0",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 218
+        }
+    ],
+    "status": "OK"
+}

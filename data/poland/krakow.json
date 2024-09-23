@@ -101,8 +101,8 @@
                 }
             ],
             "types": [
-                "establishment",
                 "lodging",
+                "establishment",
                 "point_of_interest"
             ]
         },
@@ -155,9 +155,9 @@
                 }
             ],
             "types": [
-                "airport",
                 "point_of_interest",
-                "establishment"
+                "establishment",
+                "airport"
             ]
         },
         {
@@ -209,9 +209,9 @@
                 }
             ],
             "types": [
-                "lodging",
+                "point_of_interest",
                 "establishment",
-                "point_of_interest"
+                "lodging"
             ]
         },
         {
@@ -263,8 +263,8 @@
                 }
             ],
             "types": [
-                "travel_agency",
                 "point_of_interest",
+                "travel_agency",
                 "establishment"
             ]
         }

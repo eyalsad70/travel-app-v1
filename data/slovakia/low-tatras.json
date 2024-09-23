@@ -1,0 +1,210 @@
+{
+    "predictions": [
+        {
+            "description": "Low Tatras, Lazisko, Slovakia",
+            "matched_substrings": [
+                {
+                    "length": 10,
+                    "offset": 0
+                },
+                {
+                    "length": 8,
+                    "offset": 21
+                }
+            ],
+            "place_id": "ChIJZ_XCoTx0FUcRbw-fzMUg3Nw",
+            "reference": "ChIJZ_XCoTx0FUcRbw-fzMUg3Nw",
+            "structured_formatting": {
+                "main_text": "Low Tatras",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 10,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Lazisko, Slovakia",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 8,
+                        "offset": 9
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Low Tatras"
+                },
+                {
+                    "offset": 12,
+                    "value": "Lazisko"
+                },
+                {
+                    "offset": 21,
+                    "value": "Slovakia"
+                }
+            ],
+            "types": [
+                "natural_feature",
+                "establishment"
+            ]
+        },
+        {
+            "description": "Slovakia, Low Tatras National Park, Kr\u00e1\u013eova Lehota, Slovakia",
+            "matched_substrings": [
+                {
+                    "length": 8,
+                    "offset": 0
+                },
+                {
+                    "length": 10,
+                    "offset": 10
+                }
+            ],
+            "place_id": "ChIJcx6Cx1UrPkcR-vYKTJOkSdg",
+            "reference": "ChIJcx6Cx1UrPkcR-vYKTJOkSdg",
+            "structured_formatting": {
+                "main_text": "Slovakia",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 8,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Low Tatras National Park, Kr\u00e1\u013eova Lehota, Slovakia",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 10,
+                        "offset": 0
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Slovakia"
+                },
+                {
+                    "offset": 10,
+                    "value": "Low Tatras National Park"
+                },
+                {
+                    "offset": 36,
+                    "value": "Kr\u00e1\u013eova Lehota"
+                },
+                {
+                    "offset": 52,
+                    "value": "Slovakia"
+                }
+            ],
+            "types": [
+                "establishment",
+                "natural_feature"
+            ]
+        },
+        {
+            "description": "Jasna Low Tatras, Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+            "matched_substrings": [
+                {
+                    "length": 10,
+                    "offset": 6
+                },
+                {
+                    "length": 8,
+                    "offset": 37
+                }
+            ],
+            "place_id": "ChIJ2W3YQmt2FUcRpxZcH30YBFg",
+            "reference": "ChIJ2W3YQmt2FUcRpxZcH30YBFg",
+            "structured_formatting": {
+                "main_text": "Jasna Low Tatras",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 10,
+                        "offset": 6
+                    }
+                ],
+                "secondary_text": "Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 8,
+                        "offset": 19
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Jasna Low Tatras"
+                },
+                {
+                    "offset": 18,
+                    "value": "Dem\u00e4novsk\u00e1 Dolina"
+                },
+                {
+                    "offset": 37,
+                    "value": "Slovakia"
+                }
+            ],
+            "types": [
+                "store",
+                "travel_agency",
+                "establishment",
+                "point_of_interest",
+                "park"
+            ]
+        },
+        {
+            "description": "Low Tatras National Park, Bansk\u00e1 Bystrica, Slovakia",
+            "matched_substrings": [
+                {
+                    "length": 10,
+                    "offset": 0
+                },
+                {
+                    "length": 8,
+                    "offset": 43
+                }
+            ],
+            "place_id": "ChIJc_Y5JvF4FUcRgPK1z9L3AA8",
+            "reference": "ChIJc_Y5JvF4FUcRgPK1z9L3AA8",
+            "structured_formatting": {
+                "main_text": "Low Tatras National Park",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 10,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Bansk\u00e1 Bystrica, Slovakia",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 8,
+                        "offset": 17
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Low Tatras National Park"
+                },
+                {
+                    "offset": 26,
+                    "value": "Bansk\u00e1 Bystrica"
+                },
+                {
+                    "offset": 43,
+                    "value": "Slovakia"
+                }
+            ],
+            "types": [
+                "point_of_interest",
+                "establishment",
+                "tourist_attraction",
+                "park"
+            ]
+        }
+    ],
+    "status": "OK"
+}

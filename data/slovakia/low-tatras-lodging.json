@@ -1,0 +1,1009 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AXCi2Q5rdj0COFYySMB69uzDzDARA7o3RSaZH51CpnhDleK2sT6OCaa8umGCEUKygJkimf8Hk-_iFAp290sfzTcmBlL3EQUz2Bo9CmdCIeqWiHQMwhpRjjdJH5fq0yMjj37QzOSe1ZzoXOzcYEwanXSztrfVJ3c_AHDtCC_4H6CmxfBZ8G72g5Q8OmPC_9GcZkoATWTZdVp23DFDwNsVbwF5n-pk6aTWXoHs2dwSw4mp61aSXXZYe8RlZ7BzORqTIB13xPDx6HsdWrsg14kEURI5ONxwR_HJoMwusGn_Fz3ziLCZ7XA4mWS-vg1enKuMRMgY8-T8UWphqYetZZIK0kym3tj40FwSXsZ2MkiTchEaiC_m9LpKV3XuqKhfDQ6QfModabdpcsSFUZmz8eWSelfRwzMjdNvTVAGhnE-YUW6C6LUutqOne_W2",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dem\u00e4novsk\u00e1 Dolina 20, 031 01 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.0193208,
+                    "lng": 19.5767287
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.02071492989273,
+                        "lng": 19.57816482989272
+                    },
+                    "southwest": {
+                        "lat": 49.01801527010728,
+                        "lng": 19.57546517010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Wellness Hotel Chopok",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 850,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104445605328499588037\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4CLt4DwQbypMJRbd4GBrbdvV6JG1yGQtTdD5jCqvrvi4Sy5FYf5opE1G31L-Wt-EZsZZ7xkF8dWXn8ONnKmLc1U-8KW8d6GkUb5iiE__xW6eZqF1Y1RtFDN2vuc_RGTcUYPVOQErn38YAq79lbtJ1dNHkw-t1m8eR1SQcnvZqjkVSD",
+                    "width": 1000
+                }
+            ],
+            "place_id": "ChIJqfGlVs7soEcR_tO6K49msYE",
+            "plus_code": {
+                "compound_code": "2H9G+PM Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+                "global_code": "8FXX2H9G+PM"
+            },
+            "rating": 4.7,
+            "reference": "ChIJqfGlVs7soEcR_tO6K49msYE",
+            "types": [
+                "lodging",
+                "spa",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1365
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dem\u00e4novsk\u00e1 dolina 77 Dem\u00e4novsk\u00e1 Dolina, 031 01 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 48.9667936,
+                    "lng": 19.5821421
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 48.96850387989273,
+                        "lng": 19.58357802989272
+                    },
+                    "southwest": {
+                        "lat": 48.96580422010729,
+                        "lng": 19.58087837010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Bj\u00f6rnson Jasn\u00e1 & Bj\u00f6rnson Tree Houses",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3790,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102095893394361417983\">Chata Bj\u00f6rnson - Bj\u00f6rnsonka</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7bsO4kkuYOdbdZ1RGB81nY_H-GijW2He0UFvwG6kSobklbNM8-QwiJaQwZIPGTT5ASbwVD2_okxpgeGC4XheBgfxYQhZbdqPMLb0WVDdRA9AzOKW1v5HCJkXA5YaLdtHU8QgW46mnK-LgaMH3Un07C1kkwkxxPWZaGy1rQ3l39S5ax",
+                    "width": 5676
+                }
+            ],
+            "place_id": "ChIJjcDfYHB2FUcRTvymmycRRak",
+            "plus_code": {
+                "compound_code": "XH8J+PV Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+                "global_code": "8FWXXH8J+PV"
+            },
+            "rating": 4.7,
+            "reference": "ChIJjcDfYHB2FUcRTvymmycRRak",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1355
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "K\u00fape\u013en\u00e1 6, 059 85 Vysok\u00e9 Tatry-\u0160trbsk\u00e9 Pleso, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.1193343,
+                    "lng": 20.0590182
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.12061567989272,
+                        "lng": 20.06034242989272
+                    },
+                    "southwest": {
+                        "lat": 49.11791602010728,
+                        "lng": 20.05764277010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Grand Hotel Kempinski High Tatras",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105098066230946670968\">Grand Hotel Kempinski High Tatras</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6crAR-t2Nr74MV5Xv5PHzoEQACUpWR4IcxkyptU2ps7woHse6j-N5i6I7G8xLLl4TCJPSAVFg7V_ZGs85r1LkdV3G4VEIQ89EizFssTg4Fx-SI92gijqiahRV0kS6Z5d8RDpxHI_tjbzyQQZwqBP0PTXWJM0wNvrLyxERcEWfAk8PU",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJH0H2Q4MnPkcRSCwsDJsNsyw",
+            "plus_code": {
+                "compound_code": "4395+PJ Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX24395+PJ"
+            },
+            "rating": 4.7,
+            "reference": "ChIJH0H2Q4MnPkcRSCwsDJsNsyw",
+            "types": [
+                "lodging",
+                "spa",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1844
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Tatransk\u00e1 Lomnica - Eurocamp 202, 059 60 Vysok\u00e9 Tatry, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.1590204,
+                    "lng": 20.3093219
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.16037022989272,
+                        "lng": 20.31067172989272
+                    },
+                    "southwest": {
+                        "lat": 49.15767057010728,
+                        "lng": 20.30797207010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Tatranec",
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108997035562753225287\">Nem clickbate-es vide\u00f3k</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7JcDiNUTstEMHvWhPeELwrwCqilx0wSnE9reFArLr24AjgkR-hjCHoQ5SO--4u_CLVaVT84qYNjShMqbzggKR_Jdr4L18JEs1w04FL33ThAABbS9VSyWsY6B13t2kb1hDN7BX9XoqAgHupuwONoKB7-ZvK8eJi1g_lryIuSOEy2Uyq",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJkaF0NyAjPkcRg0FM5a6ch4Q",
+            "plus_code": {
+                "compound_code": "5855+JP Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX25855+JP"
+            },
+            "rating": 3.9,
+            "reference": "ChIJkaF0NyAjPkcRg0FM5a6ch4Q",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 387
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dem\u00e4novsk\u00e1 Dolina 71, 031 01 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 48.9705429,
+                    "lng": 19.5806266
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 48.97174892989272,
+                        "lng": 19.58170077989272
+                    },
+                    "southwest": {
+                        "lat": 48.96904927010728,
+                        "lng": 19.57900112010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Grand Jasn\u00e1",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2840,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108880383013120606040\">Hotel Grand Jasna</a>"
+                    ],
+                    "photo_reference": "AXCi2Q58vBqB8GVSZ8pTQdWP8rTRqrSAyq7HsJSXUZZic369uz7QX4tLUfBWTCWOgBHc5L2df_uL9i71ZoBJSmfBpLMycq4BJtoEk6jDI3_gskMy6iEkX0vl4VVLY-NVT0uZW2bml9fK7Qtog1LqWViRAeRRQb86wEEDBgXO-ZpUrSlroTxb",
+                    "width": 4256
+                }
+            ],
+            "place_id": "ChIJta6LVXF2FUcRkbMhYA-C19s",
+            "plus_code": {
+                "compound_code": "XHCJ+66 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+                "global_code": "8FWXXHCJ+66"
+            },
+            "rating": 4.4,
+            "reference": "ChIJta6LVXF2FUcRkbMhYA-C19s",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2251
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Star\u00fd Smokovec 25, 062 01 Vysok\u00e9 Tatry-Star\u00fd Smokovec, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.1388341,
+                    "lng": 20.2242454
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.14017287989272,
+                        "lng": 20.22560252989272
+                    },
+                    "southwest": {
+                        "lat": 49.13747322010727,
+                        "lng": 20.22290287010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "High Tatras - Accommodation",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104413449948761107395\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7cSld3MjL6tSeROuDlbZiiM47RJh5Gq42oIlJqNMbuZhTbyVAp-Lpuo1f3mzhJ10xMpye6xeLqSLLF14R4q55HUHGeZYLmFFSBlc4GX8uAhtotHpcYfklJK0LA2SyrjligdiFkeFnpjxwlj46g9jxHN3ub3NrzHNZqSYbvENtXRrCi",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJZ_m2vfYjPkcR9eUNyHPSM40",
+            "plus_code": {
+                "compound_code": "46QF+GM Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX246QF+GM"
+            },
+            "rating": 4.8,
+            "reference": "ChIJZ_m2vfYjPkcR9eUNyHPSM40",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dem\u00e4novsk\u00e1 Dolina \u010d.31, 031 01 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 48.9905362,
+                    "lng": 19.5759679
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 48.99196842989272,
+                        "lng": 19.57723767989272
+                    },
+                    "southwest": {
+                        "lat": 48.98926877010728,
+                        "lng": 19.57453802010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Wellness Hotel Repisk\u00e1",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3744,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118412279968944703661\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5GUAbaV-FcwbU33GSHXA1lcd9eHQGFINr0V2Js1AIfO8ElFTFrsF5h5p1fEHc2dDmfuEguY0LGOXBD3ocLmpUTuFF7_x1ufdBJKrqR3A_6htzk-1KT-tWys7djnG8jnEiOEUbtVwZrtnVnsD7aZSrOxHlavYh_gND62VBBQ_osp3dh",
+                    "width": 5616
+                }
+            ],
+            "place_id": "ChIJta6LVXF2FUcRj1B_BucU_jE",
+            "plus_code": {
+                "compound_code": "XHRG+69 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+                "global_code": "8FWXXHRG+69"
+            },
+            "rating": 4.1,
+            "reference": "ChIJta6LVXF2FUcRj1B_BucU_jE",
+            "types": [
+                "lodging",
+                "spa",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 789
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Tatransk\u00e1 Lomnica 8, 059 60 Vysok\u00e9 Tatry-Tatransk\u00e1 Lomnica, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.1698,
+                    "lng": 20.280179
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.17120217989272,
+                        "lng": 20.28153732989272
+                    },
+                    "southwest": {
+                        "lat": 49.16850252010727,
+                        "lng": 20.27883767010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Grandhotel Praha Tatransk\u00e1 Lomnica",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102984476109570525906\">Grandhotel Praha</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4cbs2nI4hKbi-l6oEzKaX5hbjjgh8VSD-GgbWrK9E5h0TeZTyoZjYMEfb0oQKRhBphYqPK2LT1BZGAihpSzAdvKV6k1WuWKgqLMU8_L5n5C_TkNl5tanmRzo8lAsth-5FUTJqbE6DHO0SOKHbYdJsbLJBK7G6hoGWVgmxxk38LSXdL",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJyendiqsjPkcRJt6glqleANI",
+            "plus_code": {
+                "compound_code": "579J+W3 Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX2579J+W3"
+            },
+            "rating": 4.6,
+            "reference": "ChIJyendiqsjPkcRJt6glqleANI",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2505
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dem\u00e4novsk\u00e1 Dolina 200, 031 01 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 48.9728211,
+                    "lng": 19.6005545
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 48.97423017989273,
+                        "lng": 19.60180232989272
+                    },
+                    "southwest": {
+                        "lat": 48.97153052010729,
+                        "lng": 19.59910267010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Family Strachan Jasn\u00e1",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3437,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109038753576620311434\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6nibaC8uwL8K5jL_I556RdmEJWJm9rw_Bk353bQq4R6ANbesO5iHYTXacRaaALZU7fDAYRdcRPs0o2CIA4ic_0k1IGmav0LLU9RDksN8LnROiFT5ELEljy0cKyXkz0asjqoxPKuMRkb7PPbZTHos7Ip75u9ETq_HDHsuR_jkvC4TJP",
+                    "width": 5159
+                }
+            ],
+            "place_id": "ChIJPZl302N3FUcR1rmyoEz42Yk",
+            "plus_code": {
+                "compound_code": "XJF2+46 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+                "global_code": "8FWXXJF2+46"
+            },
+            "rating": 4.7,
+            "reference": "ChIJPZl302N3FUcR1rmyoEz42Yk",
+            "types": [
+                "lodging",
+                "bar",
+                "spa",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 459
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "T\u00e1le 108, 977 01 Bystr\u00e1, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 48.87398899999999,
+                    "lng": 19.600124
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 48.87527922989272,
+                        "lng": 19.60151207989272
+                    },
+                    "southwest": {
+                        "lat": 48.87257957010728,
+                        "lng": 19.59881242010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Partiz\u00e1n",
+            "photos": [
+                {
+                    "height": 628,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116642919756530714892\">Hotel Partiz\u00e1n****</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4jzoYIH336skQmJHMT3jnlqhf5nAoXj1MKkxuDotsC3RiJ3FUhj3wEhar9fwcwocL70pDSM_Lt3KZy50i4o8_2aJixqo2SbP5x5cbc5yt3WZ-o1Z-viULJlW90NDhrn1271mTfUG6LCEYSUyaJ4qJ7vIzKNrXtKyx9RsbZzTiQgUpO",
+                    "width": 937
+                }
+            ],
+            "place_id": "ChIJrZeRhoxwFUcRiMyqiHQL4sY",
+            "plus_code": {
+                "compound_code": "VJF2+H2 Bystr\u00e1, Slovakia",
+                "global_code": "8FWXVJF2+H2"
+            },
+            "rating": 4.7,
+            "reference": "ChIJrZeRhoxwFUcRiMyqiHQL4sY",
+            "types": [
+                "lodging",
+                "spa",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2206
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Star\u00fd Smokovec 38, 062 01 Vysok\u00e9 Tatry-Star\u00fd Smokovec, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.1408168,
+                    "lng": 20.2215439
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.14228472989272,
+                        "lng": 20.22307402989272
+                    },
+                    "southwest": {
+                        "lat": 49.13958507010728,
+                        "lng": 20.22037437010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Grand Hotel Stary Smokovec",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110854060898791825368\">Grandhotel Star\u00fd Smokovec</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5TWC8bF5WamVMrIEOs0DYeNlEpRUakVYsrkpJae7hqBbIvwM-VSYgl1XeNLbQYU0lb0bu-apL6ns5fSZy6QindJH0VraJa6cXT8Ku5rV2aqAZKwNEc3om4AJhKY-m6cAmD3Q0RySlNTJTHkGH53jKp0YVyKHkIq2UnWMRHgO2kBXM9",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJO8xwqvcjPkcRSfk53L1WtFk",
+            "plus_code": {
+                "compound_code": "46RC+8J Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX246RC+8J"
+            },
+            "rating": 4.6,
+            "reference": "ChIJO8xwqvcjPkcRSfk53L1WtFk",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1658
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dem\u00e4novsk\u00e1 Dolina 88, 031 01 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 48.96444040000001,
+                    "lng": 19.5856052
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 48.96578732989272,
+                        "lng": 19.58694482989272
+                    },
+                    "southwest": {
+                        "lat": 48.96308767010728,
+                        "lng": 19.58424517010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Jasn\u00e1",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2667,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112876510507662566915\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6r1_OUjW3_tfvAqEAxyi2y9rYksriy9w2fI_rlOEFLB5LZWGVXDJg4lmN-U3ipIZMKz-3QixN8esws1qcveAZIZUH0W-ehELFpKCnPlkUTplwPsdWW24-A7iEXODsAQMa2y6AtYjURYESChFWd6OJwpFdhVqAFU_uljHlzehocaTFV",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJi7p6UvV3FUcRT3cKj-xzv_o",
+            "plus_code": {
+                "compound_code": "XH7P+Q6 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+                "global_code": "8FWXXH7P+Q6"
+            },
+            "rating": 4.7,
+            "reference": "ChIJi7p6UvV3FUcRT3cKj-xzv_o",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 206
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dem\u00e4novsk\u00e1 Dolina 330, 031 01 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 48.963941,
+                    "lng": 19.585795
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 48.96546027989272,
+                        "lng": 19.58727297989272
+                    },
+                    "southwest": {
+                        "lat": 48.96276062010728,
+                        "lng": 19.58457332010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel FIS Jasn\u00e1****",
+            "photos": [
+                {
+                    "height": 1267,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112736803728900151958\">Hotel Fis Jasn\u00e1</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7XrA7r3MS0YxM4CsCSzx4To7Mbnzb1s5F6z89EWR74Mk_z3baBuycuoV7QPxP5pQ3vZyQ--JaZef7uvXE1_fG87uRoCx140zFe5w5wLQ5LYpX0E_cMc4LcNG-YNJXcCizR9Cst1peAD0HpNykTjL_i7n1RfydMaNVFG6pVP8x05Klx",
+                    "width": 1900
+                }
+            ],
+            "place_id": "ChIJVVUVamV2FUcR-f5j68wrzEw",
+            "plus_code": {
+                "compound_code": "XH7P+H8 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+                "global_code": "8FWXXH7P+H8"
+            },
+            "rating": 4.5,
+            "reference": "ChIJVVUVamV2FUcR-f5j68wrzEw",
+            "types": [
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 371
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dem\u00e4novsk\u00e1 Dolina 82, 031 01 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 48.9667799,
+                    "lng": 19.5854034
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 48.96841707989272,
+                        "lng": 19.58689132989272
+                    },
+                    "southwest": {
+                        "lat": 48.96571742010728,
+                        "lng": 19.58419167010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Ski & Wellness Residence Dru\u017eba****",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115010291446521863519\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4zEgBE2KkY9HE73ZMI7mzHOk-ruUTZk0HcT9b3nMbEUBygiKSVrpvuvGR6c87Z67fgfqDD_Vuez3RnuCzI7eT_senzXDW2NHj58ck0ee76XPPXeuTrh05FyGVoiiy6Wvq3CHmZPJPYWSax_CQh68fKJ2t01vf127wwhri8mFY1r8I_",
+                    "width": 5184
+                }
+            ],
+            "place_id": "ChIJgaPX13p2FUcRtqMzf7aKyPU",
+            "plus_code": {
+                "compound_code": "XH8P+P5 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+                "global_code": "8FWXXH8P+P5"
+            },
+            "rating": 4.6,
+            "reference": "ChIJgaPX13p2FUcRtqMzf7aKyPU",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1891
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Tatransk\u00e1 Lomnica 92, 059 60 Vysok\u00e9 Tatry-Tatransk\u00e1 Lomnica, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.1657283,
+                    "lng": 20.2802877
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.16708427989271,
+                        "lng": 20.28141082989272
+                    },
+                    "southwest": {
+                        "lat": 49.16438462010727,
+                        "lng": 20.27871117010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Lomnica",
+            "photos": [
+                {
+                    "height": 5200,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111132729412212692592\">Hotel Lomnica</a>"
+                    ],
+                    "photo_reference": "AXCi2Q47uOKrd0ZWZLkr9V7c06agSvwfhtJ-bCkF2vNzNvpZzhSHG5dghj9C-Ark4zNjI3d3lIVWU1GV6DzWiQ20Ik1Sgma3JenDaUVMeLTxBeOFCgJuIck2UIzzBAf8BKFi8SQjOkHqgG7XmwKPZr7aOA76h4u_Xo5UuT5ILBif-91ITE1g",
+                    "width": 8256
+                }
+            ],
+            "place_id": "ChIJnbxvrqojPkcRYgXvXBrVYs8",
+            "plus_code": {
+                "compound_code": "578J+74 Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX2578J+74"
+            },
+            "rating": 4.8,
+            "reference": "ChIJnbxvrqojPkcRYgXvXBrVYs8",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1367
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dem\u00e4novsk\u00e1 Dolina 45, 031 01 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 48.9796779,
+                    "lng": 19.5981216
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 48.98098072989272,
+                        "lng": 19.59938622989272
+                    },
+                    "southwest": {
+                        "lat": 48.97828107010728,
+                        "lng": 19.59668657010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Chaty Jasn\u00e1",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 768,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100808984030767774614\">CHATY JASN\u00c1</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5ltQ3n8ejPtnofTvjVn4j71CUCG7oBIIXUnkLG4fOc2fpDNpKAknB--KyHpfEoLH6GXoO8BxoryYotBuPaYMQB8bkgvVF7RFgWEfs-Ka3gxNo8R8XZ1npmCS6Z21jwK5Aiw15D2tZvI-gir9xLfAQjEKmrT0gYwEBsA8AcDiPL7KTL",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJF8BWkxF2FUcR9xx60qxrGMQ",
+            "plus_code": {
+                "compound_code": "XHHX+V7 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+                "global_code": "8FWXXHHX+V7"
+            },
+            "rating": 4.5,
+            "reference": "ChIJF8BWkxF2FUcR9xx60qxrGMQ",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 323
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dem\u00e4novsk\u00e1 Dolina 101, 031 01 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 48.9732833,
+                    "lng": 19.5841811
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 48.97447167989272,
+                        "lng": 19.58544002989272
+                    },
+                    "southwest": {
+                        "lat": 48.97177202010727,
+                        "lng": 19.58274037010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Ostredok",
+            "photos": [
+                {
+                    "height": 823,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114253984505273913214\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7v2Hq_nD9q6ETlB1AJBA--dceIZWzIEH2-mFEM0ce6w0EgzVPOwXeKGcWIEIvW4rkZNFf1CQBy7pjqym960Z1gasEQwj61DLwoFfHKOxVvHSartCvMYwPouDG3Kt_rfTlkYHyjbl_buOKxCctghfh8W7-5St4SxSndLy5yrmhvoDXf",
+                    "width": 1234
+                }
+            ],
+            "place_id": "ChIJta6LVXF2FUcRVfodO1FHzQQ",
+            "plus_code": {
+                "compound_code": "XHFM+8M Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+                "global_code": "8FWXXHFM+8M"
+            },
+            "rating": 4.5,
+            "reference": "ChIJta6LVXF2FUcRVfodO1FHzQQ",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 578
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "360, 154, 031 01 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 48.9661827,
+                    "lng": 19.5771384
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 48.96765837989272,
+                        "lng": 19.57839597989272
+                    },
+                    "southwest": {
+                        "lat": 48.96495872010728,
+                        "lng": 19.57569632010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Chalety Horsk\u00e1 L\u00faka Jasn\u00e1",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 908,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113790702285426558495\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7hFA-zE0Dfw0vSpledwyE2lyIF72cY3QNV_JkoOdu_3P36dBabhnBfmW2GOQHgxQ4HYDYaa-rZkvUus734zuEUhiruSuxQHCT--fKhP27AFihgMve1HhKaWFgl1s_aWXFY2X72fpo5IPYBUBbHmvW9UIfoXFlc7KkC_DADCk_7kwNI",
+                    "width": 1210
+                }
+            ],
+            "place_id": "ChIJmx7-jDl3FUcRJvYwsvTXF2k",
+            "plus_code": {
+                "compound_code": "XH8G+FV Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+                "global_code": "8FWXXH8G+FV"
+            },
+            "rating": 4.8,
+            "reference": "ChIJmx7-jDl3FUcRJvYwsvTXF2k",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Krp\u00e1\u010dovo, 976 98 Horn\u00e1 Lehota-Lopej, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 48.87571,
+                    "lng": 19.5568141
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 48.87682962989273,
+                        "lng": 19.55829952989273
+                    },
+                    "southwest": {
+                        "lat": 48.87412997010728,
+                        "lng": 19.55559987010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Polianka",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 853,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109777887241993065430\">Hotel Polianka</a>"
+                    ],
+                    "photo_reference": "AXCi2Q79kekaQvrjfgI-7eFeRSrSRLdlY8iRaHeDaSAdCLjlI7NNqhhR87fxqMqac4Llt84dMK8p05gsYflJ3YBuiep5Vc9jzjin2sy6323Sv-kIKs5M15F0vah_YILE8LP6XF30oosc7zZqaBQXhqzBOd9Lmprna1-wG3xI3f9SepQ1vHAq",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJedoErQBxFUcRyrxCof_MvNs",
+            "plus_code": {
+                "compound_code": "VHG4+7P Horn\u00e1 Lehota, Slovakia",
+                "global_code": "8FWXVHG4+7P"
+            },
+            "rating": 4.5,
+            "reference": "ChIJedoErQBxFUcRyrxCof_MvNs",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 747
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "\u0160trbsk\u00e9 Pleso 33, 059 85 Vysok\u00e9 Tatry-\u0160trbsk\u00e9 Pleso, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.1244727,
+                    "lng": 20.0612118
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.12589847989272,
+                        "lng": 20.06262677989272
+                    },
+                    "southwest": {
+                        "lat": 49.12319882010728,
+                        "lng": 20.05992712010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Wellness Hotel Patria",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 339,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108940640338948890370\">Hotel Patria ****</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7lC1yWd4ERt4Zzj-000_4vURaGHSdgc24EQbPp-layt-uHCcz-1ujX7ztFIaCDmvsyRngPBOrSOv5Y7z8QU6TNSAjpDlTejoxqYUk9ihksSqCXeU-89G2u131085s1t7vOPdDtgaUcpi_bPJvPOBaCNIUwGtaT6z1jdgtHDBAxtMoH",
+                    "width": 421
+                }
+            ],
+            "place_id": "ChIJIcFyK34nPkcRV2RW4j46WIU",
+            "plus_code": {
+                "compound_code": "43F6+QF Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX243F6+QF"
+            },
+            "rating": 4.5,
+            "reference": "ChIJIcFyK34nPkcRV2RW4j46WIU",
+            "types": [
+                "lodging",
+                "spa",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2488
+        }
+    ],
+    "status": "OK"
+}

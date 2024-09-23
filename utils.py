@@ -1,9 +1,12 @@
 
+""" 
+    Holds general utilities required by this project
+"""
 import re
 import os
 
 # A sample list of country names (could also be loaded from an external source)
-countries = ["Israel", "Canada", "France", "Germany", "Slovakia", "Poland"]
+countries = ["Israel", "Canada", "France", "Germany", "Slovakia", "Poland", "Greece"]
 
 # Join country names into a single regex pattern
 pattern = r'\b(?:' + '|'.join(re.escape(country) for country in countries) + r')\b'
@@ -43,7 +46,7 @@ def create_country_folder(country:str):
         os.makedirs(folder_path)        
         
 def get_country_folder(country:str):
-    return f"./data/{country.lower()}"
+    return f"./data/{country.lower()}/"
 
 
 # Example

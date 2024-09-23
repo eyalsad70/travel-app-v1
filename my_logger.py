@@ -1,7 +1,12 @@
+"""
+LOGGER 
+"""
 import logging
 
 # Configure logging to write to a file
-logging.basicConfig(filename='logger.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+def init_logger():
+    logging.basicConfig(filename='logger.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
 
 def just_print(message:str):
     print(message)

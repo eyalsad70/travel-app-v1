@@ -1,0 +1,1051 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AXCi2Q7DkLRDqc1eCIcpIkAki_CqQsxTeEOhdkH9FyesorapWYC2Jyw0WCPJFocd2TGPByv4BEFAB_zLifTmtBExc2h4U7xv4wbk4o4FEJG4wcOAIYvKpL64h8BCUkTHM-QWru_lDFjCxZPSqU1x88QG5hGNGePVDAu6rQi53dSGyLW7U1X6Z3V3JPqH_I0Ed8YcYFtsvjSWvGhMOrSo_sKXgALIOrbE4vq4-sFvTzs3r4r8T33fn_taP73CxS1IWQVx3n0NqbXxBtcgMNeItlWdKsN4ZNZbhYBBYhcK8GbYRxPFZokJd8sLl7wi7Yr-19zUp7VJsxUSbeAtHq-_B_OSxIx_KszK8yMaPskdt3KDU8BAjFBh6zRFbFHIt7S-z09okUUeZu4VorTtjt5uX-5A2BTzBnb1Dn0KS3-IDsu4yXgPBcnBAYQdNz6YpQ",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Lilienblum St 20, Tel Aviv-Yafo, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.0620417,
+                    "lng": 34.7695382
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.06338927989272,
+                        "lng": 34.77089112989271
+                    },
+                    "southwest": {
+                        "lat": 32.06068962010728,
+                        "lng": 34.76819147010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Night Kitchen",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3840,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101640008631257129360\">Night Kitchen</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7JQChT9ct1ysmHVYcLmdJcRXuABkVVlH2tMWQwTN4iHexv_eVQueAW75a4kjcz0zgca_IlEXn14iAFz44RkDmCfjfbmb_Tq8psCiyimPlmvYkcmSJ7_pmsm3esXW8f68if-ZjUhcOsnS4Rc7fzSLpqYywngXIvhVWrfGtV-p4qBsPz",
+                    "width": 5760
+                }
+            ],
+            "place_id": "ChIJ1-U0Qp1MHRURJFvgKIuvslw",
+            "plus_code": {
+                "compound_code": "3Q69+QR Tel Aviv-Yafo",
+                "global_code": "8G4P3Q69+QR"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJ1-U0Qp1MHRURJFvgKIuvslw",
+            "types": [
+                "restaurant",
+                "bar",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2588
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dizengoff St 92, Tel Aviv-Yafo, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.0773011,
+                    "lng": 34.7745089
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.07864057989272,
+                        "lng": 34.77578927989273
+                    },
+                    "southwest": {
+                        "lat": 32.07594092010727,
+                        "lng": 34.77308962010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "La Shuk",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2350,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105060172612692072619\">RznkR24</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4jdYJUIcUho_HOGK9J8mZhg0j5ZyS0rRhiCPy52e-NWHEcgXdDXqRTzu8P05u8YmcSju-jfbOh7qcea4biXFkhSafWJmq24VyPSmJaEGr62hzIIrIJEnmtn53_T4v3YzrZzjj9RDwJeprv7ap-goeRZb8YRhXlwISlQElPrM27p0Qh",
+                    "width": 3649
+                }
+            ],
+            "place_id": "ChIJt-3lqYBLHRURN_cghNWVlz0",
+            "plus_code": {
+                "compound_code": "3QGF+WQ Tel Aviv-Yafo",
+                "global_code": "8G4P3QGF+WQ"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJt-3lqYBLHRURN_cghNWVlz0",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2860
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "\u05d1\u05e0\u05d9\u05d9\u05df \u05d0\u05dc\u05e7\u05d8\u05e8\u05d4, Yigal Alon St 98, Tel Aviv-Yafo, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.0700137,
+                    "lng": 34.7940951
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.07131367989272,
+                        "lng": 34.79529222989272
+                    },
+                    "southwest": {
+                        "lat": 32.06861402010728,
+                        "lng": 34.79259257010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Yaffo Tel Aviv",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105333533450880085567\">bobby bob</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4yRYm9M9hxoKxNNAPqaToKxv6aw4FTxcEHNV8o5m6LL5RM2hO98lQgUntgNy7gsbhTsCjZ9vdFz0kEmywFADN7K_KrrjJnObdM5Eg0rgrOZw6ShhHXAO3UW9KZGyybSubL3WnNmsseOKZsF4imK1GN8mJaK16CQCp4j5L8Vr1_tJR3",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJjWNkBJ9LHRURiO82rTq2iHE",
+            "plus_code": {
+                "compound_code": "3QCV+2J Tel Aviv-Yafo",
+                "global_code": "8G4P3QCV+2J"
+            },
+            "price_level": 4,
+            "rating": 4.3,
+            "reference": "ChIJjWNkBJ9LHRURiO82rTq2iHE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3600
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Tirtsa St 17, Tel Aviv-Yafo, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.0555352,
+                    "lng": 34.7604927
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.05688412989272,
+                        "lng": 34.76185267989273
+                    },
+                    "southwest": {
+                        "lat": 32.05418447010727,
+                        "lng": 34.75915302010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "OCD TLV",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115043594037124513440\">Ofir Binder</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6DwGQ7s72y24H0w_Te_0AOXN9XvyKpoVSR3X14G-FlnVJDaJGbasWUbJEU2Poi09hORDOibhYmq4KuQjRW3DPjowLAAoGcqsUhPmFMV0URw8tzCjlUhNxl7JhK4lEn-ia0afdB5EwpH69u0YBlLXydDkG3smwj3x8Sn9QtiO_SWn7a",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ9wL1Br1MHRURYYfQ5YPDPrQ",
+            "plus_code": {
+                "compound_code": "3Q46+65 Tel Aviv-Yafo",
+                "global_code": "8G4P3Q46+65"
+            },
+            "price_level": 4,
+            "rating": 4.6,
+            "reference": "ChIJ9wL1Br1MHRURYYfQ5YPDPrQ",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1333
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Derech Menachem Begin 23, Tel Aviv-Yafo, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.0638541,
+                    "lng": 34.7798892
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.06509187989272,
+                        "lng": 34.78132092989272
+                    },
+                    "southwest": {
+                        "lat": 32.06239222010728,
+                        "lng": 34.77862127010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Taizu",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1772,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104650251645176295477\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5ybtRDHwJ5OKsQbTJr9mnQLtsYkR2EUTS0-BVQscB03WDFERjo_vwMypEX884xl9cooqAzGMgZXQvciZ4-Czyaqb8qxXJaOqYZCG5itrQE6ezr4_B6A8f68REQzDdOeuzJ9su7FrmJqpjOwxf2XtNU93pkOZBANjliA60YrjrmSerp",
+                    "width": 2663
+                }
+            ],
+            "place_id": "ChIJa9zBe3tLHRURQHbcLSWNU1g",
+            "plus_code": {
+                "compound_code": "3Q7H+GX Tel Aviv-Yafo",
+                "global_code": "8G4P3Q7H+GX"
+            },
+            "price_level": 4,
+            "rating": 4.6,
+            "reference": "ChIJa9zBe3tLHRURQHbcLSWNU1g",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6837
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Har Sinai St 5, Tel Aviv-Yafo, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.0646469,
+                    "lng": 34.77227999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.06606687989272,
+                        "lng": 34.77370107989272
+                    },
+                    "southwest": {
+                        "lat": 32.06336722010727,
+                        "lng": 34.77100142010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Port Sa'id",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108149644999638816101\">Moritz Amann</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5jNQHi_Hd1VQ4gb9GrNgG1q748PJtpASL51EhKKBRgoRZ-J5kzH_eXwNV9V2onkFNIXorvaD49ZrL2ZenT_QSlOfey-rFwhR75LlIVfILync_W0lBzh_Hm2cCDVHpJOM5c80cMG0hs0-Y7Nz3IFtzcPk5OJvsFLxJwNd56p7txdohy",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ_0sxxIJMHRURZQRo4UaZubI",
+            "plus_code": {
+                "compound_code": "3Q7C+VW Tel Aviv-Yafo",
+                "global_code": "8G4P3Q7C+VW"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJ_0sxxIJMHRURZQRo4UaZubI",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3935
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Shlomo Ibn Gabirol St 26, Tel Aviv-Yafo, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.0745892,
+                    "lng": 34.7820664
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.07593267989272,
+                        "lng": 34.78328897989272
+                    },
+                    "southwest": {
+                        "lat": 32.07323302010728,
+                        "lng": 34.78058932010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "\u05d4\u05d0\u05d7\u05d9\u05dd",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111592656769863822104\">Dror Ben David</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7L3TUFL4TEqZyMl5RFxkBg-Wa66LFu-jz7s7j816VTHFsFfUq7BevuP0q5CPAvZwlLazV09dn4Betr2G37pfHT05pL25k4U0ZvXWbQlDaCnP28VIAp_iSJEWLzHRaiplwNo_YCn9Icw9N3Ag_nnPZQhuOER_BKkYO1MaDgdTOe1JLm",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJeSeRS8m7HRURcdcryO5CFbI",
+            "plus_code": {
+                "compound_code": "3QFJ+RR Tel Aviv-Yafo",
+                "global_code": "8G4P3QFJ+RR"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJeSeRS8m7HRURcdcryO5CFbI",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5532
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Matalon St 44, Tel Aviv-Yafo, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.058724,
+                    "lng": 34.7727972
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.06013702989272,
+                        "lng": 34.77415517989272
+                    },
+                    "southwest": {
+                        "lat": 32.05743737010727,
+                        "lng": 34.77145552010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Ouzeria",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1365,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114279784259446378378\">Dolev Frenkel</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6iW4VNYYabTIDNxTfsXDLCKJriTlm6Gr4Qw0VQa-2QnKTQtV5cGyPdj_coRIMWXZ_vSrCehWQKD24I8rDVSeKSP6krTpjibJtAkDG9UiRL9JT4koTSrJyQaLj0h_b7FFUfS4fUjPXxR4OzSvE4qhwZDDlQYTkZNVFC5y6_32UEzNDR",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJ9XREdZ5MHRURcSnyNb1twI0",
+            "plus_code": {
+                "compound_code": "3Q5F+F4 Tel Aviv-Yafo",
+                "global_code": "8G4P3Q5F+F4"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJ9XREdZ5MHRURcSnyNb1twI0",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2789
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Shlomo HaMelekh St 1, Tel Aviv-Yafo, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.0763896,
+                    "lng": 34.7766843
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.07776882989272,
+                        "lng": 34.77809127989272
+                    },
+                    "southwest": {
+                        "lat": 32.07506917010728,
+                        "lng": 34.77539162010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "HaKosem",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112740482807567594754\">Yakov Neuman</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4Icw96o2yIfWCwemwa3KQAqx0tLRoMW3IDeszHiRGEri9aGZKX4GArFHZnD5evxSa8Sf7zEbMujiTwVhV9HMLO8wT_9shkJXlwKhJ_1j5fKG64AcDAbD3-51lcNBhImHHD3c05bQNPVDQcZ3P2Sc0eh6ihcGMB3fX-mPVk2F0BKEAI",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJi1CK34BLHRURVsjf6-OGlo4",
+            "plus_code": {
+                "compound_code": "3QGG+HM Tel Aviv-Yafo",
+                "global_code": "8G4P3QGG+HM"
+            },
+            "price_level": 1,
+            "rating": 4.5,
+            "reference": "ChIJi1CK34BLHRURVsjf6-OGlo4",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5741
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Ben Yehuda St 182, Tel Aviv-Yafo, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.0881787,
+                    "lng": 34.7735754
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.08954187989272,
+                        "lng": 34.77485882989272
+                    },
+                    "southwest": {
+                        "lat": 32.08684222010728,
+                        "lng": 34.77215917010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Shila",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110478567081318483695\">Jean-Christophe Labarre</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6qD7FN-4PpY7TRvuo5kQCa06na2hiuHQf3XD8TkCQbMTRHFah2wGzgpXNitsJFANw0hF-gToJ-40SzmCw33R6RDiYVibXs-HT238n4CFyKPAt9B89jmW2Kp7s94q54Ajmx9lmO1BnexWNuY7qsresSHn9vr2NDAjuGkPJBm-IRpGH_",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ-0LvBXZMHRURYXaYjlzxXnw",
+            "plus_code": {
+                "compound_code": "3QQF+7C Tel Aviv-Yafo",
+                "global_code": "8G4P3QQF+7C"
+            },
+            "price_level": 4,
+            "rating": 4.4,
+            "reference": "ChIJ-0LvBXZMHRURYXaYjlzxXnw",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3629
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Mendele Mokher Sfarim St 5, Tel Aviv-Yafo, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.0792528,
+                    "lng": 34.768878
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.08054757989272,
+                        "lng": 34.77022512989273
+                    },
+                    "southwest": {
+                        "lat": 32.07784792010727,
+                        "lng": 34.76752547010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Mashya",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114867833221569268517\">Mark Abbou</a>"
+                    ],
+                    "photo_reference": "AXCi2Q64mVA0DrW2DOOXw9ThQmZDAoKXyOrC4Cr3idAD-4Sv0lqdmk8P7o2r8VqMHkk7sNXRdK2cC3id8ZsX3WurFEbBcM1CKlOXtdfZpi3w0-l_BvuY3iPe4Smnl6D5CgmoW3diwW9YHwvsQipa8D47kv7DUAGQo2QY0NwefA9YO69P4-70",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJh3glpn5MHRUR6jwTBg3yMK4",
+            "plus_code": {
+                "compound_code": "3QH9+MH Tel Aviv-Yafo",
+                "global_code": "8G4P3QH9+MH"
+            },
+            "price_level": 3,
+            "rating": 4.4,
+            "reference": "ChIJh3glpn5MHRUR6jwTBg3yMK4",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5002
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dizengoff St 171, Tel Aviv-Yafo, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.0845876,
+                    "lng": 34.7742132
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.08592492989273,
+                        "lng": 34.77562622989272
+                    },
+                    "southwest": {
+                        "lat": 32.08322527010728,
+                        "lng": 34.77292657010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Goocha Dizengoff",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106618341325325772559\">Anastasiya Kugel</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4bNQXf5x-IFDJVJ8_kkEPyK8d2T_MykU2mho8NPhqj-oW7xinlWqes15bNZjS_ABHPB8ZSyGKrXYAgj3a2VGGQAjFS5qewxR1rHDdUiaiA2wlbzUfK6VyxvgHxVu8zAPsM0hGKsrS_rah9z3v1cxLS0k5LS5CY5jr0hLDUVlnLuRA9",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJKbk7OXxLHRURxs6enNzWz5E",
+            "plus_code": {
+                "compound_code": "3QMF+RM Tel Aviv-Yafo",
+                "global_code": "8G4P3QMF+RM"
+            },
+            "price_level": 3,
+            "rating": 4.5,
+            "reference": "ChIJKbk7OXxLHRURxs6enNzWz5E",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4229
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Shlomo Ibn Gabirol St 23, Tel Aviv-Yafo, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.0738369,
+                    "lng": 34.7816272
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.07518857989272,
+                        "lng": 34.78303707989271
+                    },
+                    "southwest": {
+                        "lat": 32.07248892010728,
+                        "lng": 34.78033742010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Miznon",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112277157820165191857\">Sunny Simantov</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4q2i7fg6kv7jHlk485MWdea2Q8DimM8ToL9Ek3nXKuAIpFwSrsbEtcAFfbD6u6RfuxT0ztTgh1KoFmwtZLF9yXGGHejO965VJ3fjA21g2fPYThuuxSL4y5DV1M5gbTwm8RsqgU12qjewM7nuN1q_5iL2ksvhrQOxph7v1VeJT0pBQS",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJX22xbllLHRURB9DonNGP8yI",
+            "plus_code": {
+                "compound_code": "3QFJ+GM Tel Aviv-Yafo",
+                "global_code": "8G4P3QFJ+GM"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJX22xbllLHRURB9DonNGP8yI",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 799
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "\u05d1\u05ea\u05d5\u05da \u05d7\u05e0\u05d9\u05d5\u05df \u05d1\u05d9\u05ea \u05d4\u05d0\u05e6\u05f4\u05dc \u05de\u05d0\u05e0\u05d8\u05d4 \u05e8\u05d9\u05d9 \u05d4\u05db\u05e0\u05d9\u05e1\u05d4 \u05dc\u05d7\u05e0\u05d9\u05d5\u05df, Nahum Goldmann St 4, Tel Aviv-Yafo, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.0610764,
+                    "lng": 34.7600267
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.06238532989273,
+                        "lng": 34.76150787989272
+                    },
+                    "southwest": {
+                        "lat": 32.05968567010729,
+                        "lng": 34.75880822010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Manta Ray",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2736,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110502481872606806733\">Helmut Tremmel</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4yE22VXV5Ne1OC0bJ-c9sPF7zrU5LPKj-dn-h0vrGk0IyGu_PsU_gVdq4owe3CMn-RcCHZQANp0DlPwdWUginiiw3ECkXJcVY03dqtHV3hL1wO_91KHJowoblFojMTj8cIIs63CsKjdqzDkwtW6UT1bb1QG60iMR0YX2krQClNSY7O",
+                    "width": 3648
+                }
+            ],
+            "place_id": "ChIJQ-lagPJIHRURXAbR4pgmrtE",
+            "plus_code": {
+                "compound_code": "3Q66+C2 Tel Aviv-Yafo",
+                "global_code": "8G4P3Q66+C2"
+            },
+            "price_level": 3,
+            "rating": 4.3,
+            "reference": "ChIJQ-lagPJIHRURXAbR4pgmrtE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8178
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "HaArba'a St 14, Tel Aviv-Yafo, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.0703063,
+                    "lng": 34.784368
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.07168072989272,
+                        "lng": 34.78571822989272
+                    },
+                    "southwest": {
+                        "lat": 32.06898107010728,
+                        "lng": 34.78301857010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Porter & Sons",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1063,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117999931576853995996\">Porter &amp; Sons</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6M4i9YXghKdcGrn2f8BMfBmoSRPjlbXR-UePDldGT1zyvbFliZsGjvZ6AoxvYTzbX13-R4zqWCQ3DpryaBv1yAquUtM8oACM5vHykFJTuXKL7P6cjwHuwcp0cxEwZVTfzfyx_n2tIHXFFSh200vrpSse17Ur7Ly2J4fo2sF88riKv0",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJk1Y9poJLHRUROb-lpnUMHnY",
+            "plus_code": {
+                "compound_code": "3QCM+4P Tel Aviv-Yafo",
+                "global_code": "8G4P3QCM+4P"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJk1Y9poJLHRUROb-lpnUMHnY",
+            "types": [
+                "restaurant",
+                "bar",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4609
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Frishman St 42, Tel Aviv-Yafo, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.0796062,
+                    "lng": 34.7736548
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.08102992989272,
+                        "lng": 34.77500697989272
+                    },
+                    "southwest": {
+                        "lat": 32.07833027010728,
+                        "lng": 34.77230732010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Sabich Frishman",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2016,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118165985088412521470\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4o4C0Y-VHDUKLPiNzKLJYcx7JPPben4EGIqCV-s4ixw0tKBgQDt9zI8JKU-ikzsHTTexyKNa2EgpI34wTrOeRt4ix-P5FRx3CAUg2tjO0iNQqoqWFxJ_3obh2qmAly5vXNiMw1tEFsIaKRLY9wDsK9HsM15ES1PLDyNSkCY80ohROH",
+                    "width": 1512
+                }
+            ],
+            "place_id": "ChIJ5_6wvXhMHRURT2GMyDEO1ig",
+            "plus_code": {
+                "compound_code": "3QHF+RF Tel Aviv-Yafo",
+                "global_code": "8G4P3QHF+RF"
+            },
+            "price_level": 1,
+            "rating": 4.6,
+            "reference": "ChIJ5_6wvXhMHRURT2GMyDEO1ig",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2163
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Retsif Herbert Samuel St 91, Tel Aviv-Yafo, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.0775883,
+                    "lng": 34.7661392
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.07887527989272,
+                        "lng": 34.76762892989272
+                    },
+                    "southwest": {
+                        "lat": 32.07617562010727,
+                        "lng": 34.76492927010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "\u05d7\u05d5\u05e3 \u05dc\u05d4 \u05de\u05e8 \u05ea\u05dc-\u05d0\u05d1\u05d9\u05d1 | La Mer Beach Tel Aviv",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 900,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105144909757101557023\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4QzY2CIndpPglVMTeOgQxBzpY7HOQfXStm5gZ-VoYk_LRclvWpuXmFBLyaGQVt3h806zEBeAydCO8Iuh55Dg1Md3mOpcNcbiypkujGqdTlmBQH8KWOZDtr7N3eJl6-6WmdWGNu4reBE1x0pnFJh7dahLfSrpcffC5RFixnGbLFJKCE",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJaUNGpIdMHRURUSwYxOMcb0E",
+            "plus_code": {
+                "compound_code": "3QH8+2F Tel Aviv-Yafo",
+                "global_code": "8G4P3QH8+2F"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJaUNGpIdMHRURUSwYxOMcb0E",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2901
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Malan St 4, Tel Aviv-Yafo, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.0698541,
+                    "lng": 34.7665198
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.07125747989272,
+                        "lng": 34.76782707989273
+                    },
+                    "southwest": {
+                        "lat": 32.06855782010728,
+                        "lng": 34.76512742010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Balinjera",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1996,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107224752152936575142\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4ryD7B6wbTh54BKGzwOqPXCYWHtaiajxBMbF9qwV9bO-ByFZiqJjIBTLChJydu29RVpOUSPGX8tiJu9-UCu0aRFCBUzHTgC-SHn4s3BKoun-MAfvsl_pYBJFPYVush0uEYXqvClOnMSm0aCz4LijUxjzwHNjzCTynNwj-E0pqDrma5",
+                    "width": 1997
+                }
+            ],
+            "place_id": "ChIJkS1XOoRMHRURRyqhiUCrnxE",
+            "plus_code": {
+                "compound_code": "3Q98+WJ Tel Aviv-Yafo",
+                "global_code": "8G4P3Q98+WJ"
+            },
+            "price_level": 1,
+            "rating": 4.7,
+            "reference": "ChIJkS1XOoRMHRURRyqhiUCrnxE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1359
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "King George St 81, Tel Aviv-Yafo, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.0759729,
+                    "lng": 34.7764908
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.07730067989272,
+                        "lng": 34.77789012989272
+                    },
+                    "southwest": {
+                        "lat": 32.07460102010728,
+                        "lng": 34.77519047010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Hummus Abu Dabi, Tel Aviv",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 496,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111053594450879979987\">Humous abu dabi</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6stMKXbYL1scNHyv_oRX3us0POoTmK_rbstW-EOpCDLgHu6q3--TUiNKFgnldUR0JwZLx8QsBWxNDo7_1XOIFzBZ1NuykBYxqLULOx4emlPT5ueKzLLibEt2k7e9H0UE949eklAbtjaiosJEJ934TAfvBnhYdfuLOthxM5ZsAd3BBb",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJ-Qvb44BLHRURjBD2Nanedbs",
+            "plus_code": {
+                "compound_code": "3QGG+9H Tel Aviv-Yafo",
+                "global_code": "8G4P3QGG+9H"
+            },
+            "price_level": 1,
+            "rating": 4.4,
+            "reference": "ChIJ-Qvb44BLHRURjBD2Nanedbs",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1828
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Louis Pasteur St 5, Tel Aviv-Yafo, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.052658,
+                    "lng": 34.7519073
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.05404292989272,
+                        "lng": 34.75327962989272
+                    },
+                    "southwest": {
+                        "lat": 32.05134327010727,
+                        "lng": 34.75057997010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "\u05e1\u05e0\u05d8 \u05d2'\u05d5\u05e8\u05d2' Saint George",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103736772265015940613\">103736772265015940613</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7dBfTmdnZqucaq3_crP6N_hhQor19wYGDpKWRc_lrEVUn2HvqiJgP9KP_suMt9D46GuovaI7AgRISKc28FDN4Ugb5vhQeywa3YUzt_2p49zdKmNfbT0Hl2kkO3wPS1Vf_ADeYSmgYLbe8YZctSCOIKz-KB42N8gQhq7WN3JIT-PmOH",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJY1wEgcdMHRUR16OxQj4kJGE",
+            "plus_code": {
+                "compound_code": "3Q32+3Q Tel Aviv-Yafo",
+                "global_code": "8G4P3Q32+3Q"
+            },
+            "price_level": 2,
+            "rating": 4.4,
+            "reference": "ChIJY1wEgcdMHRUR16OxQj4kJGE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1775
+        }
+    ],
+    "status": "OK"
+}

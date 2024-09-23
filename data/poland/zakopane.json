@@ -1,24 +1,24 @@
 {
     "predictions": [
         {
-            "description": "Wroc\u0142aw, Poland",
+            "description": "Zakopane, Poland",
             "matched_substrings": [
                 {
-                    "length": 7,
+                    "length": 8,
                     "offset": 0
                 },
                 {
                     "length": 6,
-                    "offset": 9
+                    "offset": 10
                 }
             ],
-            "place_id": "ChIJv4q11MLpD0cR9eAFwq5WCbc",
-            "reference": "ChIJv4q11MLpD0cR9eAFwq5WCbc",
+            "place_id": "ChIJOTnvlJLyFUcRoKZrcaGHjd8",
+            "reference": "ChIJOTnvlJLyFUcRoKZrcaGHjd8",
             "structured_formatting": {
-                "main_text": "Wroc\u0142aw",
+                "main_text": "Zakopane",
                 "main_text_matched_substrings": [
                     {
-                        "length": 7,
+                        "length": 8,
                         "offset": 0
                     }
                 ],
@@ -33,231 +33,221 @@
             "terms": [
                 {
                     "offset": 0,
-                    "value": "Wroc\u0142aw"
+                    "value": "Zakopane"
                 },
                 {
-                    "offset": 9,
+                    "offset": 10,
                     "value": "Poland"
                 }
             ],
             "types": [
+                "political",
                 "geocode",
-                "locality",
-                "political"
+                "locality"
             ]
         },
         {
-            "description": "Poland Workforce Sp. o.o. S. K. A., Nenckiego, Wroc\u0142aw, Poland",
+            "description": "Zakopane, Konstancin-Jeziorna, Poland",
             "matched_substrings": [
                 {
-                    "length": 6,
+                    "length": 8,
                     "offset": 0
                 },
                 {
-                    "length": 7,
-                    "offset": 47
+                    "length": 6,
+                    "offset": 31
                 }
             ],
-            "place_id": "ChIJFZN3cnXCD0cRjsYaXN8lKMk",
-            "reference": "ChIJFZN3cnXCD0cRjsYaXN8lKMk",
+            "place_id": "EiVaYWtvcGFuZSwgS29uc3RhbmNpbi1KZXppb3JuYSwgUG9sYW5kIi4qLAoUChIJa-L75wMsGUcRxomNo_8iD70SFAoSCYvEvIADLBlHEcbe3tZOhi9D",
+            "reference": "EiVaYWtvcGFuZSwgS29uc3RhbmNpbi1KZXppb3JuYSwgUG9sYW5kIi4qLAoUChIJa-L75wMsGUcRxomNo_8iD70SFAoSCYvEvIADLBlHEcbe3tZOhi9D",
             "structured_formatting": {
-                "main_text": "Poland Workforce Sp. o.o. S. K. A.",
+                "main_text": "Zakopane",
                 "main_text_matched_substrings": [
                     {
-                        "length": 6,
+                        "length": 8,
                         "offset": 0
                     }
                 ],
-                "secondary_text": "Nenckiego, Wroc\u0142aw, Poland",
+                "secondary_text": "Konstancin-Jeziorna, Poland",
                 "secondary_text_matched_substrings": [
                     {
-                        "length": 7,
-                        "offset": 11
+                        "length": 6,
+                        "offset": 21
                     }
                 ]
             },
             "terms": [
                 {
                     "offset": 0,
-                    "value": "Poland Workforce Sp. o.o. S. K. A."
+                    "value": "Zakopane"
                 },
                 {
-                    "offset": 36,
-                    "value": "Nenckiego"
+                    "offset": 10,
+                    "value": "Konstancin-Jeziorna"
                 },
                 {
-                    "offset": 47,
-                    "value": "Wroc\u0142aw"
+                    "offset": 31,
+                    "value": "Poland"
+                }
+            ],
+            "types": [
+                "route",
+                "geocode"
+            ]
+        },
+        {
+            "description": "Zakopane, Uniej\u00f3w-R\u0119dziny, Poland",
+            "matched_substrings": [
+                {
+                    "length": 8,
+                    "offset": 0
                 },
                 {
-                    "offset": 56,
+                    "length": 6,
+                    "offset": 27
+                }
+            ],
+            "place_id": "ChIJ9WejKZQHF0cRQMUpjSbBDyk",
+            "reference": "ChIJ9WejKZQHF0cRQMUpjSbBDyk",
+            "structured_formatting": {
+                "main_text": "Zakopane",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 8,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Uniej\u00f3w-R\u0119dziny, Poland",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 17
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Zakopane"
+                },
+                {
+                    "offset": 10,
+                    "value": "Uniej\u00f3w-R\u0119dziny"
+                },
+                {
+                    "offset": 27,
+                    "value": "Poland"
+                }
+            ],
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political",
+                "geocode"
+            ]
+        },
+        {
+            "description": "Zakopane, Chramc\u00f3wki, Zakopane, Poland",
+            "matched_substrings": [
+                {
+                    "length": 8,
+                    "offset": 0
+                },
+                {
+                    "length": 6,
+                    "offset": 32
+                }
+            ],
+            "place_id": "ChIJP0_dL4zyFUcR3wP2Qop7bOo",
+            "reference": "ChIJP0_dL4zyFUcR3wP2Qop7bOo",
+            "structured_formatting": {
+                "main_text": "Zakopane",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 8,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Chramc\u00f3wki, Zakopane, Poland",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 22
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Zakopane"
+                },
+                {
+                    "offset": 10,
+                    "value": "Chramc\u00f3wki"
+                },
+                {
+                    "offset": 22,
+                    "value": "Zakopane"
+                },
+                {
+                    "offset": 32,
                     "value": "Poland"
                 }
             ],
             "types": [
                 "establishment",
-                "point_of_interest"
-            ]
-        },
-        {
-            "description": "POLAND WORKING AGENCY, Stefana Drzewieckiego, Wroc\u0142aw, Poland",
-            "matched_substrings": [
-                {
-                    "length": 6,
-                    "offset": 0
-                },
-                {
-                    "length": 7,
-                    "offset": 46
-                }
-            ],
-            "place_id": "ChIJ8dZLm5PrD0cRkF1S98rr7-4",
-            "reference": "ChIJ8dZLm5PrD0cRkF1S98rr7-4",
-            "structured_formatting": {
-                "main_text": "POLAND WORKING AGENCY",
-                "main_text_matched_substrings": [
-                    {
-                        "length": 6,
-                        "offset": 0
-                    }
-                ],
-                "secondary_text": "Stefana Drzewieckiego, Wroc\u0142aw, Poland",
-                "secondary_text_matched_substrings": [
-                    {
-                        "length": 7,
-                        "offset": 23
-                    }
-                ]
-            },
-            "terms": [
-                {
-                    "offset": 0,
-                    "value": "POLAND WORKING AGENCY"
-                },
-                {
-                    "offset": 23,
-                    "value": "Stefana Drzewieckiego"
-                },
-                {
-                    "offset": 46,
-                    "value": "Wroc\u0142aw"
-                },
-                {
-                    "offset": 55,
-                    "value": "Poland"
-                }
-            ],
-            "types": [
-                "establishment",
-                "travel_agency",
-                "point_of_interest"
-            ]
-        },
-        {
-            "description": "Wroc\u0142aw Nicolaus Copernicus Airport, Graniczna, Wroc\u0142aw, Poland",
-            "matched_substrings": [
-                {
-                    "length": 7,
-                    "offset": 0
-                },
-                {
-                    "length": 6,
-                    "offset": 57
-                }
-            ],
-            "place_id": "ChIJv11892_AD0cRf27AnQ6i4CQ",
-            "reference": "ChIJv11892_AD0cRf27AnQ6i4CQ",
-            "structured_formatting": {
-                "main_text": "Wroc\u0142aw Nicolaus Copernicus Airport",
-                "main_text_matched_substrings": [
-                    {
-                        "length": 7,
-                        "offset": 0
-                    }
-                ],
-                "secondary_text": "Graniczna, Wroc\u0142aw, Poland",
-                "secondary_text_matched_substrings": [
-                    {
-                        "length": 6,
-                        "offset": 20
-                    }
-                ]
-            },
-            "terms": [
-                {
-                    "offset": 0,
-                    "value": "Wroc\u0142aw Nicolaus Copernicus Airport"
-                },
-                {
-                    "offset": 37,
-                    "value": "Graniczna"
-                },
-                {
-                    "offset": 48,
-                    "value": "Wroc\u0142aw"
-                },
-                {
-                    "offset": 57,
-                    "value": "Poland"
-                }
-            ],
-            "types": [
-                "establishment",
-                "airport",
-                "point_of_interest"
-            ]
-        },
-        {
-            "description": "Poland Green Energy S.A., Skwierzy\u0144ska, Wroc\u0142aw, Poland",
-            "matched_substrings": [
-                {
-                    "length": 6,
-                    "offset": 0
-                },
-                {
-                    "length": 7,
-                    "offset": 40
-                }
-            ],
-            "place_id": "ChIJW1PvqNzDD0cRkfvxl3U9uF8",
-            "reference": "ChIJW1PvqNzDD0cRkfvxl3U9uF8",
-            "structured_formatting": {
-                "main_text": "Poland Green Energy S.A.",
-                "main_text_matched_substrings": [
-                    {
-                        "length": 6,
-                        "offset": 0
-                    }
-                ],
-                "secondary_text": "Skwierzy\u0144ska, Wroc\u0142aw, Poland",
-                "secondary_text_matched_substrings": [
-                    {
-                        "length": 7,
-                        "offset": 14
-                    }
-                ]
-            },
-            "terms": [
-                {
-                    "offset": 0,
-                    "value": "Poland Green Energy S.A."
-                },
-                {
-                    "offset": 26,
-                    "value": "Skwierzy\u0144ska"
-                },
-                {
-                    "offset": 40,
-                    "value": "Wroc\u0142aw"
-                },
-                {
-                    "offset": 49,
-                    "value": "Poland"
-                }
-            ],
-            "types": [
                 "point_of_interest",
-                "establishment"
+                "train_station",
+                "transit_station"
+            ]
+        },
+        {
+            "description": "Zakopane, Stara Wie\u015b, Poland",
+            "matched_substrings": [
+                {
+                    "length": 8,
+                    "offset": 0
+                },
+                {
+                    "length": 6,
+                    "offset": 22
+                }
+            ],
+            "place_id": "Eh1aYWtvcGFuZSwgU3RhcmEgV2llxZssIFBvbGFuZCIuKiwKFAoSCZWDmEYbAxZHEW-si1lwfhJPEhQKEgkNrQJGIgMWRxGsv05yeDKNcQ",
+            "reference": "Eh1aYWtvcGFuZSwgU3RhcmEgV2llxZssIFBvbGFuZCIuKiwKFAoSCZWDmEYbAxZHEW-si1lwfhJPEhQKEgkNrQJGIgMWRxGsv05yeDKNcQ",
+            "structured_formatting": {
+                "main_text": "Zakopane",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 8,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Stara Wie\u015b, Poland",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 12
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Zakopane"
+                },
+                {
+                    "offset": 10,
+                    "value": "Stara Wie\u015b"
+                },
+                {
+                    "offset": 22,
+                    "value": "Poland"
+                }
+            ],
+            "types": [
+                "route",
+                "geocode"
             ]
         }
     ],

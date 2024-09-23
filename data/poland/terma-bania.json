@@ -1,0 +1,119 @@
+{
+    "predictions": [
+        {
+            "description": "Terma Bania, \u015arodkowa, Bia\u0142ka Tatrza\u0144ska, Poland",
+            "matched_substrings": [
+                {
+                    "length": 11,
+                    "offset": 0
+                },
+                {
+                    "length": 6,
+                    "offset": 42
+                }
+            ],
+            "place_id": "ChIJeZfybMDwFUcR_YMP5hSh_BU",
+            "reference": "ChIJeZfybMDwFUcR_YMP5hSh_BU",
+            "structured_formatting": {
+                "main_text": "Terma Bania",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 11,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "\u015arodkowa, Bia\u0142ka Tatrza\u0144ska, Poland",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 29
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Terma Bania"
+                },
+                {
+                    "offset": 13,
+                    "value": "\u015arodkowa"
+                },
+                {
+                    "offset": 23,
+                    "value": "Bia\u0142ka Tatrza\u0144ska"
+                },
+                {
+                    "offset": 42,
+                    "value": "Poland"
+                }
+            ],
+            "types": [
+                "point_of_interest",
+                "spa",
+                "tourist_attraction",
+                "health",
+                "establishment",
+                "amusement_park"
+            ]
+        },
+        {
+            "description": "Hotel Bania, \u015arodkowa, Bia\u0142ka Tatrza\u0144ska, Poland",
+            "matched_substrings": [
+                {
+                    "length": 11,
+                    "offset": 0
+                },
+                {
+                    "length": 6,
+                    "offset": 42
+                }
+            ],
+            "place_id": "ChIJM6kec8DwFUcRiaw5Dlekx4w",
+            "reference": "ChIJM6kec8DwFUcRiaw5Dlekx4w",
+            "structured_formatting": {
+                "main_text": "Hotel Bania",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 11,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "\u015arodkowa, Bia\u0142ka Tatrza\u0144ska, Poland",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 29
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Hotel Bania"
+                },
+                {
+                    "offset": 13,
+                    "value": "\u015arodkowa"
+                },
+                {
+                    "offset": 23,
+                    "value": "Bia\u0142ka Tatrza\u0144ska"
+                },
+                {
+                    "offset": 42,
+                    "value": "Poland"
+                }
+            ],
+            "types": [
+                "point_of_interest",
+                "establishment",
+                "beauty_salon",
+                "health",
+                "spa",
+                "lodging"
+            ]
+        }
+    ],
+    "status": "OK"
+}

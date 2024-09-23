@@ -1,0 +1,989 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AXCi2Q4gZPw5vy0KhJc-x-uNAMtABKbz-4q1zYVwDwry11YrAjdpg99p802tdjT7nrsl9UVidPmKx5YYpxq2aWpOSHOecAU9ahw4sLwI39tz-IJbNTDLz3We9P8nu5JlM_DT7ZAIkTvY4ikvrCsRi4nauPpmj1KcyRuCo48hnQ6iR-x0YpTIx2ptjOUGvr8UJfEGTc0EB5p8cOlAn0wwzOYce5JiMw81a4ppa36mAU1P7NMw8Sdkf_fPUxBuU3uvlzGr9Mwlzw0DW3saMd1NJAZOKb3Ma5zMEbbsu_4AP1FZI6NiP0nWGRWvEx1OB59eghbYrt5TcAh5ZE2Q8JpnSQuxlvNdrceuZxxonRXwsS8zpkX3C6Y9v6Diqy6QPeiWadvObpltFYS4LyYhTriLCNvfpwx2-x-GCvbkACFNJ8zW1G5KWQ",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Perets Bernstein St 7, Ramat Gan, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.0554671,
+                    "lng": 34.8283833
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.05675742989273,
+                        "lng": 34.82982802989272
+                    },
+                    "southwest": {
+                        "lat": 32.05405777010728,
+                        "lng": 34.82712837010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Kfar Maccabiah Hotel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114801579196480007888\">Jorrit Rieckmann</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5zKnwcy4HUE4JKt1foTZaXHwxni5YNvExUnsIOxkr5ZE8HSwPzhUYPI4-TMaZ-dxHZJkgJXOeSAYofv4R_siNohz7VEgwXwXhi7qvAgw1DWYMWad_jVz1EWHdK_48m2aCiN7uZPPvaEehS7cbxx926po3fHDFk4qPvqsrqTKchpS1g",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJW3uVYfhKHRURdIAczJbeU5g",
+            "plus_code": {
+                "compound_code": "3R4H+59 Ramat Gan",
+                "global_code": "8G4P3R4H+59"
+            },
+            "rating": 4.1,
+            "reference": "ChIJW3uVYfhKHRURdIAczJbeU5g",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4433
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Azrieli Center, 136, Menahem Begin Rd 5, Tel Aviv-Yafo, 6701104, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.0742009,
+                    "lng": 34.792168
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.07547377989273,
+                        "lng": 34.79374502989271
+                    },
+                    "southwest": {
+                        "lat": 32.07277412010728,
+                        "lng": 34.79104537010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Crowne Plaza Tel Aviv City Center, an IHG Hotel",
+            "photos": [
+                {
+                    "height": 1152,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110492069857141395014\">Crowne Plaza Tel Aviv City Center</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4JcH4_CkXo5pGbRaMWxYULFjRtiPcIBw7HoNC-FUwxyDeJOdfS4Z_RjG6XGEJbbW_JMeusktodvVZ-DOxYphJ2YFuKTpQgyumhoVOSk-6oEqSv0sSDUWK_Iy5WNuqZXtuXitXd4co3F5NN6tqN6AQELhqDNv5bmHr9Y0EdHikOUMy0",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJnco3Z5lLHRUR-xKJbFEJzHQ",
+            "plus_code": {
+                "compound_code": "3QFR+MV Tel Aviv-Yafo",
+                "global_code": "8G4P3QFR+MV"
+            },
+            "rating": 4.5,
+            "reference": "ChIJnco3Z5lLHRUR-xKJbFEJzHQ",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1273
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Sderot Sha'ul HaMelech 39, Tel Aviv-Yafo, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.0778207,
+                    "lng": 34.79062529999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.07908077989272,
+                        "lng": 34.79201737989272
+                    },
+                    "southwest": {
+                        "lat": 32.07638112010728,
+                        "lng": 34.78931772010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Link Hotel & Hub Tel Aviv",
+            "photos": [
+                {
+                    "height": 1365,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113058254130248213289\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5ksIqfC5Du2n2oUXXOyH04mKNiTMvq1kyi7aI5BAmrkieJam-fYymkMl2R5cm2qcJOnfCPKMuFfDcrZpBCFoEseTyQS-w-LqFS9USN2qSIKX1kSWt3CDVWTYlNxEYcTVIwG4W0_pftjzDwUd0T947CT7N0wXtbCXgIkacL94FKbXaH",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJM392AppLHRURjCKoS58u_hY",
+            "plus_code": {
+                "compound_code": "3QHR+47 Tel Aviv-Yafo",
+                "global_code": "8G4P3QHR+47"
+            },
+            "rating": 4.6,
+            "reference": "ChIJM392AppLHRURjCKoS58u_hY",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 757
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Ben Yehuda St 38, Tel Aviv-Yafo, 6380714, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.0769348,
+                    "lng": 34.7684819
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.07830292989273,
+                        "lng": 34.76974192989272
+                    },
+                    "southwest": {
+                        "lat": 32.07560327010729,
+                        "lng": 34.76704227010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "\u05de\u05dc\u05d5\u05df \u05e1\u05e0\u05d8\u05e8\u05dc-Central Hotel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 809,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117085246649492316097\">Central Hotel</a>"
+                    ],
+                    "photo_reference": "AXCi2Q62WcDcI8--Lc97ouFsGCFL39IkTGmCLXfVJt5rzgQ8FmHGOI-Cmau2s27VhYH0OyBpE4uKHnv0SAcQydG1GZNYDuy6gbLPf6HCORtDp8SQFFwNcJl1yV_0yzAGMLqz5Z-I6-e-d8etrs3CE0yF_gFlJrPpUn51lzaSB5S7qJtKmM2l",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJKzWR2X1MHRURLuhHLITQ73s",
+            "plus_code": {
+                "compound_code": "3QG9+Q9 Tel Aviv-Yafo",
+                "global_code": "8G4P3QG9+Q9"
+            },
+            "rating": 3,
+            "reference": "ChIJKzWR2X1MHRURLuhHLITQ73s",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 202
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Zamenhoff St 2, Tel Aviv-Yafo, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.0777656,
+                    "lng": 34.7750268
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.07916397989272,
+                        "lng": 34.77638652989273
+                    },
+                    "southwest": {
+                        "lat": 32.07646432010728,
+                        "lng": 34.77368687010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Center Chic Hotel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104585198258383733126\">jennifer scheimer</a>"
+                    ],
+                    "photo_reference": "AXCi2Q48QCike4hbxfS_KazmvR6jKFDABXy3q7DCrMuCkmBHGgP8wDONwKfnnVznlOgMBU_rDqRY8bkGqsEwmk4QuSt852UOZv8yYyOIYnN9QNx3TjkpOXIlNFpDK4UWI8s1wT7KTQcMnDNnOGGH6uhxmeL_0NP3kF6pkIJN2YeFCNOq_6U3",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJx8f2sYBLHRURoaKFTYfWEfY",
+            "plus_code": {
+                "compound_code": "3QHG+42 Tel Aviv-Yafo",
+                "global_code": "8G4P3QHG+42"
+            },
+            "rating": 4.7,
+            "reference": "ChIJx8f2sYBLHRURoaKFTYfWEfY",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 767
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dizengoff St 83, Tel Aviv-Yafo, 6433257, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.0771703,
+                    "lng": 34.77429619999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.07852662989273,
+                        "lng": 34.77568307989272
+                    },
+                    "southwest": {
+                        "lat": 32.07582697010729,
+                        "lng": 34.77298342010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "CUCU Hotel",
+            "photos": [
+                {
+                    "height": 600,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104394855393807245854\">Yula-Designs</a>"
+                    ],
+                    "photo_reference": "AXCi2Q70oTfM0LshYjCDEHvRNh_wvDumvmDGccpGk2FQNZTBrvzdgcuHvN8KWqn6dRMexTSdyyvxbv7st0vXIzeDmjkPY730TF5OGnDSnLpAgomhztR3ncImqq0SYYcHv2LaTCYbc5yAXGNw_UbJI9353FG2GPHJjm6-P4GeXCh2Iemyq77F",
+                    "width": 400
+                }
+            ],
+            "place_id": "ChIJwwv2oYBLHRUR39D79BfsuP4",
+            "plus_code": {
+                "compound_code": "3QGF+VP Tel Aviv-Yafo",
+                "global_code": "8G4P3QGF+VP"
+            },
+            "rating": 4.5,
+            "reference": "ChIJwwv2oYBLHRUR39D79BfsuP4",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 547
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Nahalat Binyamin St 56, Tel Aviv-Yafo, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.06271,
+                    "lng": 34.7718497
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.06406677989273,
+                        "lng": 34.77322267989272
+                    },
+                    "southwest": {
+                        "lat": 32.06136712010728,
+                        "lng": 34.77052302010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "\u05de\u05dc\u05d5\u05df \u05d1\u05db\u05e8 \u05d4\u05d0\u05d5\u05e1 \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1 - Bachar House Tel Aviv",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 600,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112934738487220647015\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5hsa42wUEJXg1rD-UUFXovf6GbWeBIM0TD35dWOtEfZXy1tRjqlAz8ZZbxETOaT7aWmpjv8AjQmdWTg0diw5TgKtefe2Lk-3gqFg1_JE36WcqSbqVNcR0AXBfBJ5BKJSUFiXUb5IUYDVv1zZxLwnWqKBouKsvHPUkyxyJZK9Ax9kWq",
+                    "width": 900
+                }
+            ],
+            "place_id": "ChIJYzZOGp1MHRURV4Xby9VHY4o",
+            "plus_code": {
+                "compound_code": "3Q7C+3P Tel Aviv-Yafo",
+                "global_code": "8G4P3Q7C+3P"
+            },
+            "rating": 4.3,
+            "reference": "ChIJYzZOGp1MHRURV4Xby9VHY4o",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 193
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Nahalat Binyamin St 1, Tel Aviv-Yafo, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.0693168,
+                    "lng": 34.7704658
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.07083857989272,
+                        "lng": 34.77166112989272
+                    },
+                    "southwest": {
+                        "lat": 32.06813892010728,
+                        "lng": 34.76896147010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Poli House Tel Aviv Hotel by AFI Hotels",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1365,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105414416661464481980\">Poli House</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4ExXgMymYi8jM4ek_WjhxpSaHIQTDAfYG5Ltv4z54zcW-zdjkk_oLe41rYCmMiM0OT2gIZVZP4Zjrmw7eSXn3_izIuYSBU8G6f7NJa8yWTCdp5kEcfBPk90GExjX6nUp_BVJuyKs3sjpz7XCIwcqHUmNkzfAaumKvP5aqM35LHKtDN",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJn15FYoFMHRURvrn40rtzygc",
+            "plus_code": {
+                "compound_code": "3Q9C+P5 Tel Aviv-Yafo",
+                "global_code": "8G4P3Q9C+P5"
+            },
+            "rating": 4.3,
+            "reference": "ChIJn15FYoFMHRURvrn40rtzygc",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1232
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "\u05e4\u05d0\u05e8\u05e7 \u05d4\u05de\u05d3\u05e2, Prof. Hillel ve-Khanan Oppenheimer St 2, Rehovot, 7670102, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 31.90925489999999,
+                    "lng": 34.8059377
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.91096947989271,
+                        "lng": 34.80724942989273
+                    },
+                    "southwest": {
+                        "lat": 31.90826982010727,
+                        "lng": 34.80454977010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Leonardo Boutique",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 600,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115591644070307514396\">\u05dc\u05d0\u05d5\u05e0\u05e8\u05d3\u05d5 \u05d1\u05d5\u05d8\u05d9\u05e7 - Leonardo Boutique</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6aIFGP3L___5B-R3FantOHKjJw6qIVC--xY38KCPqoJ8wrnHKn8Mtnf8yRc4YTh0iaWPurDXpDt6AIqfBI_XqJDiUg_B1--QW8yjyGW7oYL5GRFICODqYWtZf26sFduXf7FE0dGJZ0OLKKkG5pEQK49sAmaREqfuBp7cIihpbsjtDj",
+                    "width": 900
+                }
+            ],
+            "place_id": "ChIJ4So0amlJHRURAEYxyx1992c",
+            "plus_code": {
+                "compound_code": "WR54+P9 Rehovot",
+                "global_code": "8G3PWR54+P9"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ4So0amlJHRURAEYxyx1992c",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1027
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Nachmani St 23-25, Tel Aviv-Yafo, 6579441, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.0659877,
+                    "lng": 34.775481
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.06722272989273,
+                        "lng": 34.77677997989272
+                    },
+                    "southwest": {
+                        "lat": 32.06452307010728,
+                        "lng": 34.77408032010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "The Norman Tel Aviv",
+            "photos": [
+                {
+                    "height": 890,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101689345807226212556\">The Norman Tel Aviv</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6HGrzWfBsAgpAt-_138PSO7KeeTzeP7_UNIth01lt8ccKOtJ5jN0TDki584_V1ldIJu85YJxpZLOEbe2zrGnpPneYh6s1RhKGnnGQF4JMQFlgiKRY4Np9GdKrVIcYKpeR93sVtp2iYaGSBPhmYnGayVkOtzNK9vIWIuFRDYLazN6yW",
+                    "width": 1336
+                }
+            ],
+            "place_id": "ChIJcZAGon1LHRURkBNUczROtec",
+            "plus_code": {
+                "compound_code": "3Q8G+95 Tel Aviv-Yafo",
+                "global_code": "8G4P3Q8G+95"
+            },
+            "rating": 4.5,
+            "reference": "ChIJcZAGon1LHRURkBNUczROtec",
+            "types": [
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1568
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "\u05e8\u05d7\u05d1\u05e2\u05dd \u05d6\u05d0\u05d1\u05d9 2, Hadera, 3832098, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.444019,
+                    "lng": 34.8804265
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.44537092989273,
+                        "lng": 34.88173457989272
+                    },
+                    "southwest": {
+                        "lat": 32.44267127010728,
+                        "lng": 34.87903492010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Resort Hadera by Jacob Hotels",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4480,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113590299320259115237\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5mt8DavyxJUjYFyC6GxnimDyvk7lQ1quTsxiyvOu3B6A_y9hpZtApWWRlTbeX8e_mIjQx3ivVQsSfnjhLCJ6-6pCVjUHT4KVUiss7EcNhmt-53I09cT1eaStncT2TFKnmSJ_4HoNCQejLk0tDtvyQtWbFmVzBEg0zpP9AsZ9594PHw",
+                    "width": 6720
+                }
+            ],
+            "place_id": "ChIJ2SggRt8SHRURXrf7bk_znYA",
+            "plus_code": {
+                "compound_code": "CVVJ+J5 Hadera",
+                "global_code": "8G4PCVVJ+J5"
+            },
+            "rating": 3.9,
+            "reference": "ChIJ2SggRt8SHRURXrf7bk_znYA",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3498
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Herzl Rosenblum St 12, Tel Aviv-Yafo, 69379, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.138635,
+                    "lng": 34.7919451
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.14000237989273,
+                        "lng": 34.79326582989272
+                    },
+                    "southwest": {
+                        "lat": 32.13730272010729,
+                        "lng": 34.79056617010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "West All Suite Hotel Tel Aviv - \u05de\u05dc\u05d5\u05df \u05d5\u05d5\u05e1\u05d8 \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2668,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106333336345016989441\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7UUu5ImlcLh4Pw6JGoD8BRLzLTVOQ5I5MtvQp_uoVeLzbxZS4Rzz1un3WNeqSU-qRHMR9nNTn8BU2QyWZM7_dkV-LUICZbFbKtY24UD1lBezahmzLdlisrd3GTpIrLUTGWLb6lEyfxDMbH_AA6eyhRwmhUO7nqZup2J9ci5uFYyRTF",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ52f3QCNJHRURIfLarsUm-aQ",
+            "plus_code": {
+                "compound_code": "4QQR+FQ Tel Aviv-Yafo",
+                "global_code": "8G4P4QQR+FQ"
+            },
+            "rating": 4,
+            "reference": "ChIJ52f3QCNJHRURIfLarsUm-aQ",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 932
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Brenner St 14, Tel Aviv-Yafo, 6382635, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.0688446,
+                    "lng": 34.7721636
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.07023037989272,
+                        "lng": 34.77352472989272
+                    },
+                    "southwest": {
+                        "lat": 32.06753072010727,
+                        "lng": 34.77082507010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Ink Hotel Tel Aviv | Boutique Hotel in Tel Aviv | \u05de\u05dc\u05d5\u05df \u05d0\u05d9\u05e0\u05e7 \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1",
+            "photos": [
+                {
+                    "height": 1335,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118325976661786863712\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4ttWjWJxy7uEatRyrYgaLjW6Kr9SVxMvB2EbfWIu9HD1-DVo4drH3YTnTPYqNvubQcgQfeL-AHjppDQ_whmfImz4MHFATo9CH__7JCen5pgMgl-PZaGO9njsOwuBNPf35U5W8nCkfeMPWJxfll5bhYBT5khyZAR7gZ6Kqixfxc7OMD",
+                    "width": 2000
+                }
+            ],
+            "place_id": "ChIJ49N28gZNHRURiqmMQMDeU4w",
+            "plus_code": {
+                "compound_code": "3Q9C+GV Tel Aviv-Yafo",
+                "global_code": "8G4P3Q9C+GV"
+            },
+            "rating": 4.9,
+            "reference": "ChIJ49N28gZNHRURiqmMQMDeU4w",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 171
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "HaYarkon St 155, Tel Aviv-Yafo, 6345318, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.0845413,
+                    "lng": 34.7691574
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.08574422989272,
+                        "lng": 34.77062767989273
+                    },
+                    "southwest": {
+                        "lat": 32.08304457010728,
+                        "lng": 34.76792802010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Herods Tel Aviv",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 667,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101880806172555203158\">\u05d4\u05e8\u05d5\u05d3\u05e1 - Herods</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5J0ruxVNTNxqmCmyeh481rS4EkNbjy9lemxEQ06QftyjixQZOQ9kZg1mvKjwsU4o60RtmQNi9WMcBxWDkJsktxb3eBnPaubSBTOt_2gACg-G1MpSXLsS2CQZJKQBh93smlBIC_KHiUoOY3uZTreCnP5PIjhjyEtLp994Q-MHSdPXt2",
+                    "width": 999
+                }
+            ],
+            "place_id": "ChIJ27Xi8XlMHRURNXX823lUlBQ",
+            "plus_code": {
+                "compound_code": "3QM9+RM Tel Aviv-Yafo",
+                "global_code": "8G4P3QM9+RM"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ27Xi8XlMHRURNXX823lUlBQ",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7657
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Rothschild Blvd 22, Tel Aviv-Yafo, 6688218, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.0627896,
+                    "lng": 34.7714756
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.06425217989272,
+                        "lng": 34.77280452989272
+                    },
+                    "southwest": {
+                        "lat": 32.06155252010727,
+                        "lng": 34.77010487010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Rothschild 22",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2670,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107182603325142220201\">Hotel Rothschild 22</a>"
+                    ],
+                    "photo_reference": "AXCi2Q622m6S51abHHQ37fYeCjsGUaFs2sXA_HVK-elN5Bcg8Dp8wYqC86ZGHvqrS03KxY1Cvktq75lFUWQIyQluyis7KRZfkjmgfnaZtiz2TsXesoS9wtrmSUhZNP_1v7Sxs1TxdF7BxPP9ZEpxZpi0vf7vCYIzBEkRDbVp-uTJN9BC-m7I",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJM30qIp1MHRUR5vCaINZyfVQ",
+            "plus_code": {
+                "compound_code": "3Q7C+4H Tel Aviv-Yafo",
+                "global_code": "8G4P3Q7C+4H"
+            },
+            "rating": 4.6,
+            "reference": "ChIJM30qIp1MHRUR5vCaINZyfVQ",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2438
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "HaYarkon St 205, Tel Aviv-Yafo, 6340506, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.0891109,
+                    "lng": 34.7709242
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.09045852989272,
+                        "lng": 34.77228277989271
+                    },
+                    "southwest": {
+                        "lat": 32.08775887010728,
+                        "lng": 34.76958312010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hilton Tel Aviv",
+            "photos": [
+                {
+                    "height": 3560,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116149343007112599009\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7MgXvltLyk3GZStL0XlKt5c-b2HMM_W2Di4h98nLhAvG1gB6_3zKR3iC-ADsIPasImcy0nf5h_AI1N4RZe3FfLFI6S3UfHfdQsD5gzUMg3wTlwxRHC3aqh-iE_Ho8lwTop6p6Z-PtS79mjpeJ1xTNAVs6APotqAEONnYmBTU7rWt4A",
+                    "width": 5344
+                }
+            ],
+            "place_id": "ChIJTTKZgnZMHRURA7ZhchPQTdU",
+            "plus_code": {
+                "compound_code": "3QQC+J9 Tel Aviv-Yafo",
+                "global_code": "8G4P3QQC+J9"
+            },
+            "rating": 4.4,
+            "reference": "ChIJTTKZgnZMHRURA7ZhchPQTdU",
+            "types": [
+                "spa",
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5322
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Beilinson St 6, Tel Aviv-Yafo, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.0777362,
+                    "lng": 34.7731697
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.07905782989273,
+                        "lng": 34.77445997989272
+                    },
+                    "southwest": {
+                        "lat": 32.07635817010728,
+                        "lng": 34.77176032010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Backstage Hotel an Atlas Boutique Hotel - \u05de\u05dc\u05d5\u05df \u05d1\u05e7\u05e1\u05d8\u05d9\u05d9\u05d2 '",
+            "photos": [
+                {
+                    "height": 3333,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107769395151868827681\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7WnD45Cgyq-F9gJ8LR85T-QOdq3yifJl2iqPlja5AAlIbkHjR6qJF3alVASOEblQEOg_qWOa00VffERJtlYao0Ho8PW7syrb3O-7dQKXQsJeA8iWl-017wJzoGXUFqqOAFmcM0XRmtXr0Hh7ym079_tW38iSW3jc44TksGJTA-xclu",
+                    "width": 5000
+                }
+            ],
+            "place_id": "ChIJ3XH5_nVNHRURwiOmMj14fww",
+            "plus_code": {
+                "compound_code": "3QHF+37 Tel Aviv-Yafo",
+                "global_code": "8G4P3QHF+37"
+            },
+            "rating": 4.9,
+            "reference": "ChIJ3XH5_nVNHRURwiOmMj14fww",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 540
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Hulda St 11, Tel Aviv-Yafo, 6458210, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.086063,
+                    "lng": 34.7761387
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.08737762989271,
+                        "lng": 34.77746442989272
+                    },
+                    "southwest": {
+                        "lat": 32.08467797010727,
+                        "lng": 34.77476477010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Arbel Tel Aviv | \u05de\u05dc\u05d5\u05df \u05d0\u05e8\u05d1\u05dc \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2128,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101584308957866270272\">Hava Atias</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7PmyuqupSNeUUdm43v4Q-XWBcDH4aGtRSx3wdweL0e2psq1p9RwQFP9qZdMiz5228Bhjuo1svyWqtUENX7JEvf--ewO-E8CbSfqNS6bdMCw6rEzEc-Mvjk9R5xHB9oKmlVeTYn7jghSvXt3GcvqAa5mkOuMIgLfipstbIl-TNIQMZ4",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJf9Qlu4lLHRURT2FNCY0M2QY",
+            "plus_code": {
+                "compound_code": "3QPG+CF Tel Aviv-Yafo",
+                "global_code": "8G4P3QPG+CF"
+            },
+            "rating": 4.5,
+            "reference": "ChIJf9Qlu4lLHRURT2FNCY0M2QY",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 420
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Lilienblum St 9, Tel Aviv-Yafo, 6513113, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.0621645,
+                    "lng": 34.768552
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.06341387989272,
+                        "lng": 34.76992037989272
+                    },
+                    "southwest": {
+                        "lat": 32.06071422010728,
+                        "lng": 34.76722072010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Elkonin Tel Aviv Hotel - MGallery Hotels Collection",
+            "photos": [
+                {
+                    "height": 2250,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113679331847368067225\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q63cZWqbFNv2Rn-IsDH9ImJAlTJy6CkHAQwFZEP_p0S_DSdgLRnHgnSopPME6US9t3zX7EtxU9GUWL2MAb6DBGHokgKellmq5E3GY1lACgfEAat_iJDCWfLySNPswCEXpBR94y_U9Yp7z39cOAnt7RblDbJ0vImLjf2-BKyEDbMf_kY",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJASei4n9NHRURCh_HhUvNxYo",
+            "plus_code": {
+                "compound_code": "3Q69+VC Tel Aviv-Yafo",
+                "global_code": "8G4P3Q69+VC"
+            },
+            "rating": 4.9,
+            "reference": "ChIJASei4n9NHRURCh_HhUvNxYo",
+            "types": [
+                "spa",
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 64
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "HaYarkon St 51, Tel Aviv-Yafo, 6343203, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.0746384,
+                    "lng": 34.7660942
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.07598297989272,
+                        "lng": 34.76760882989272
+                    },
+                    "southwest": {
+                        "lat": 32.07328332010728,
+                        "lng": 34.76490917010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "The David Kempinski Tel Aviv",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3308,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101107560858977394725\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5iA0f31Hko9HPi06q21ARBoz46r_g1FdLh_ECWKr9pcrVgPCKtZT7HLcXlQq4hHMzAhC1ncnV0B4U3DKCUAVdTY6GMEQ9tdlEGn0NVxpdQLr-CZ8TAxqhB9bzqpKKVK9FBgTR9EhXEGXMetVdN2FlOPLjcczy9XjNw5v9F2sM-Z4uy",
+                    "width": 5135
+                }
+            ],
+            "place_id": "ChIJIQZwBPZNHRUR1dz-ntGOLwQ",
+            "plus_code": {
+                "compound_code": "3QF8+VC Tel Aviv-Yafo",
+                "global_code": "8G4P3QF8+VC"
+            },
+            "rating": 4.4,
+            "reference": "ChIJIQZwBPZNHRUR1dz-ntGOLwQ",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 412
+        }
+    ],
+    "status": "OK"
+}

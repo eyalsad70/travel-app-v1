@@ -1,0 +1,1044 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AXCi2Q6oE8d8S9Ad-l7HiQeunBflTQd1dKaEQEoEwZkoK2FuZP5eywD2p8s81TFXWONkpBAieo5UozYWMqpMDMzzcpNkAu1ZPGQIzDRg6yQDArP-PMnWc4JmGszc44a9W8RjccCugpIrO-zxLR2nFfgzQY6qfHjDZbu3gVlWWc5HTZGeqETLOFMPQmaX6clYDFSF67GP94NcYbUlQ09zmVFTK8sTlvgEkm0QM4f-TD2tbhw8IzisXSxJ_XSJCD3KvJF_v1PZUjtRcb_G7SaFwYTYdQetdt9TY7BgiJwPk3uhBDqkcQ1pzGAe8glA2AZoMPBlHE5trrmiNOCQH_XWq5asHmDKoM__WG2hHqyR9m-BHtwEE-rdhPT8JxSvyQ5tfCEm1dCH_M69HZfNZ2oFEXvo4Ih903G0zz0WLrj_o8EkvDLkxZH6k4iGLNP7XB-T3vs",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dem\u00e4novsk\u00e1 Dolina 2, 031 01 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.0332044,
+                    "lng": 19.5746808
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.03454862989272,
+                        "lng": 19.57610117989272
+                    },
+                    "southwest": {
+                        "lat": 49.03184897010728,
+                        "lng": 19.57340152010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Koliba Bystrina",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112798594158223620871\">Mario Ha\u00df</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6KTfeelwuQvfaoXcgC5QMiNCkvZ-nbP6XAgxJ3S4x6eT8cR2GKJFWm4VDIcS-usdqJbbsyaBiH-5vHMxLAhlQ3ERKXu7ad5o3fRWfvwXer0nY6aayMeZC9W1eEcycQHTn5C3-cK6AXzGzeDjsJfg1Qu4bLERlVAD6EWIqqugGS2cUI",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJndoJTVqeFUcR1Q_MBHRJRvY",
+            "plus_code": {
+                "compound_code": "2HMF+7V Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+                "global_code": "8FXX2HMF+7V"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJndoJTVqeFUcR1Q_MBHRJRvY",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2917
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Liptovsk\u00fd Mikul\u00e1\u0161 5, 031 01 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.0304331,
+                    "lng": 19.572285
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.03177987989272,
+                        "lng": 19.57390927989272
+                    },
+                    "southwest": {
+                        "lat": 49.02908022010728,
+                        "lng": 19.57120962010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "KOLIBA TRI STUDNI\u010cKY u Tom\u00e1\u0161ovcov",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2832,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112764700928120586889\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6AX3AV-rEOtAS4pwrIImiySXUMHqf8DdXeu3nbpo4rTu2srAbu-YzZ7Vt5ukFk81D_9xCBJvoWI62K3_5lqJsO7G2OQfZDTfEynPZLlSiwCnTHw8nbhtbR6weR7MadJJGV2lt-eLQ09dtVvZUWwwDr8U8o0FuD_rnRF9UHvAO07Yar",
+                    "width": 3552
+                }
+            ],
+            "place_id": "ChIJc_5T1kSeFUcR-Oa5OgIt0Iw",
+            "plus_code": {
+                "compound_code": "2HJC+5W Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+                "global_code": "8FXX2HJC+5W"
+            },
+            "rating": 4.1,
+            "reference": "ChIJc_5T1kSeFUcR-Oa5OgIt0Iw",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1710
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dem\u00e4novsk\u00e1 Dolina 101, 031 01 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 48.9729561,
+                    "lng": 19.5841259
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 48.97431682989272,
+                        "lng": 19.58545587989272
+                    },
+                    "southwest": {
+                        "lat": 48.97161717010727,
+                        "lng": 19.58275622010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Ostredok by Iglobrothers",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2690,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102494352746450207856\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6Ou3C53ybHOO5JdMDO2_ElPc9Bjlp5QX125RZ50YI6Uq_eC9I5XvjO4mQvoJAoqEQSim9a6hx5IwuLqVXf_qV4K-ZpeR1TIGQUemPRC3El3XedZSM0vodlq6VEyiMMzrPBSteJSXUDpcK6u7a3WWOVr6j05epDI7Drp3ydxib6ueKG",
+                    "width": 3907
+                }
+            ],
+            "place_id": "ChIJAXLYQmt2FUcRnD9yl7uznTE",
+            "plus_code": {
+                "compound_code": "XHFM+5M Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+                "global_code": "8FWXXHFM+5M"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJAXLYQmt2FUcRnD9yl7uznTE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 913
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dem\u00e4novsk\u00e1 Dolina 180, 031 01 Liptovsk\u00fd Mikul\u00e1\u0161, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 48.9769543,
+                    "lng": 19.594629
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 48.97832832989272,
+                        "lng": 19.59602597989272
+                    },
+                    "southwest": {
+                        "lat": 48.97562867010728,
+                        "lng": 19.59332632010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Restaurant 3 domky",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104912548876972009959\">\u013dubica Mo\u0161tenick\u00e1</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6bbK_SzvQOUg5A6xuemoaaOlAgEOm4Pnz-asvvxwrwp6nCb39_d3DJFGjy8LPWt4HnbMYw-002E-GZtJBJ03W_cBtHQk8oO-Qqqnps-QK8Upiyk1eXnYDwZQsWSWy1gUMdeZfnKiIRHIMSVNFtc8ltu62asLddXUsw5F7BWl-9E22W",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJjxh8YBJ2FUcRTMh_P54ysqw",
+            "plus_code": {
+                "compound_code": "XHGV+QV Liptovsk\u00fd Mikul\u00e1\u0161, Slovakia",
+                "global_code": "8FWXXHGV+QV"
+            },
+            "rating": 4.6,
+            "reference": "ChIJjxh8YBJ2FUcRTMh_P54ysqw",
+            "types": [
+                "restaurant",
+                "lodging",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 758
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dem\u00e4novsk\u00e1 Dolina 73, 031 01 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 48.9673165,
+                    "lng": 19.575144
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 48.96867307989272,
+                        "lng": 19.57644372989272
+                    },
+                    "southwest": {
+                        "lat": 48.96597342010728,
+                        "lng": 19.57374407010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Re\u0161taur\u00e1cia Slovensk\u00e1 koliba",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103412093638655519336\">Alena Novikova</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5fxBE3cixaMLXnNAXYEOjSNUIWmufhhTPcIWUvgBuUcGJaVPswQ2Cezo3Qg4sW0bCwYAoMiehaBoep4yqK-36QXHIRDtXIaChtMXZ0Mgf0rDdPgahm8TidjfPRntKzd0k-z5B8_l7FqH-ubB1UgiWJPhneYU7ku6kLYXWJSfNsu6Gh",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJTRmjWiZ3FUcRYihSH0458VE",
+            "plus_code": {
+                "compound_code": "XH8G+W3 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+                "global_code": "8FWXXH8G+W3"
+            },
+            "rating": 4.5,
+            "reference": "ChIJTRmjWiZ3FUcRYihSH0458VE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 327
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dem\u00e4novsk\u00e1 Dolina 92, 031 01 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 48.9437438,
+                    "lng": 19.5900607
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 48.94509362989272,
+                        "lng": 19.59141052989272
+                    },
+                    "southwest": {
+                        "lat": 48.94239397010728,
+                        "lng": 19.58871087010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "ROTUNDA RESTAURANT",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106894682587284611388\">Alexander Legkikh</a>"
+                    ],
+                    "photo_reference": "AXCi2Q70LJCii9QiKszcK204I4tncBEv2_MVQ_ZJ7FTzRfvmYYO6xK817E6nHxb3Iscz1Z9QaAVdDqEf4VZCRQ_UeDexVtYsWzQv9JfmOaKc3tVxnd_qJzgMa5jh3RL8WDzuuAYSe9NAiUTv6FAUQYyj7F75_LBTcdOO6tVS0pn-0ILkrKc3",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ-V6dTdJ3FUcRgdDCMpJhoXM",
+            "plus_code": {
+                "compound_code": "WHVR+F2 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+                "global_code": "8FWXWHVR+F2"
+            },
+            "rating": 4.1,
+            "reference": "ChIJ-V6dTdJ3FUcRgdDCMpJhoXM",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 298
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jasn\u00e1, 03251 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 48.9628665,
+                    "lng": 19.5856454
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 48.96424647989272,
+                        "lng": 19.58686592989272
+                    },
+                    "southwest": {
+                        "lat": 48.96154682010728,
+                        "lng": 19.58416627010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Chata Koliesko",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116450535098362507288\">Milan Novotn\u00fd</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4FFqJCAoCYHkuofxLTRA9wlmu4E5BEMCHcqbBI25PYTmuQWn7ZLRIlyFY04IegaEc2Dni8SiZmGh4Enw3si7om7WLXrEavpjQ2qfUGSvJ3mFPSLN-sb3bp-8nmgaFXlas3hoySwhqYS6pb9yDSxHncqn3_jjI5ap7b6VAFB1yF9eUT",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJAXLYQmt2FUcRxomClqzpylk",
+            "plus_code": {
+                "compound_code": "XH7P+47 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+                "global_code": "8FWXXH7P+47"
+            },
+            "price_level": 2,
+            "rating": 4.2,
+            "reference": "ChIJAXLYQmt2FUcRxomClqzpylk",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 287
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Garbiarska 627, 031 01 Liptovsk\u00fd Mikul\u00e1\u0161, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.0814934,
+                    "lng": 19.6127814
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.08306192989271,
+                        "lng": 19.61416732989272
+                    },
+                    "southwest": {
+                        "lat": 49.08036227010727,
+                        "lng": 19.61146767010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Route 66",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1357,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115908665208989238816\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q720yUmnLDgJxwe93HXpH5jtC5LeSTV88o9oDHDlMTNZ0ibiOvFuHvYWJlkKTEgzfrtErDxNstvhmzkSyN6bJs2dzFjVW_5n5z_D1Gd-AzM1qXp2WzTkws3GZCZVD9Rh3W_zYzT8jP1HZsHdWEDPHTWB2oq_OhAg5uLu9PtZ6eY83LS",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJd2GY0C-ZFUcRtjF_oydCjDk",
+            "plus_code": {
+                "compound_code": "3JJ7+H4 Liptovsk\u00fd Mikul\u00e1\u0161, Slovakia",
+                "global_code": "8FXX3JJ7+H4"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJd2GY0C-ZFUcRtjF_oydCjDk",
+            "types": [
+                "restaurant",
+                "meal_delivery",
+                "meal_takeaway",
+                "bar",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7562
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Kosodrevina 691, 976 81 Horn\u00e1 Lehota, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 48.932476,
+                    "lng": 19.5974578
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 48.93382582989273,
+                        "lng": 19.59880762989272
+                    },
+                    "southwest": {
+                        "lat": 48.93112617010728,
+                        "lng": 19.59610797010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Restaurant Koska",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105051336525638718699\">michaela puskova</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4e0j_DYkjOSM20RygSd5Y8Kb6YI7aA8RSkBcqmgjc6PTutOeoNwNzgLGr_7hD7QtAuCyaawgYvtxL0gUF2nElwyhw6exIfy9W8g9Ne6ticq_8iJF2TqaZh-QtkgANFzvr5cKIpnK88bayocMhf-uz_oFsDXZ-G9ZfpZiZIL47UFCPW",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJ38XAbud2FUcRMLwBWANeBIw",
+            "plus_code": {
+                "compound_code": "WHJW+XX Horn\u00e1 Lehota, Slovakia",
+                "global_code": "8FWXWHJW+XX"
+            },
+            "price_level": 2,
+            "rating": 4.1,
+            "reference": "ChIJ38XAbud2FUcRMLwBWANeBIw",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 463
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dem\u00e4novsk\u00e1 Dolina 69, 031 01 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 48.972725,
+                    "lng": 19.598027
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 48.97414467989272,
+                        "lng": 19.59924827989272
+                    },
+                    "southwest": {
+                        "lat": 48.97144502010728,
+                        "lng": 19.59654862010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel SKI & SKI Bar",
+            "photos": [
+                {
+                    "height": 904,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116587228396089261669\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5Y-twAladgUgWM0smK4_ZITPySV24UjXCDypqeq5jKVNvbMK-_9JCwOXQHCb34pJEBmpHxLNssc3cLq55xMq68aIAy2xTRuC9ix-VtXe4QdEbmq7EE4iSKQyJf8hRIEM8dy_7SzdxZFWzcTno0uoNsNpF-R5MhQKQEUq4iXX4Mpc1s",
+                    "width": 1400
+                }
+            ],
+            "place_id": "ChIJ0ehAV2t2FUcRCVWUHyca3Y0",
+            "plus_code": {
+                "compound_code": "XHFX+36 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+                "global_code": "8FWXXHFX+36"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ0ehAV2t2FUcRCVWUHyca3Y0",
+            "types": [
+                "spa",
+                "lodging",
+                "park",
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 755
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Galovany 1, 032 11 Galovany, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.0925559,
+                    "lng": 19.5133672
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.09382952989272,
+                        "lng": 19.51485517989272
+                    },
+                    "southwest": {
+                        "lat": 49.09112987010727,
+                        "lng": 19.51215552010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Sala\u0161 Decht\u00e1re",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2322,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117653739872774055853\">Pavel Chudada</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6Mn3p9ajP6V8QVXCoagK8CjzWGVB8IjhuV5QulH95Ftda0vCJ8Cy7vmC0Am--QKfHaH2rwhNveHqCHS7MtlgnMIxJkUVte9FvaTCPUXcOzUMwRDNCxjauA7Cdxfjg3P6n4Hb7r-35lnfnOa4iPvSfdJN4Z-ifoUXSGJcAYlzZhSO-s",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJm5QQGvahFUcR0fS0jhPR2Tg",
+            "plus_code": {
+                "compound_code": "3GV7+28 Galovany, Slovakia",
+                "global_code": "8FXX3GV7+28"
+            },
+            "price_level": 2,
+            "rating": 4.4,
+            "reference": "ChIJm5QQGvahFUcR0fS0jhPR2Tg",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5187
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "N\u00e1mestie oslobodite\u013eov 85/21, 031 01 Liptovsk\u00fd Mikul\u00e1\u0161, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.08335779999999,
+                    "lng": 19.6133185
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.08438367989272,
+                        "lng": 19.61428587989273
+                    },
+                    "southwest": {
+                        "lat": 49.08168402010728,
+                        "lng": 19.61158622010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Liptovsk\u00e1 izba",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118187623610177066419\">Mat BajRo</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4qs22vxkkBY2vTqrVwAMBP3YXCUTMQhfricu0M63Z5e9WGkMUnWw4CJeR69JxrYQQ5wy_TGnUfRpElCPTaT9OZMf5CnBfuJibkZBXKnBo4hqlgk8M5Jb5LUwiDjHpgyzq5n25nPa9oMX6JOFbH53hr33lXYq65yssZUmZnrq6h9sXU",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJX563IDGZFUcROHsMxbnug9g",
+            "plus_code": {
+                "compound_code": "3JM7+88 Liptovsk\u00fd Mikul\u00e1\u0161, Slovakia",
+                "global_code": "8FXX3JM7+88"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJX563IDGZFUcROHsMxbnug9g",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2896
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dem\u00e4novsk\u00e1 Dolina 75, 031 01 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 48.9693135,
+                    "lng": 19.5751979
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 48.97067577989273,
+                        "lng": 19.57663702989272
+                    },
+                    "southwest": {
+                        "lat": 48.96797612010729,
+                        "lng": 19.57393737010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Restaurant hotela Mikul\u00e1\u0161ska chata",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118090209871063774619\">Veronika Kov\u00e1\u010dikov\u00e1</a>"
+                    ],
+                    "photo_reference": "AXCi2Q55FdlGDJJF1RCYX_H5UA7xV0TZdeD6cye4zyw63SwEE4F_1FGqVixiYMYhypQILfDQiyIx7-OZM27ovgI0yIoNJdAjfA159zMGAeJ82_TXxFY_5oM95wKc8XO9br3DwNCnc7NDPlj19HcD-ZN5rIGkynIOs1OyBj-S0o1vnTq4z5BS",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJHzRF2WF3FUcR6sL5vt711NI",
+            "plus_code": {
+                "compound_code": "XH9G+P3 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+                "global_code": "8FWXXH9G+P3"
+            },
+            "rating": 4.4,
+            "reference": "ChIJHzRF2WF3FUcR6sL5vt711NI",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 67
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dem\u00e4novsk\u00e1 cesta 478/58, 031 01 Liptovsk\u00fd Mikul\u00e1\u0161-Dem\u00e4nov\u00e1, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.0562925,
+                    "lng": 19.5802545
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.05755632989272,
+                        "lng": 19.58176912989272
+                    },
+                    "southwest": {
+                        "lat": 49.05485667010727,
+                        "lng": 19.57906947010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Hotel and Restaurant Drak",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113810767667561537423\">Daniel Vaturi</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6ZwIqsg1Sy1Qs1odwxkXO24Ha4IHC582zHS_L3jJhbiXNjf69aVBWKvWZ8jKHiWHUijKa-Uh110TXJMn4wi6o3VEvbgZNsAbnos-lOOteuWlRlAxtt8GblPMrOsD6AioddmMpHIsc3kXdWQr7-X0OR00L25-rrU62AEnytaafC8Vrw",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJc9tExt2eFUcRi4bdrWTXY1k",
+            "plus_code": {
+                "compound_code": "3H4J+G4 Liptovsk\u00fd Mikul\u00e1\u0161, Slovakia",
+                "global_code": "8FXX3H4J+G4"
+            },
+            "rating": 4.6,
+            "reference": "ChIJc9tExt2eFUcRi4bdrWTXY1k",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 823
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dem\u00e4novsk\u00e1 Dolina 20, 031 01 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.0193208,
+                    "lng": 19.5767287
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.02071492989273,
+                        "lng": 19.57816482989272
+                    },
+                    "southwest": {
+                        "lat": 49.01801527010728,
+                        "lng": 19.57546517010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Wellness Hotel Chopok",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 850,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104445605328499588037\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4w6djfs2W1wgN15FvD1rLKQXmKWAIiUqsvobDnNw28bDF-imDlNUJfNGw4w9tA2uQDI2vyTLL2F8hV_Z3H48QFD29PwgXiTaearYk3Y2IIk2BnztunO2Lq2daOYrjLWHreHPHX4lav8PIwPdDf6PO6369Rt_GfX6uzlXdRzly9EtZP",
+                    "width": 1000
+                }
+            ],
+            "place_id": "ChIJqfGlVs7soEcR_tO6K49msYE",
+            "plus_code": {
+                "compound_code": "2H9G+PM Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+                "global_code": "8FXX2H9G+PM"
+            },
+            "rating": 4.7,
+            "reference": "ChIJqfGlVs7soEcR_tO6K49msYE",
+            "types": [
+                "spa",
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1365
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dem\u00e4novsk\u00e1 Dolina 20, 031 01 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.0192077,
+                    "lng": 19.576605
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.02063582989272,
+                        "lng": 19.57813652989272
+                    },
+                    "southwest": {
+                        "lat": 49.01793617010728,
+                        "lng": 19.57543687010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Re\u0161taur\u00e1cia Hotel Chopok ****",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 596,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102271526015713602101\">Wellness Hotel Chopok - re\u0161taur\u00e1cia</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7Y8wH5NeQCws6SWs9vMc73ezEKB2J-33YdjmZT7OyFAihy-8kBw9A7B_x0Pmkbp0l825UQYPQGxuIXfRDCnSPDxlVLFqa236VfQMUrb1_cB6DGw4EVPFkkAcTCmONV7LXpZdeKnyOjgg_4wB-sLsENwFs2eYoByxB2ex2INerfqO0D",
+                    "width": 1000
+                }
+            ],
+            "place_id": "ChIJJzZ8IMWoakcRzVKRboufees",
+            "plus_code": {
+                "compound_code": "2H9G+MJ Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+                "global_code": "8FXX2H9G+MJ"
+            },
+            "rating": 4.7,
+            "reference": "ChIJJzZ8IMWoakcRzVKRboufees",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 75
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dem\u00e4nov\u00e1 584, 031 01 Liptovsk\u00fd Mikul\u00e1\u0161, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.0545023,
+                    "lng": 19.579125
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.05588892989271,
+                        "lng": 19.58040262989272
+                    },
+                    "southwest": {
+                        "lat": 49.05318927010727,
+                        "lng": 19.57770297010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "PINUS restaurant",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2250,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103129363844417588104\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q78uz0h9h1dVejg85_RxDscqQd9s_FgXImas2J1-f-eSV_pdWSt-Ex60qZe9GRg5AdQHkt2aHEA0JQdGZ9qL31ChUK8pmJk17zXhmxwnBj_LdL8DWWXnI3YogDge3_sk8BTrDIj4_mckAIKYK7dRXzDxeHFwlqLIahVnEjTqFD9ufeM",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJbSo5B6GfFUcR9-tk7Mt-c5I",
+            "plus_code": {
+                "compound_code": "3H3H+RM Liptovsk\u00fd Mikul\u00e1\u0161, Slovakia",
+                "global_code": "8FXX3H3H+RM"
+            },
+            "price_level": 2,
+            "rating": 3.8,
+            "reference": "ChIJbSo5B6GfFUcR9-tk7Mt-c5I",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1263
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dem\u00e4novsk\u00e1 Dolina 77, 031 01 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 48.9667397,
+                    "lng": 19.5819816
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 48.96808092989272,
+                        "lng": 19.58322767989272
+                    },
+                    "southwest": {
+                        "lat": 48.96538127010728,
+                        "lng": 19.58052802010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Re\u0161taur\u00e1cia Hotel Bj\u00f6rnson",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4017,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118020054350534747114\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4QaYg8AGXnimXpp4yvuKQEwzwfjwTgkLnFx8o4UHFcu-k-9LT15ZRUlinQiP1Ea8aIMkx5PaUN1ZY5V4GA4fhN8TkvA7bVwVDYUtcCLQ5Wt5ZAgFJ9RwesJycr5gQhf7IkUS_spflDnVP6fWMDpThGzaf7b9s956Ia7k6qZ-lkiDv_",
+                    "width": 6020
+                }
+            ],
+            "place_id": "ChIJlX-YQIt3FUcR5DpivWdBykM",
+            "plus_code": {
+                "compound_code": "XH8J+MQ Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+                "global_code": "8FWXXH8J+MQ"
+            },
+            "rating": 4.5,
+            "reference": "ChIJlX-YQIt3FUcR5DpivWdBykM",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 64
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dem\u00e4novsk\u00e1 Dolina 354, 031 01 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 48.9712144,
+                    "lng": 19.5834452
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 48.97279027989272,
+                        "lng": 19.58470307989272
+                    },
+                    "southwest": {
+                        "lat": 48.97009062010728,
+                        "lng": 19.58200342010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Happy End Restaurant & Club",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2304,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103843316297857585116\">Chris Z</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7Smw6L2D_BauS5GbWLgh_scH0NIB60JtfALYM1hiWr4KSog4uuRFaz4f-tP5V_5YwRLWbk0NwqN2obnTrnnw5CZ_42wW455abrb5mjCdEq-hQgLQiB-Cw36Uy1TRJPo7XhK9fk9d4TESrVO9rzSKvmgjDZvmZL03oSDIMWL0DB10Y2",
+                    "width": 4096
+                }
+            ],
+            "place_id": "ChIJ79CRKnJ2FUcRejTUO7SDGB8",
+            "plus_code": {
+                "compound_code": "XHCM+F9 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+                "global_code": "8FWXXHCM+F9"
+            },
+            "price_level": 2,
+            "rating": 3.9,
+            "reference": "ChIJ79CRKnJ2FUcRejTUO7SDGB8",
+            "types": [
+                "night_club",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1003
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Dem\u00e4novsk\u00e1 Dolina 82, 032 51 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 48.9666089,
+                    "lng": 19.5853224
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 48.96792527989272,
+                        "lng": 19.58671917989272
+                    },
+                    "southwest": {
+                        "lat": 48.96522562010728,
+                        "lng": 19.58401952010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "\u013dudov\u00e1 re\u0161taur\u00e1cia na svahu Biela P\u00fa\u0165",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2736,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112325370260932485403\">Dominik Kaduk</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6vwdNGOUGAhuQZWlelz0cWWgenPiEgZl1TsqmG2D1MPGTM9QYFwrF9lFt2bnj2t2fLKwGC-iweKWNr49f6ivtU3eM9Sju92i_uue8CF6LjIHlIiRulblNonsOKaiY-rNakoi92qTnDvgxu-oE8_ireCS8du3BTbPsTVdSRLOtyXpAg",
+                    "width": 3648
+                }
+            ],
+            "place_id": "ChIJzb5RPHF2FUcRyCZIpuQV9wA",
+            "plus_code": {
+                "compound_code": "XH8P+J4 Dem\u00e4novsk\u00e1 Dolina, Slovakia",
+                "global_code": "8FWXXH8P+J4"
+            },
+            "rating": 4.1,
+            "reference": "ChIJzb5RPHF2FUcRyCZIpuQV9wA",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 57
+        }
+    ],
+    "status": "OK"
+}

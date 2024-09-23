@@ -1,0 +1,260 @@
+{
+    "predictions": [
+        {
+            "description": "Poprad, Slovakia",
+            "matched_substrings": [
+                {
+                    "length": 6,
+                    "offset": 0
+                },
+                {
+                    "length": 8,
+                    "offset": 8
+                }
+            ],
+            "place_id": "ChIJkaH9vJQ6PkcRILmG7wpKl5M",
+            "reference": "ChIJkaH9vJQ6PkcRILmG7wpKl5M",
+            "structured_formatting": {
+                "main_text": "Poprad",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Slovakia",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 8,
+                        "offset": 0
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Poprad"
+                },
+                {
+                    "offset": 8,
+                    "value": "Slovakia"
+                }
+            ],
+            "types": [
+                "political",
+                "locality",
+                "geocode"
+            ]
+        },
+        {
+            "description": "Letisko Poprad-Tatry, Na letisko, Poprad, Slovakia",
+            "matched_substrings": [
+                {
+                    "length": 20,
+                    "offset": 0
+                }
+            ],
+            "place_id": "ChIJ7VqyZcA6PkcR2Wwq0CKhpAA",
+            "reference": "ChIJ7VqyZcA6PkcR2Wwq0CKhpAA",
+            "structured_formatting": {
+                "main_text": "Letisko Poprad-Tatry",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 20,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Na letisko, Poprad, Slovakia"
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Letisko Poprad-Tatry"
+                },
+                {
+                    "offset": 22,
+                    "value": "Na letisko"
+                },
+                {
+                    "offset": 34,
+                    "value": "Poprad"
+                },
+                {
+                    "offset": 42,
+                    "value": "Slovakia"
+                }
+            ],
+            "types": [
+                "establishment",
+                "airport",
+                "point_of_interest"
+            ]
+        },
+        {
+            "description": "Mestsk\u00fd \u00farad Poprad, N\u00e1bre\u017eie J\u00e1na Pavla II, Poprad, Slovakia",
+            "matched_substrings": [
+                {
+                    "length": 6,
+                    "offset": 13
+                },
+                {
+                    "length": 8,
+                    "offset": 53
+                }
+            ],
+            "place_id": "ChIJGdUedpU6PkcRKKzG-QzDqFk",
+            "reference": "ChIJGdUedpU6PkcRKKzG-QzDqFk",
+            "structured_formatting": {
+                "main_text": "Mestsk\u00fd \u00farad Poprad",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 13
+                    }
+                ],
+                "secondary_text": "N\u00e1bre\u017eie J\u00e1na Pavla II, Poprad, Slovakia",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 8,
+                        "offset": 32
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Mestsk\u00fd \u00farad Poprad"
+                },
+                {
+                    "offset": 21,
+                    "value": "N\u00e1bre\u017eie J\u00e1na Pavla II"
+                },
+                {
+                    "offset": 45,
+                    "value": "Poprad"
+                },
+                {
+                    "offset": 53,
+                    "value": "Slovakia"
+                }
+            ],
+            "types": [
+                "local_government_office",
+                "establishment",
+                "point_of_interest"
+            ]
+        },
+        {
+            "description": "Whirlpool Slovakia spol. Ltd., Hlavn\u00e1, Poprad-Matejovce, Slovakia",
+            "matched_substrings": [
+                {
+                    "length": 8,
+                    "offset": 10
+                },
+                {
+                    "length": 6,
+                    "offset": 39
+                }
+            ],
+            "place_id": "ChIJvbe_4wI7PkcRqaqrHCnrM0k",
+            "reference": "ChIJvbe_4wI7PkcRqaqrHCnrM0k",
+            "structured_formatting": {
+                "main_text": "Whirlpool Slovakia spol. Ltd.",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 8,
+                        "offset": 10
+                    }
+                ],
+                "secondary_text": "Hlavn\u00e1, Poprad-Matejovce, Slovakia",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 8
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Whirlpool Slovakia spol. Ltd."
+                },
+                {
+                    "offset": 31,
+                    "value": "Hlavn\u00e1"
+                },
+                {
+                    "offset": 39,
+                    "value": "Poprad"
+                },
+                {
+                    "offset": 46,
+                    "value": "Matejovce"
+                },
+                {
+                    "offset": 57,
+                    "value": "Slovakia"
+                }
+            ],
+            "types": [
+                "establishment",
+                "point_of_interest"
+            ]
+        },
+        {
+            "description": "Poprad, N\u00e1mestie sv\u00e4t\u00e9ho Eg\u00eddia, Poprad, Slovakia",
+            "matched_substrings": [
+                {
+                    "length": 6,
+                    "offset": 0
+                },
+                {
+                    "length": 8,
+                    "offset": 41
+                }
+            ],
+            "place_id": "ChIJX9VDCwA7PkcR2jyj73qn0B4",
+            "reference": "ChIJX9VDCwA7PkcR2jyj73qn0B4",
+            "structured_formatting": {
+                "main_text": "Poprad",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "N\u00e1mestie sv\u00e4t\u00e9ho Eg\u00eddia, Poprad, Slovakia",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 8,
+                        "offset": 33
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Poprad"
+                },
+                {
+                    "offset": 8,
+                    "value": "N\u00e1mestie sv\u00e4t\u00e9ho Eg\u00eddia"
+                },
+                {
+                    "offset": 33,
+                    "value": "Poprad"
+                },
+                {
+                    "offset": 41,
+                    "value": "Slovakia"
+                }
+            ],
+            "types": [
+                "point_of_interest",
+                "establishment",
+                "bar"
+            ]
+        }
+    ],
+    "status": "OK"
+}

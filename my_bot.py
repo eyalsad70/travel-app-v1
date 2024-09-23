@@ -1,3 +1,8 @@
+"""
+Telegram BOT handlers
+initialize the bot, listen on requests, and support responses through handlers
+"""
+
 import telebot
 from telebot import types
 import time, datetime
@@ -8,7 +13,6 @@ from my_logger import print_info, print_error
 import user_session
 
 test_token = keys_loader.load_private_key("telebot")
-chat_id = int(keys_loader.load_private_key("telebot_id"))
 bot_name = "eyal_cde_test1"
 
 
@@ -20,6 +24,7 @@ bot_name = "eyal_cde_test1"
 def send_welcome_message():
     # put your chat id and send a message
     bot_url = f'https://api.telegram.org/bot{test_token}/'
+    chat_id = int(keys_loader.load_private_key("telebot_id"))
 
     current_time = time.localtime()
     time_string = time.strftime("%Y-%m-%d %H:%M:%S", current_time)
@@ -41,10 +46,11 @@ def send_welcome_message():
 def log_message(message):
         print_info(f"Message ID: {message.message_id} From User ID: {message.from_user.id} ; Message Text: {message.text}")
 
-# # Create bot class
+# Create bot class
 bot = telebot.TeleBot(test_token)
 
-def start_bot():
+def start_bot():    
+    # start listening
     bot.polling()
     
 
@@ -70,13 +76,7 @@ def handle_response(message):
 
     userSession = user_session.get_user_session(message.from_user.id)
     
-    if userSession:
-        # split_message = message.text.split(',')
-        # lines = my_openai.get_proccessed_content(split_message[0], split_message[1])
-        # bot.reply_to(message, f"nice destination {message.text}. bringing data...")
-        # for line in lines:
-        #     if len(line) > 5:
-        #         bot.reply_to(message, line)
+    if userSession:        
         response = userSession.handle_user_message(message)
         if response:
             bot.reply_to(message, response)
@@ -87,4 +87,4 @@ def handle_response(message):
         bot.reply_to(message, "press /start to begin!!")
 
 
-send_welcome_message()
+# send_welcome_message()

@@ -1,3 +1,6 @@
+""" 
+ DEPRECATED - this file convert JSON file into CSV. was used for tests only
+"""
 import my_json_repository
 import csv_utils
 import re
@@ -7,8 +10,8 @@ import pandas as pd
 
 filename = "zakopane--poland.json"
 
-def create_locations_table_from_json(filename):
-    data = my_json_repository.read_json_data(filename)
+def create_locations_table_from_json(filename, country):
+    data = my_json_repository.read_json_data(filename, country)
     if data:
         content = data["result"]
         # Split into a list of lines

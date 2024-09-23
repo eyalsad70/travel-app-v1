@@ -1,4 +1,9 @@
 
+""" 
+    BOT Brain - include all handlers for all user requests, Bot State-machine and various user operations
+    its created per user-session so each bot user will have its own platform regardless of others running in paralel
+"""
+    
 import json
 import keys_loader
 from my_logger import print_info, print_error
@@ -6,6 +11,7 @@ import user_session
 import utils
 import my_openai
 import google_maps_api
+import my_sql_db
 
 ###################################################################################################
 
@@ -27,7 +33,7 @@ class BotBrain():
         # 'state' : "next suggestion for user"
         'start' :'please select a country',
         'country_sel' : 'please select destination (can be a city, region-name, or an area (i.e. north east, central))',
-        'destination_sel' : "\n",
+        'destination_sel' : "processing...",
         # 'city_sel' : 'please select city from list',  # this state is optional and only if user choose non-city destination
         # 'hotel_sel' : 'please select hotel from list',
         # 'rest_sel' : 'please select restaurant',
@@ -39,7 +45,10 @@ class BotBrain():
                 1. find tourist attractions
                 2. find nearby hotels
                 3. find nearby restaurants 
-                5. email summary
+                5. email summary (TBD)
+                6. select another destination in country
+                7. select another country
+                /start to restart App
             """
     
     
@@ -54,6 +63,9 @@ class BotBrain():
         self.last_destination_selected = ""
         self.tmp_city_names = []
     
+    def display_status(self):
+        print(f"state = {self.action_state} ; last country selected = {self.last_country_selected} ; last destination selected = {self.last_destination_selected}")
+        
     # ---------------------------------------------------------------------
     def handle_user_message(self, message):
         """ 
@@ -97,13 +109,23 @@ class BotBrain():
             
             # need to check user response -> attractions(1), hotels(2), restaurants(3) and activate proper handler
             request = message.text
+            content = "Invalid choice"
             if '1' in request:
                 content = self.get_attractions()
             elif '2' in request:
-                content = self.get_nearest_hotels()
+                content = self.get_nearest_ammenties('lodging')
+            elif '3' in request:
+                content = self.get_nearest_ammenties('restaurant')
+            elif '6' in request:
+                content = self.request_for_new_destination()
+            elif '7' in request:
+                self.restart()
+                content = self.handle_user_message(message)
+            elif '9' in request:  # hidden command for admin bot debugging
+                user_session.display_users_activities()
             return content
     
-    
+    # ------------------------------------------------------------------------------------
     def next_action(self):
         if self.action_state == 'destination_sel':
             return self.menu
@@ -116,6 +138,8 @@ class BotBrain():
             # create folder for raw data if required
             utils.create_country_folder(country)
             # create db-table name / new-csv-file if required
+            my_sql_db.create_attractions_table(country)
+            
             userSession = user_session.get_user_session(message.from_user.id)
             userSession.add_coutry(country)
             self.last_country_selected = country
@@ -144,6 +168,21 @@ class BotBrain():
     def get_nearest_cities(self):
         return None
         
-    def get_nearest_hotels(self):
-        return None
+    def get_nearest_ammenties(self, place_type):
+        response = f"{place_type} List: \n"
+        counter = 1
+        places = google_maps_api.search_for_ammenties(self.last_destination_selected, 
+                                                      self.last_country_selected, place_type, True)
+        for place in places:
+            if counter >= 10:  # limit responses to bot
+                break
+            text_line = f"{counter}: {place['Name']}, Rating {place['Rating']} \n     {place['Url']} "
+            response += text_line
+            counter += 1
+        return response
+    
+    def request_for_new_destination(self):
+        self.action_state = 'country_sel'
+        self.last_destination_selected = ""
+        return self.user_action_state_machine['country_sel']
     

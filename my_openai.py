@@ -1,3 +1,9 @@
+"""
+OPEN-AI (Through RAPID-API) interface to get travel information
+mainly used for fetching attractions near desired location
+note that retrieved info is cached (raw json and in locations db file) to reduce API calls (which consume time & money) 
+"""
+
 import requests
 import json 
 import keys_loader
@@ -6,6 +12,12 @@ from my_logger import print_info, print_error
 import my_json_repository
 import utils
 import csv_utils
+import re
+import pandas as pd
+import google_maps_api
+import my_sql_db
+
+
 
 def query_prompt(place, country):
     prompt = f"List up to 15 tourist attractions in {place}, {country}. For each attraction, include only the name and type (e.g., urban, nature, historical) without any additional information"
@@ -89,14 +101,13 @@ def get_proccessed_content(destination, content_type = 'attractions', country = 
         return None
     
     file_name = utils.sanitize_filename(destination) + f"-{content_type}" + ".json"
-    file_path = utils.get_country_folder(country)
-    json_data = my_json_repository.read_json_data(file_name, file_path)
+    json_data = my_json_repository.read_json_data(file_name, country)
     
     if not json_data:       # get data through OpenAI and save it
         prompt = query_prompt(destination, country)
         json_data = get_openai_content(prompt)
         if json_data:
-            my_json_repository.save_json_data(file_name, file_path, json_data)
+            my_json_repository.save_json_data(file_name, country, json_data)
         else:
             return None            
                        
@@ -108,9 +119,44 @@ def get_proccessed_content(destination, content_type = 'attractions', country = 
     # Split into a list of lines
     lines = decoded_text.splitlines()
     
+    db_file_path = csv_utils.get_attractions_file_path(country)
+    csv_utils.create_csv_file(db_file_path, csv_utils.attractions_columns) # create if not exists
+    
+    # Read the CSV file into a DataFrame
+    df = pd.read_csv(db_file_path)
+    updates = False
+
+    # create empty DF to be added with new content into SQL DB
+    # empty_df = pd.DataFrame(columns=csv_utils.attractions_columns)
+
+    
     for line in lines:
         if len(line) > 5:
-           print(line)
+            match = re.match(r'^(\d+)\.\s*(.*?)\s*-\s*(.*)', line)
+
+            if match:
+                number = match.group(1)  # Captures the number part (e.g., "11")
+                name = match.group(2)  # Captures the text before the ' - ' (e.g., "text1")
+                type = match.group(3)  # Captures the text after the ' - ' (e.g., "text2")
+           
+                print(f"{line} -> {number} ; {name} ; {type}")
+            
+                if not df['Name'].isin([name]).any():
+                    # get more info on attraction for google places
+                    google_search = f"{name}, {country}"
+                    latitude, longitude, place_id = google_maps_api.get_place_coordinates(google_search)
+                    # Append the new row if it doesn't exist
+                    new_row_values = [name, type, destination, float(latitude), float(longitude), place_id]
+                    df.loc[len(df)] = new_row_values
+                    # empty_df.loc[len(empty_df)] = new_row_values
+                    updates = True
+                    # insert row to sql table
+                    my_sql_db.insert_attraction(new_row_values, country)
+                    
+    if updates:
+        # print(empty_df)
+        # Save the DataFrame to a CSV file - df includes full csv content and not just new rows
+        df.to_csv(db_file_path, index=False, encoding='utf-8')        
             
     return decoded_text
 

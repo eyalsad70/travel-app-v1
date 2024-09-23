@@ -1,0 +1,1048 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AXCi2Q4jt_qhiQ2eAWtvTe_NiD5cQln_XeWyONmFrlN1Xcsx_LZxd0w1FyPpwcIWcu8kxJ1e0RfCrKSqCazgJsf_b7JrT8rq7Z08rZf4zueBAedHCwvKR9gNQPPkXEZcsjaxj1ExihZQ9QpreD9m9HkhhIkkgivJGzhVqI35b5AM_9-4aKDQr8lnd2hY2hb9-veHxY12sQ6sOLHDKvlexGfB7I8f3Jr_Sz564BjLuHYOmDh-ee001h93wD5_YtaTlyNr-X26a4sW9fatV6kzimntw7nG7EzJ2KoJEKG-7ttBncmLo2OUfwFn80BHQ7Bghh5AIRy4O8mPN0J7YW5_R8Lo2P3sPLNso0GUpSa_ySI-FEpyQZy5EokObQ0t6nV2gxT08wM8wBnrG_51Lx32NwTAJwnhB3fk8p8PDwD0mwqX-66OlOEqFZjkrASp-J-L9OFP",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Star\u00fd Smokovec 8, 062 01 Vysok\u00e9 Tatry, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.1415122,
+                    "lng": 20.2231347
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.14288542989272,
+                        "lng": 20.22446432989272
+                    },
+                    "southwest": {
+                        "lat": 49.14018577010727,
+                        "lng": 20.22176467010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Koliba Kamz\u00edk Star\u00fd Smokovec",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2832,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105955442377689773245\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5iM6yZVW7BvOGL0UulVqU-78QB6-ouWGJUyIIr8sZXHKca2FBbQOZ2whfSDpudv_FmFcUHShb7TEQDL4p8KWKvBWvkGAsNJth337fWHYvgaNPgwbnWhI9O5u-nWpYG3rSifWWguen7bUi-Owkteb9BrGJn5OfPsxjTB18iL54gzWl-",
+                    "width": 4256
+                }
+            ],
+            "place_id": "ChIJJ3KXY_EjPkcRYmLrjiZYiEI",
+            "plus_code": {
+                "compound_code": "46RF+H7 Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX246RF+H7"
+            },
+            "price_level": 2,
+            "rating": 4.7,
+            "reference": "ChIJJ3KXY_EjPkcRYmLrjiZYiEI",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 4958
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Star\u00fd Smokovec 24, 062 01 Vysok\u00e9 Tatry, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.13991,
+                    "lng": 20.222363
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.14133417989272,
+                        "lng": 20.22367902989272
+                    },
+                    "southwest": {
+                        "lat": 49.13863452010728,
+                        "lng": 20.22097937010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Star\u00fd \u0160makovec restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116770005419503690596\">glenn coene</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4gj5fBAcv6Kii6ZBg7pDDQtNE1LmRMLlK9Xy-g5sojeyUfpKi4xDrGW4phT1I7JhTnYTZNj4QADcI2vDyPPuOe8Vo7gTbgCU3ISrDRIJ5DIEjNm-2HKVHHu4p8BLjoDYHfED7pWHPYoMEbjs4IUAJwchyVC032kqtWUbsyxmJkgf5F",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJC3fj_vMjPkcRWUS5HcpYW2I",
+            "plus_code": {
+                "compound_code": "46QC+XW Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX246QC+XW"
+            },
+            "price_level": 2,
+            "rating": 4.7,
+            "reference": "ChIJC3fj_vMjPkcRWUS5HcpYW2I",
+            "types": [
+                "restaurant",
+                "bar",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 2392
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Star\u00fd Smokovec 34, 062 01 Vysok\u00e9 Tatry-Star\u00fd Smokovec, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.1381513,
+                    "lng": 20.2220934
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.13955272989272,
+                        "lng": 20.22329557989272
+                    },
+                    "southwest": {
+                        "lat": 49.13685307010728,
+                        "lng": 20.22059592010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Koliba Smokovec s.r.o., Star\u00fd Smokovec 18034, 062 01 Vysok\u00e9 Tatry",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2668,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114049422474764716476\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q67WEr4qTLAHSSgJSdaBPKRZMJhWftTORqkRvnbqWEwWUU8mPkHnD5hq4CMTtrBNFUSYTXlxlNZDo8DjY2BczsVrFxWHM_gJfIveX4Ls0oBCsn1I4L-gF1uS1UgfFS6MWabo1vx_8BE5QuzCzL3lmWj72dIXmIBBnmO0MKlaDP02l4Q",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ5SXQwvAjPkcRTQPkvm-Rick",
+            "plus_code": {
+                "compound_code": "46QC+7R Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX246QC+7R"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJ5SXQwvAjPkcRTQPkvm-Rick",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 1966
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "059 38 4095/17, K Vodop\u00e1dom, 059 85 Vysok\u00e9 Tatry-\u0160trbsk\u00e9 Pleso, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.1250683,
+                    "lng": 20.0629131
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.12638397989272,
+                        "lng": 20.06416017989272
+                    },
+                    "southwest": {
+                        "lat": 49.12368432010727,
+                        "lng": 20.06146052010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Koliba \u0160trbsk\u00e9 Pleso",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2736,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113952083420860436362\">michal candik</a>"
+                    ],
+                    "photo_reference": "AXCi2Q55CSIFduxwUyvzYx0UYDugc9cC-30l_AZik9jBpkaWxXhn7t9e2ORwFFsylal5940YG6kizzrzVdDJg52fW5VN78x4WP0nKUYwvSz_ErpTOodX-VVzKRAi_XSHFDBeY7C0VHVvajLxGHcHdTVOzMhH5dp79pxE_AKOUvE3HQhWUXr9",
+                    "width": 3648
+                }
+            ],
+            "place_id": "ChIJvwXZPn4nPkcREK0kb3Dabok",
+            "plus_code": {
+                "compound_code": "43G7+25 Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX243G7+25"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJvwXZPn4nPkcREK0kb3Dabok",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 2340
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Star\u00fd Smokovec 62, 062 01 Vysok\u00e9 Tatry-Star\u00fd Smokovec, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.1411867,
+                    "lng": 20.2250009
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.14237952989272,
+                        "lng": 20.22632037989272
+                    },
+                    "southwest": {
+                        "lat": 49.13967987010728,
+                        "lng": 20.22362072010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Spitz restaurant and bar",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 682,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110809390779993283640\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6ZHJsBkeclfMC4jZZ2ocSMnqD1rpOil7ZDHg-dctdwZk3ygeyi0UpJ0t-52IzygedRJVGxWc_WHheikGT61o6eBoaRK4zEfcwgxsLLHBOGgrmz7rZkJK5j7F8oW3M3Go0AOFMxUXjwdjbELQSw2-nwqGhIp1zMUfWrxkA-9cYzvmuZ",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJt51xTbwlPkcRuU5lKA3fBvw",
+            "plus_code": {
+                "compound_code": "46RG+F2 Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX246RG+F2"
+            },
+            "price_level": 2,
+            "rating": 4.7,
+            "reference": "ChIJt51xTbwlPkcRuU5lKA3fBvw",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 885
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "\u0160trbsk\u00e9 Plesa 33, 059 38 Vysok\u00e9 Tatry-\u0160trbsk\u00e9 Pleso, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.122395,
+                    "lng": 20.0621451
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.12374482989272,
+                        "lng": 20.06349492989272
+                    },
+                    "southwest": {
+                        "lat": 49.12104517010728,
+                        "lng": 20.06079527010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Koliba Patria",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102682545078854006833\">Michaela Nov\u00e1kov\u00e1</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7zBqi2SlVdcAN3pKVXwNPBn2dydT7IZmpVNj_XKh1Wf0J_NZNr1kg0nPwbVtmoT1WbxdwM-Yo_RiXwwF7KxfLFVk8kZ0lskOyKjOee4lF7RBgO7aIIlubX-r26tT3NwRhQs2fQvxfvXpkcFu3EXLJ8zmb6CefgnHxRkQ6E4Rch_3z7",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJi6p9mn8nPkcRgi6JaU-mKKo",
+            "plus_code": {
+                "compound_code": "43C6+XV Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX243C6+XV"
+            },
+            "price_level": 3,
+            "rating": 4.3,
+            "reference": "ChIJi6p9mn8nPkcRgi6JaU-mKKo",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 1875
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Star\u00fd Smokovec 19100, 062 01 Vysok\u00e9 Tatry-Star\u00fd Smokovec, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.1400635,
+                    "lng": 20.2199071
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.14133672989272,
+                        "lng": 20.22128862989272
+                    },
+                    "southwest": {
+                        "lat": 49.13863707010728,
+                        "lng": 20.21858897010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Dobr\u00e9 \u010casy",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 406,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103124987580830643031\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6OHXuIe_2r5VNG66eIL-hjTG8uOL0L3UrvrXBDK3aAP8HNvczq_57ZVnMJg8l2LTgmVPoniVYaqIWlxfEoOSzftcYgj91Q6MHSM2cwvjo7T9grRN4jTlwm3Yv5sFnqW7PnEmbIvb4bHRhEL5jS6QQVlX4PE8N7XNqY28sb2GwP_0wA",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJ3-Dd51wjPkcRaXjivHVbxi4",
+            "plus_code": {
+                "compound_code": "46R9+2X Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX246R9+2X"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJ3-Dd51wjPkcRaXjivHVbxi4",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 796
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Po\u0161tov\u00e1 9, 059 85 Vysok\u00e9 Tatry-\u0160trbsk\u00e9 Pleso, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.11797319999999,
+                    "lng": 20.0625183
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.11931587989272,
+                        "lng": 20.06385902989272
+                    },
+                    "southwest": {
+                        "lat": 49.11661622010728,
+                        "lng": 20.06115937010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Re\u0161taur\u00e1cia Furkotka",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2252,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102408015161578638307\">Kvetoslav Rolny</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6jwTAiziSNeEjJ6FraB7iFYnltdMbsMUuauECWj5cgHplI0Tb7fkgTP8sYciZE2PMfsgCzc5xt3GG1pDDc5uNGwSqcToCS-WPKuoQ0qHBxTsKw8ftMToa_SD5uajLPbMKRS1vj97TPqj4UdXsomdL1ucxjEe3i4bh6z3hHFjtccDVZ",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJkX19EXEnPkcRqltz8P4QXcA",
+            "plus_code": {
+                "compound_code": "4396+6X Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX24396+6X"
+            },
+            "price_level": 2,
+            "rating": 4.7,
+            "reference": "ChIJkX19EXEnPkcRqltz8P4QXcA",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 1711
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Star\u00fd Smokovec 19024, 062 01 Vysok\u00e9 Tatry-Star\u00fd Smokovec, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.1391898,
+                    "lng": 20.2197072
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.14054652989272,
+                        "lng": 20.22118492989272
+                    },
+                    "southwest": {
+                        "lat": 49.13784687010728,
+                        "lng": 20.21848527010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Re\u0161taur\u00e1cia Stodola",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111539194214632700308\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7QhG4SbN5C-SLtsaHd98FI51h4qLWSNBJnLJz2PFvvM1LKSZ-HScJFuiWsz0DMhCkTuNNSdAfTpCTYXEAvHMJ9O0EnXfwc11HrFdiJnNdefGmFWmtwx6CTz7IfrDqpe801AY1NFSkpv1kKBE3G9F-1oVG_ncRYBwjYta5p_JR318vA",
+                    "width": 1500
+                }
+            ],
+            "place_id": "ChIJ9faXWmgjPkcRVzJxyi9pexM",
+            "plus_code": {
+                "compound_code": "46Q9+MV Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX246Q9+MV"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJ9faXWmgjPkcRVzJxyi9pexM",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 701
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Tatransk\u00e1 Lomnica, 059 60 Vysok\u00e9 Tatry, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.1652092,
+                    "lng": 20.2727579
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.16652547989273,
+                        "lng": 20.27411417989272
+                    },
+                    "southwest": {
+                        "lat": 49.16382582010728,
+                        "lng": 20.27141452010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Humno Tatry",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105055736535971092358\">Lysander Mckain</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7EMUspIUICACElG5ocLf1pIIJqe_GWrm82AC_nwuM4bf8yDxFqnfhAqOkTrobi_tNGbfm_wZxYuEIexqL8y9M2gVDiHKlQdk7rtp-0DKN0tH0GToHoXZHNZNGQ_-9oDKtD38yjxuhz3HWZ9CNSSlvzKo8qP050E_KR5VfMdKB0NTuE",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJTeG-EgAjPkcRja5KlLJ0_v8",
+            "plus_code": {
+                "compound_code": "578F+44 Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX2578F+44"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJTeG-EgAjPkcRja5KlLJ0_v8",
+            "types": [
+                "restaurant",
+                "night_club",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 2969
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "\u0160trbsk\u00e9 Plesa 24, 059 85 Vysok\u00e9 Tatry, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.1195496,
+                    "lng": 20.0660895
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.12091507989272,
+                        "lng": 20.06743532989272
+                    },
+                    "southwest": {
+                        "lat": 49.11821542010728,
+                        "lng": 20.06473567010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Re\u0161taur\u00e1cia Plesnivec",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3840,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107503768151317986923\">Marian SAROCKY</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4BMWCI5CDacn7jyuTIku0vO-LuscAicWbH6ooxAw41Cz-SpMz0TyO041LEhAmjkHvFs2pRlRgfR6vAmDDAoqusvtMyJXXIjQLMADV-Aksj6t0oGjxgKIrUhIfJl6hrTfQsLRqHaKUcso9NWwHfDuodkmik4r2VB1wr6RG3qm3hszDc",
+                    "width": 5120
+                }
+            ],
+            "place_id": "ChIJr1qUoXgnPkcRqhylZ1OVoqw",
+            "plus_code": {
+                "compound_code": "4398+RC Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX24398+RC"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJr1qUoXgnPkcRqhylZ1OVoqw",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 1313
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Tatransk\u00e1 Lomnica 14646, 059 60 Vysok\u00e9 Tatry-Tatransk\u00e1 Lomnica, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.1633834,
+                    "lng": 20.2729433
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.16479922989272,
+                        "lng": 20.27417637989272
+                    },
+                    "southwest": {
+                        "lat": 49.16209957010727,
+                        "lng": 20.27147672010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Ol\u00edvia Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4016,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114526718834775367425\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q52ZGc_URdHste-e3uKWGJopFaVwdQ-JBeOCzRDUrbDeFSqjNSaDv_yi1juz4uh1s_mQKhKPLFRFI6_MlNPZ4MfruA-rYQcKj8LhOlUp5iVfs3kbXFRYtje5mTuJ_9D8-37GuIOWfAd7EwIvhRFibNKP0_JJS19uCYwkkPeBCe0e2H_",
+                    "width": 6016
+                }
+            ],
+            "place_id": "ChIJHTjAq2MjPkcRgqPBsGw6ktg",
+            "plus_code": {
+                "compound_code": "577F+95 Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX2577F+95"
+            },
+            "rating": 4.4,
+            "reference": "ChIJHTjAq2MjPkcRgqPBsGw6ktg",
+            "types": [
+                "restaurant",
+                "bar",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 237
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Tatransk\u00e1 Lomnica 121, 062 01 Vysok\u00e9 Tatry-Tatransk\u00e1 Lomnica, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.16444,
+                    "lng": 20.279839
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.16578982989274,
+                        "lng": 20.28118882989272
+                    },
+                    "southwest": {
+                        "lat": 49.16309017010729,
+                        "lng": 20.27848917010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Re\u0161taur\u00e1cia Star\u00e1 mama",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2610,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106189685545000957147\">M.Tojza</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5ERP5yz4uQnIf0OofOO3ISn8SHE1251vQ8HTGtiDgATsrGm3tQO2X56U1Qa878DlHh1A-N4ybM7xCPZQs79yPkTSyHS8xTQED5qc-nzEanciI3A3iSSwrveNVPcuAXiDbsicqSKVbpgGdL6BoZGAUtCOHodsPmQsMHaIltTgRKOMjb",
+                    "width": 4640
+                }
+            ],
+            "place_id": "ChIJuxNF5vMjPkcRMBYVP7sdQko",
+            "plus_code": {
+                "compound_code": "577H+QW Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX2577H+QW"
+            },
+            "price_level": 2,
+            "rating": 4.2,
+            "reference": "ChIJuxNF5vMjPkcRMBYVP7sdQko",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 3123
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "059 54 Vysok\u00e9 Tatry-Tatransk\u00e1 Kotlina, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.22972009999999,
+                    "lng": 20.3175749
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.23100742989272,
+                        "lng": 20.31882687989273
+                    },
+                    "southwest": {
+                        "lat": 49.22830777010727,
+                        "lng": 20.31612722010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Penzion a Restaurant Koliba",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114756697191040611433\">Rasto Gala</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4cHEPTIgNOX9B5b8UmgMwMjYVH1fySFA90eThQd-MZ2u9dQGw18WpPPH0wrP3rzSfrvw19wkeNGQUHxTTSJFK9Hkzmy1AMYcdqfOzNcYSU6GjicAPv6f9U5gARDg7PPCUpPYWHLV1ybvPkPJLpPC2vcfYb4--QKh44JBjpGriVJebf",
+                    "width": 3840
+                }
+            ],
+            "place_id": "ChIJUYyNCfEYPkcRIZbSsQ_09yY",
+            "plus_code": {
+                "compound_code": "68H9+V2 Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX268H9+V2"
+            },
+            "rating": 4.5,
+            "reference": "ChIJUYyNCfEYPkcRIZbSsQ_09yY",
+            "types": [
+                "restaurant",
+                "lodging",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 2172
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Star\u00fd Smokovec 18100, 062 01 Vysok\u00e9 Tatry-Star\u00fd Smokovec, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.1401197,
+                    "lng": 20.2200991
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.14138582989273,
+                        "lng": 20.22149927989272
+                    },
+                    "southwest": {
+                        "lat": 49.13868617010728,
+                        "lng": 20.21879962010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Libertin Brasserie",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1275,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109545115722249176641\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6rv53lskJhhHUszBGy82KTGkPNWDRG01uVq22eBgs41elQpPjKu9ItPhCL_VX1cHGVRw2Nj6GrmCNZ8s2Vs-ZW_ArK23LvzRFG3Y7kC4B-jD3FpoF4CDMTc5byonMGHffuGMxIJEq5tHxm7FEG8Gyq3DSsUtAcrSyJ46gy_26PJxQM",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJRze-egwjPkcRHmQNIe1S4f8",
+            "plus_code": {
+                "compound_code": "46RC+22 Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX246RC+22"
+            },
+            "rating": 4.7,
+            "reference": "ChIJRze-egwjPkcRHmQNIe1S4f8",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 404
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Horsk\u00e1, \u017delezni\u010dn\u00e1 1171, Tatransk\u00e1 \u0160trba, 059 41 \u0160trba, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.0838633,
+                    "lng": 20.0710586
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.08529312989272,
+                        "lng": 20.07238442989272
+                    },
+                    "southwest": {
+                        "lat": 49.08259347010728,
+                        "lng": 20.06968477010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Koliba \u017derucha",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101974121258379139180\">Roman Be\u0148o</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5dJMaNxaatz2XM4pVUjCnLS6Qplu63IPdMxWOhZ8g5qTNnua0Sns6jTJifgy1PFgHA9g6Mgy8ATTLuBqg01qTPlFgT7-tHmd7B2mNdMRVykTPNVNoHgqKd4-7XuL-rYmQX3KuBdjlp-lwuLNsfch-c_e7RjLhzaHUlNQfxbCjav6FW",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJvcc88NsnPkcRqe_IBI5lJZE",
+            "plus_code": {
+                "compound_code": "33MC+GC \u0160trba, Slovakia",
+                "global_code": "8GX233MC+GC"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJvcc88NsnPkcRqe_IBI5lJZE",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 3596
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Tatransk\u00e1 Lomnica 88, 062 01 Vysok\u00e9 Tatry-Tatransk\u00e1 Lomnica, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.1654304,
+                    "lng": 20.2830659
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.16678022989272,
+                        "lng": 20.28441572989273
+                    },
+                    "southwest": {
+                        "lat": 49.16408057010727,
+                        "lng": 20.28171607010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Ponderossa Steakhouse Lomnica",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1848,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112922652381012554744\">Stano Koval\u00edk</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5qKb-3DHEzc8CvHWQx2LQvzKnKTi3Yofj1HoJw2210P2ACAA4OLX_HNUptb2B0_Hc3-h6wEEvS4dMfH6UzhmkDDWm23FhE9mQrxqY_WbuLrO3LIMRSojWXdQpnRGbiEKQhpD9YFdTM9a_rfBN788gCxeEabUnVpr_3u8dBRx_2bVW8",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJQRnCIQAjPkcRSIa6mOUj8VQ",
+            "plus_code": {
+                "compound_code": "578M+56 Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX2578M+56"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJQRnCIQAjPkcRSIa6mOUj8VQ",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 989
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Star\u00fd Smokovec 18101, 062 01 Vysok\u00e9 Tatry-Star\u00fd Smokovec, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.1405592,
+                    "lng": 20.2203098
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.14209232989272,
+                        "lng": 20.22163542989272
+                    },
+                    "southwest": {
+                        "lat": 49.13939267010728,
+                        "lng": 20.21893577010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "IBA.TU Bistro",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2520,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113196218899815767440\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5xnxply0u0WO5PuLvstNkTBVskTZ23D0WcqRRm3lgpyq8mSuz_wec7cwbmvcYi28i0q7StqPhAfI1xz9Sv2IEeolMqwMvY4p32nqMnJadcL0TvWlCxNo1AxD9s9rm_h-yr2PVk5DxZWhGC8VpE8aT9Scdw5qa9ncv9ry0a33RQnuaZ",
+                    "width": 3776
+                }
+            ],
+            "place_id": "ChIJq4vYKcMjPkcR-SeoE4mMJbY",
+            "plus_code": {
+                "compound_code": "46RC+64 Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX246RC+64"
+            },
+            "rating": 4.7,
+            "reference": "ChIJq4vYKcMjPkcR-SeoE4mMJbY",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 822
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Slavkovsk\u00e1 521, 059 86 Nov\u00e1 Lesn\u00e1, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.1233087,
+                    "lng": 20.2588647
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.12475072989272,
+                        "lng": 20.26034997989272
+                    },
+                    "southwest": {
+                        "lat": 49.12205107010728,
+                        "lng": 20.25765032010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Koliba Tatry, s.r.o.",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112279299200857861266\">Josef Nov\u00e1k</a>"
+                    ],
+                    "photo_reference": "AXCi2Q68rG45GcNRVjmAOeEwRPaTO4CRei34Tu0_RIR4-etp3dXJLIlydyw0ohMwzAMaW70-p4aLkfI7mtxL51lGnf37h6nJnOPGZ1MYZYOVxk7xrf0tq4nLzS7omEoxnus74kaai0drNiIAeqBWIIfW59V9-ucf_H65b8kQbOh8F1jEVPat",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJRYxOepskPkcRmdgRWwUFUAs",
+            "plus_code": {
+                "compound_code": "47F5+8G Nov\u00e1 Lesn\u00e1, Slovakia",
+                "global_code": "8GX247F5+8G"
+            },
+            "price_level": 2,
+            "rating": 4.4,
+            "reference": "ChIJRYxOepskPkcRmdgRWwUFUAs",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 1397
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Tatransk\u00e1 Lomnica 96, 062 01 Vysok\u00e9 Tatry-Tatransk\u00e1 Lomnica, Slovakia",
+            "geometry": {
+                "location": {
+                    "lat": 49.1650602,
+                    "lng": 20.2787421
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 49.16641827989273,
+                        "lng": 20.28005992989272
+                    },
+                    "southwest": {
+                        "lat": 49.16371862010728,
+                        "lng": 20.27736027010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Grill Pub Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1440,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107734467649090349202\">Bogdan Lig\u0119za</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4BNNfN0OshFg9ff8ROUP36OftivL6fZcZgB03QjS8r6mb7B6HNns0LhaXM_V_nogYC2j3CmQd6lXOplq0zWoHkQh_USAP8kx16L4Gz31AB4rLrempr5dAAJ5rm9_X0VXgWnGZ4G6SMHUTCGxh-VQpJJYUYmr5lmSeOQb1_X8RlRC66",
+                    "width": 2560
+                }
+            ],
+            "place_id": "ChIJuxNF5vMjPkcR8HzPfUyot0A",
+            "plus_code": {
+                "compound_code": "578H+2F Vysok\u00e9 Tatry, Slovakia",
+                "global_code": "8GX2578H+2F"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJuxNF5vMjPkcR8HzPfUyot0A",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 1390
+        }
+    ],
+    "status": "OK"
+}

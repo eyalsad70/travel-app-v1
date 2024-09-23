@@ -1,6 +1,5 @@
-Name,Type,google_place_id
-Lesser Poland,district,ChIJXe0Xc18WFkcRcMDkxa18AQE
-wroclaw,city,ChIJv4q11MLpD0cR9eAFwq5WCbc
-Tatra National Park,attraction,ChIJZ3iO46eiFUcRS0xKhN41vCg
-krakow,city,ChIJ0RhONcBEFkcRv4pHdrW2a7Q
-"John Paul II International Airport Kraków-Balice, Kapitana Mieczysława Medweckiego, Balice, Poland",airport,ChIJVRM-uydZFkcRSXukEJ66O7k
+Name,Type,GoogleId,Latitude,longitude
+zakopane,city,ChIJOTnvlJLyFUcRoKZrcaGHjd8,49.299181,19.9495621
+krakow,city,ChIJ0RhONcBEFkcRv4pHdrW2a7Q,50.06465009999999,19.9449799
+"John Paul II International Airport Kraków-Balice, Kapitana Mieczysława Medweckiego, Balice, Poland",airport,ChIJVRM-uydZFkcRSXukEJ66O7k,50.07878520000001,19.7887216
+wroclaw,city,ChIJv4q11MLpD0cR9eAFwq5WCbc,51.10929480000001,17.0386019

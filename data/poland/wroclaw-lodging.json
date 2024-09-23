@@ -1,0 +1,996 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AXCi2Q6nriGa2a4I4ZWs-jS5ZK0ctVMxmhj2mKd3597mvrawu0Z3iok9tBiLSJHZ1cHJooXPhO74QWcp1hutaOrsnaq3TaT-l2tsb0oRrzqOvK0IDP-hl1-dLssUBtGOeg9CsM0Av-42p-YYaoi0pcowj6YvYSnBGuTmZ_WpmwVmhhlOEAdmvn3q4ZbBsw6xc0Qlzhecc9nnOwsxYuTHy4MO92TdGWhs4CzPVp8p9zObgbfatVLTdWAdGtaG1dKUwENKPTtesXVgwpmChuUDi8QUNuo_b2Uy0fb4qEDcFDqTMyh5Q_rjc1JGk1_fYeQJBLNK8v9S7erHinq4MWYbWq_eoJtCJp_w1iHHE0EcazAk8I7oylqlzTjUVp8L-zBJtbUeJbq2Yv8_QKw92PSmhvrl5UhO47G-DBn2nrEqEjg4S4QKPw",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "ks. Piotra Skargi 24/28, 50-082 Wroc\u0142aw, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 51.1065598,
+                    "lng": 17.038627
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.10785822989272,
+                        "lng": 17.03987567989272
+                    },
+                    "southwest": {
+                        "lat": 51.10515857010727,
+                        "lng": 17.03717602010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "B&B HOTEL Wroc\u0142aw Centrum",
+            "photos": [
+                {
+                    "height": 2160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114740261634776377407\">B&amp;B Hotel Wroc\u0142aw Centrum</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7ygnzOdA67aGSIGyv1termfWq225s9PHfPD9qNXupJydhwHBpCcDx1qZBBVJby8OVSZQKNCjgKrHWiyWbaaxg4FnQi8ueouzZq2edyIizG971CukJJcrvKA8F6mMHLZieMi5C2pwr-g_JkvNP3NoKKSG4qb4M6lyu3cKvBUfu5Zspm",
+                    "width": 2816
+                }
+            ],
+            "place_id": "ChIJASXUOXfCD0cRjBUN8p_hco0",
+            "plus_code": {
+                "compound_code": "424Q+JF Wroc\u0142aw, Poland",
+                "global_code": "9F3V424Q+JF"
+            },
+            "rating": 4.3,
+            "reference": "ChIJASXUOXfCD0cRjBUN8p_hco0",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3263
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Powsta\u0144c\u00f3w \u015al\u0105skich 7, 53-332 Wroc\u0142aw, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 51.098266,
+                    "lng": 17.024196
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.09969682989272,
+                        "lng": 17.02583102989272
+                    },
+                    "southwest": {
+                        "lat": 51.09699717010728,
+                        "lng": 17.02313137010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Novotel Wroc\u0142aw Centrum",
+            "photos": [
+                {
+                    "height": 768,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109934613821232942489\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5ocRmvLv5Qpazdb7zl-mClYEXjzTRfaJcBOFESZs8lPWw747mM7T3bdRPjHPoF221UQc57IjtKNnnUBCI8yx9nHzlNzCZ9ALaXdxtKK2VJf8KvQEAPwt38TnQexxOcATP8sAn8wDvu6eWscGk3p4Y8oi2yro8Hvuh_WL9tjLtliN6e",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJJ6uGZ2zCD0cRP2txteFo330",
+            "plus_code": {
+                "compound_code": "32XF+8M Wroc\u0142aw, Poland",
+                "global_code": "9F3V32XF+8M"
+            },
+            "rating": 4.6,
+            "reference": "ChIJJ6uGZ2zCD0cRP2txteFo330",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3968
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "plac Dominika\u0144ski 1, 50-159 Wroc\u0142aw, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 51.1086959,
+                    "lng": 17.0390661
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.10999742989272,
+                        "lng": 17.04028787989272
+                    },
+                    "southwest": {
+                        "lat": 51.10729777010728,
+                        "lng": 17.03758822010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Mercure Wroc\u0142aw Centrum",
+            "photos": [
+                {
+                    "height": 4480,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108055778097163953832\">Hotel Mercure Wroc\u0142aw Centrum</a>"
+                    ],
+                    "photo_reference": "AXCi2Q53YTsY7K00xIZ1gr7mDANOznrXkomTvoVIOZn2GA_Stdos42_J2jZiAPRmtTakBXZD2FZNjiVwSjbojNGGeUcIdeooKIzpxOgv77v8d6bB9XUr0D5EXcSonyAbzVgn-5XH04SZlv8hZNd_ewHjfoAGG1C-ZixKojdC7V1LUPxCIKSJ",
+                    "width": 6720
+                }
+            ],
+            "place_id": "ChIJ4f2vj3fCD0cRM05-5W5lV5Y",
+            "plus_code": {
+                "compound_code": "425Q+FJ Wroc\u0142aw, Poland",
+                "global_code": "9F3V425Q+FJ"
+            },
+            "rating": 4.6,
+            "reference": "ChIJ4f2vj3fCD0cRM05-5W5lV5Y",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3163
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Boles\u0142awa Drobnera 11-13, 50-257 Wroc\u0142aw, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 51.117289,
+                    "lng": 17.03584
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.11879687989272,
+                        "lng": 17.03729742989272
+                    },
+                    "southwest": {
+                        "lat": 51.11609722010728,
+                        "lng": 17.03459777010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel HP Park Plaza",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 800,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113660434915527510103\">Hotel HP Park Plaza</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7SBX_am4JSxxUAXI7Pd7LFcM7-PHv1YKGr2ZTJErob1WQcOrc551S0bJ0TmeWRT7xBSmBopL483VTomgO4qNOy3sPz15v6ufmfjnzO7xyHM_JMDzd4YJsrd4yAKgD965mCl1jevQnlG7lWBg4Y-uWzpiiqE5xf49F7mYHnuoebnHsc",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJ_3JI0t3pD0cRZ1XwedMyHVA",
+            "plus_code": {
+                "compound_code": "428P+W8 Wroc\u0142aw, Poland",
+                "global_code": "9F3V428P+W8"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ_3JI0t3pD0cRZ1XwedMyHVA",
+            "types": [
+                "lodging",
+                "spa",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2876
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Zygmunta Wr\u00f3blewskiego 7, 51-627 Wroc\u0142aw, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 51.1041652,
+                    "lng": 17.0816384
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.10557257989272,
+                        "lng": 17.08276792989272
+                    },
+                    "southwest": {
+                        "lat": 51.10287292010728,
+                        "lng": 17.08006827010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel ZOO",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1366,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106397538503997021284\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q65KSZexxbTQqxGQk_2yfKflqiP3y5JZLaZu45gyXxvDKm6HKrsEtvIFEzy7fMJBt361jIHTYeMUKhwhp2LFFakOD9XPqT4JsFIaTE5l4FckQYPI0idimglb-cnPOfMA2QSIRykBdvlbucZKw5uubDDiwo5_OSGOSWrp5vMSIcf6yim",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJJURnH57CD0cRB88hvWXYRlM",
+            "plus_code": {
+                "compound_code": "433J+MM Wroc\u0142aw, Poland",
+                "global_code": "9F3V433J+MM"
+            },
+            "rating": 4.4,
+            "reference": "ChIJJURnH57CD0cRB88hvWXYRlM",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1485
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego 104, 50-014 Wroc\u0142aw, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 51.09993739999999,
+                    "lng": 17.0368301
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.10124837989272,
+                        "lng": 17.03829997989272
+                    },
+                    "southwest": {
+                        "lat": 51.09854872010728,
+                        "lng": 17.03560032010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Sofia",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2001,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112742594287033027121\">Hotel Sofia*** Wroc\u0142aw</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7MjCyXqmpvd5d7LS-Cy7YIN9EoAj-SL16l--vCD5PMWgIaLN0YcQu5zHtw00Mxc4d188Dg1xCefg6SPbiCY4sURYYCIE2HJ55WqMmvZTZ59yRJvq252JuZTjVE0HDLhwBm-RoiQYHmqy-zM7jRV-z3pnNAwki3iy5FvivWODY87p_B",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJO5DkVmXCD0cRHYryAlWMRPk",
+            "plus_code": {
+                "compound_code": "32XP+XP Wroc\u0142aw, Poland",
+                "global_code": "9F3V32XP+XP"
+            },
+            "rating": 4.1,
+            "reference": "ChIJO5DkVmXCD0cRHYryAlWMRPk",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1330
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego 88, 50-017 Wroc\u0142aw, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 51.100429,
+                    "lng": 17.0341453
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.10178252989272,
+                        "lng": 17.03550252989272
+                    },
+                    "southwest": {
+                        "lat": 51.09908287010728,
+                        "lng": 17.03280287010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Europejski we Wroc\u0142awiu",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4409,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102055434202936311580\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5qiz0iEGEXDk8RVdTWhRPDttdcZO0AUkdvCxX9vc8yWtSANRL3-4HiMDrCwWam4HgnGZA_GAZ7vWZWHR8I79ZvY6WTDa9XcQNUrD3LfwYEMMFFJ_x7Ao6vywP-cz9TFzErz23WrhWS1VqD-GZJerCU9TQTYSowK1uS7IuZ2ZL72Rlp",
+                    "width": 7405
+                }
+            ],
+            "place_id": "ChIJq6uW22_CD0cRumWbJxB-QNU",
+            "plus_code": {
+                "compound_code": "422M+5P Wroc\u0142aw, Poland",
+                "global_code": "9F3V422M+5P"
+            },
+            "rating": 4,
+            "reference": "ChIJq6uW22_CD0cRumWbJxB-QNU",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1350
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "10 Purkyniego St, 50-156 Wroc\u0142aw, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 51.1107585,
+                    "lng": 17.0439004
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.11206557989271,
+                        "lng": 17.04528807989272
+                    },
+                    "southwest": {
+                        "lat": 51.10936592010727,
+                        "lng": 17.04258842010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Radisson Blu Hotel, Wroclaw",
+            "photos": [
+                {
+                    "height": 3407,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106669749531931820028\">Radisson Blu Hotel, Wroc\u0142aw</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4RJxhwWjfRm4CagTm1B7JwHtksZqlYBAkGvc0vuC9vSQ-dONldbWlHTNCoETZYuCVwuflZS4ixEaSIPDEtUMB9MmvPlZXajOepEKocxcuWkRQNBnB9RZtx6gU3l4MCH2o29wv8PTND2kokBFyjetR5oaG7uIhkdlpL6HtyvTPnH30V",
+                    "width": 5032
+                }
+            ],
+            "place_id": "ChIJpS7t8NfpD0cRYDSud_texYk",
+            "plus_code": {
+                "compound_code": "426V+8H Wroc\u0142aw, Poland",
+                "global_code": "9F3V426V+8H"
+            },
+            "rating": 4.5,
+            "reference": "ChIJpS7t8NfpD0cRYDSud_texYk",
+            "types": [
+                "gym",
+                "lodging",
+                "bar",
+                "health",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2056
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Ulica Heleny Modrzejewskiej 2, 50-071 Wroc\u0142aw, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 51.1060879,
+                    "lng": 17.0310289
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.10736507989272,
+                        "lng": 17.03233522989272
+                    },
+                    "southwest": {
+                        "lat": 51.10466542010727,
+                        "lng": 17.02963557010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Monopol",
+            "photos": [
+                {
+                    "height": 1371,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101194812002602020198\">Hotel Monopol</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4Xie71GYOjTv6q5vdgfSggx6Bd1wmuFEcRDmzWaWP8s7YmZ6t8jgz6wVm0vGabSEVmKw6ISgD1oFIxuf8f_Ig-sbMob3GPXfXLcGz-N4qpjmanq2bPBMrrfvXm5B9z91tk4jW7kQs_nRvq5esvVmhfOSfdp6I3zZuNjCGFMgP-tISQ",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJh_zG8nPCD0cRe42gCFPqZoA",
+            "plus_code": {
+                "compound_code": "424J+CC Wroc\u0142aw, Poland",
+                "global_code": "9F3V424J+CC"
+            },
+            "rating": 4.5,
+            "reference": "ChIJh_zG8nPCD0cRe42gCFPqZoA",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2223
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Podwale 84, 50-414 Wroc\u0142aw, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 51.1083289,
+                    "lng": 17.0433879
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.10981532989272,
+                        "lng": 17.04484987989272
+                    },
+                    "southwest": {
+                        "lat": 51.10711567010728,
+                        "lng": 17.04215022010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "DoubleTree by Hilton Wroclaw",
+            "photos": [
+                {
+                    "height": 1406,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109436554001662729963\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4ylEbR03mkDDWc-PRgvSsQAsFcSuxH_hFamZ0R2yONwYQipD4koON8QJz6MJfqZpJzMS4PVgQXBQMLVFBx36xhhfxelQW8ILbEmc-XYnoYVMhJk-CP9rQDJl1KcrGrVmV5qkBdcJFIaww6j18gIS0_ok8ptyHOxWLrBBjrEeIXf4b4",
+                    "width": 2500
+                }
+            ],
+            "place_id": "ChIJEyvqp3HCD0cRy5wQrRrFeJI",
+            "plus_code": {
+                "compound_code": "425V+89 Wroc\u0142aw, Poland",
+                "global_code": "9F3V425V+89"
+            },
+            "rating": 4.6,
+            "reference": "ChIJEyvqp3HCD0cRy5wQrRrFeJI",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4462
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Krawiecka 1, 50-148 Wroc\u0142aw, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 51.10845459999999,
+                    "lng": 17.0377446
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.10955212989271,
+                        "lng": 17.03890337989272
+                    },
+                    "southwest": {
+                        "lat": 51.10685247010727,
+                        "lng": 17.03620372010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Apartamenty Wroc\u0142awskie",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 700,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110791294869291502479\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6V4MuaUwnWA2_OQC5wQJukeFHnHqryJDsdkD0Yq5X_xI2ZVsuUaP-dznn1T30-DE2lXeGVJ6XCGXtDjH31rHL0ax887vi45vSOi05Peq7LGgZ5KkNQ02T_hyWy6VUMylciWoA1djTRpujfFb6IANZyS6ZtHkgC6ys-0MfJ-8dDos8S",
+                    "width": 881
+                }
+            ],
+            "place_id": "ChIJK3WJRHbCD0cRxwyyJlLyb74",
+            "plus_code": {
+                "compound_code": "425Q+93 Wroc\u0142aw, Poland",
+                "global_code": "9F3V425Q+93"
+            },
+            "rating": 4.1,
+            "reference": "ChIJK3WJRHbCD0cRxwyyJlLyb74",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 127
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "plac Jana Paw\u0142a II 33/19, 50-136 Wroc\u0142aw, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 51.1135846,
+                    "lng": 17.0242972
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.11493442989272,
+                        "lng": 17.02564702989272
+                    },
+                    "southwest": {
+                        "lat": 51.11223477010728,
+                        "lng": 17.02294737010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Rezydencja Wroc\u0142aw",
+            "photos": [
+                {
+                    "height": 4242,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105204974097764336145\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5qJPxW1RxwBu3YdbBLopGPzjfx0gdzLxYLTSGzg6cG2hpSH_AFbEOT8dMFZhhhOTSa_sgWpt9_DvV_IDR8UG1QIT_bZKm-6UhjoY5Q5ji6dbdMxUc1KONswcjld2RcLneO93SIV3sO4RB4wISjwkdM9ZKZWyQhmUK8yMlVTydXUlwb",
+                    "width": 6364
+                }
+            ],
+            "place_id": "ChIJn5-bEEPpD0cR4gTKpyoA1No",
+            "plus_code": {
+                "compound_code": "427F+CP Wroc\u0142aw, Poland",
+                "global_code": "9F3V427F+CP"
+            },
+            "rating": 5,
+            "reference": "ChIJn5-bEEPpD0cR4gTKpyoA1No",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Rze\u017anicza 1, 50-129 Wroc\u0142aw, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 51.110384,
+                    "lng": 17.0281
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.11174787989273,
+                        "lng": 17.02937122989272
+                    },
+                    "southwest": {
+                        "lat": 51.10904822010728,
+                        "lng": 17.02667157010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Grand City",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 634,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113702165127707338882\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7nxdKl_VlQ3DbB_1vkCHsztUxkeRZf38c6NlykkwSudTyG7R4p2c0cyj4z6RSRZWktk8c8JaFvpq3kHbb2ix4hLTsMp_EXG_nnp1i9LKskw-vMw236UZy8s-JCXNRVOsEhSmhR-yQYXbU-6vBzcEjS7H-32Y4bUNEyGTLOVtdZrDan",
+                    "width": 1125
+                }
+            ],
+            "place_id": "ChIJWyUNLnXCD0cRPrMhlBd_NsM",
+            "plus_code": {
+                "compound_code": "426H+56 Wroc\u0142aw, Poland",
+                "global_code": "9F3V426H+56"
+            },
+            "rating": 4.3,
+            "reference": "ChIJWyUNLnXCD0cRPrMhlBd_NsM",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 629
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego 98, 50-017 Wroc\u0142aw, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 51.1001358,
+                    "lng": 17.0357245
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.10144187989273,
+                        "lng": 17.03697412989272
+                    },
+                    "southwest": {
+                        "lat": 51.09874222010728,
+                        "lng": 17.03427447010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Piast",
+            "photos": [
+                {
+                    "height": 1667,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108828243746055818429\">Dom Wycieczkowy Piast</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6wLzI5ODuHin0ZG8pmxFGq9bp6hAR3e12vdZjkjzXvn5H5KaK9fV-ZIFt33fHX7BZ8gb5g4mEcRSqGpT9foGVj0bym-aUnNYFJV8DCMLjILS8jcoeUVMlFSYh4zg20hKGOAhGgfOYM6bs-ubtpi0BpdS-A1TBR9SiOO_XCVD45HBcV",
+                    "width": 2500
+                }
+            ],
+            "place_id": "ChIJg78B5W_CD0cR8uzDE9d3yeA",
+            "plus_code": {
+                "compound_code": "422P+37 Wroc\u0142aw, Poland",
+                "global_code": "9F3V422P+37"
+            },
+            "rating": 4.2,
+            "reference": "ChIJg78B5W_CD0cR8uzDE9d3yeA",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1861
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Ku\u017anicza 17/19, 50-147 Wroc\u0142aw, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 51.1119902,
+                    "lng": 17.0344188
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.11314502989272,
+                        "lng": 17.03554847989273
+                    },
+                    "southwest": {
+                        "lat": 51.11044537010728,
+                        "lng": 17.03284882010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Q17 Apartments Old Town Wroc\u0142aw",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4016,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113921068569047197083\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5b_SB8DGfEpEP2kd9mNjxgmmWRGef3hzAwi-6ExPCG2TJbLktLTXnSJddMUAydhk1fmUZrUGDjGH1VjZHY1bDZ6O5NhfzYEt1-SLOWnlY9B0ClAQHNmlDXqOgt_Ekg9suTqylnJhbFAF3t8LXboNrB_5OLncCPwAENaKk0Ps0GzJaa",
+                    "width": 6016
+                }
+            ],
+            "place_id": "ChIJ06kCXt_pD0cReDlDziTpKDU",
+            "plus_code": {
+                "compound_code": "426M+QQ Wroc\u0142aw, Poland",
+                "global_code": "9F3V426M+QQ"
+            },
+            "rating": 4.6,
+            "reference": "ChIJ06kCXt_pD0cReDlDziTpKDU",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 562
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Wy\u015bcigowa 35, 53-011 Wroc\u0142aw, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 51.06876279999999,
+                    "lng": 17.0080265
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.06996612989273,
+                        "lng": 17.00966612989272
+                    },
+                    "southwest": {
+                        "lat": 51.06726647010728,
+                        "lng": 17.00696647010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Novotel Wroclaw City",
+            "photos": [
+                {
+                    "height": 1365,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112815836679023090521\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q58zSlkOeAjIzcash-f4YIimByKn1n0FuOELIumGvGGtAlJ7ELfyXnfWx0LiB2AqG3xOCpJI1WEMDeUs2PMmIGACfr9U6HY_7nDn2llIWeqrJcGxhiRSMu0yHQe_Tm-9iiRHZuOuBBrlkl7nuVTMsRoTr4hxwm2RO6G3DSB8CXIAnEt",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJofLiDLTDD0cRoxX8ZUlFZYY",
+            "plus_code": {
+                "compound_code": "3295+G6 Wroc\u0142aw, Poland",
+                "global_code": "9F3V3295+G6"
+            },
+            "rating": 4.4,
+            "reference": "ChIJofLiDLTDD0cRoxX8ZUlFZYY",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2889
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Powsta\u0144c\u00f3w \u015al\u0105skich 204, 53-140 Wroc\u0142aw, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 51.0777973,
+                    "lng": 17.0080744
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.07914857989272,
+                        "lng": 17.00936322989272
+                    },
+                    "southwest": {
+                        "lat": 51.07644892010728,
+                        "lng": 17.00666357010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Platinum Palace Boutique Hotel & SPA",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1067,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114675107426245110374\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7k9tfgrAkEOlizTT8XdTMETnHhHt6TI96_9G4U7VsVyBa-ymniKDj8uPvXTjA_Y5tpcLYCUd6K4zMzMHIiYSBP11gsKKC2BD0Q7dJEm0qCDf3aleBP4hJbZJyoVCFkQEq1xSpcW2MCTaLInQHiCkDA1UEa0jnMzRp99hshSHGcXOOz",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJvYETHUrCD0cR5NXoTtBI9WQ",
+            "plus_code": {
+                "compound_code": "32H5+46 Wroc\u0142aw, Poland",
+                "global_code": "9F3V32H5+46"
+            },
+            "rating": 4.3,
+            "reference": "ChIJvYETHUrCD0cR5NXoTtBI9WQ",
+            "types": [
+                "lodging",
+                "spa",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1071
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Graniczna 183, 54-530 Wroc\u0142aw, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 51.111538,
+                    "lng": 16.8880982
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.11299377989273,
+                        "lng": 16.88967982989272
+                    },
+                    "southwest": {
+                        "lat": 51.11029412010728,
+                        "lng": 16.88698017010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Arche Hotel Wroc\u0142aw",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3200,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100912016858924458295\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6NQcW1AJ8mNmoisEjPY9zOXZKICOiNjTlQElTOlwG9qpnvhksDWbMgWdkn8nBxprJV5wKa1wtg5PZB3CFT_Oe07DGSuL_NHw9bntCBdvWz5eTniir9lDdFqwRA6Sq6mygmBAW6sYHspTnD-Vv5rJOc1M8D5toZIh3RX7boBE4zfynl",
+                    "width": 2400
+                }
+            ],
+            "place_id": "ChIJw_yrKQXBD0cRuIPJJnZUAQU",
+            "plus_code": {
+                "compound_code": "4V6Q+J6 Wroc\u0142aw, Poland",
+                "global_code": "9F3R4V6Q+J6"
+            },
+            "rating": 4.4,
+            "reference": "ChIJw_yrKQXBD0cRuIPJJnZUAQU",
+            "types": [
+                "lodging",
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 524
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Gwia\u017adzista 64, 53-323 Wroc\u0142aw, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 51.09510539999999,
+                    "lng": 17.0191436
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.09634437989272,
+                        "lng": 17.02026877989272
+                    },
+                    "southwest": {
+                        "lat": 51.09364472010728,
+                        "lng": 17.01756912010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Apartamenty Sky Tower",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 683,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108456508539723265419\">APARTAMENTY SKY TOWER - BIURO SPRZEDA\u017bY</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6Gu2_YbBhNh7VohFBWPcms6dooz8-Ki2eCd6lZzSbUSMrMQjGDxuOHlVFM6Z6kSAFqUbgHC4e_Wg_HbQblkc1vH0LeuuvRfBfldUgtq8s6-54zSXFHZKHV7G-p3CD_g4eu1BXKbn9iSPMfQkWYW7vd5kCjVvMWj2ZbSbaxrhd09YtE",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJdfCDT2rCD0cREbOvm_B60Zw",
+            "plus_code": {
+                "compound_code": "32W9+2M Wroc\u0142aw, Poland",
+                "global_code": "9F3V32W9+2M"
+            },
+            "rating": 4.5,
+            "reference": "ChIJdfCDT2rCD0cREbOvm_B60Zw",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1495
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Pomorska 1a, 50-215 Wroc\u0142aw, Poland",
+            "geometry": {
+                "location": {
+                    "lat": 51.1144883,
+                    "lng": 17.0321735
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.11605707989273,
+                        "lng": 17.03388857989272
+                    },
+                    "southwest": {
+                        "lat": 51.11335742010728,
+                        "lng": 17.03118892010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "EXCLUSIVE Aparthotel | MARINA",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 700,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105880181153818686262\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q51wRi4M3qjds10wK8c3ijQFfMK7NnhlNkzsT1j-p4cvi2yv5VnC2z8oYANj306i6bNqI2LQLujVyug-lTNxU2ZiVp-3Iq90xdPTsTlC30t-tAm4XejbFMBk_-zLYq1F3-crSDFfYSg1mWGSaCEFcsxHaEccoh6sfK4vu9Bl-xWfwoA",
+                    "width": 935
+                }
+            ],
+            "place_id": "ChIJ22HHuNnpD0cRReueTtkqB24",
+            "plus_code": {
+                "compound_code": "427J+QV Wroc\u0142aw, Poland",
+                "global_code": "9F3V427J+QV"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ22HHuNnpD0cRReueTtkqB24",
+            "types": [
+                "parking",
+                "lodging",
+                "real_estate_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 296
+        }
+    ],
+    "status": "OK"
+}

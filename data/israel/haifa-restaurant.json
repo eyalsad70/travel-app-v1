@@ -1,0 +1,1052 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AXCi2Q4KqjJPFkNFnVB9ByIb_HCOWDnrkZCWxYKsnjyJuBTf4e2wcAC6ohGYCGYa_9_4OVjx6XDhObZmRuklyM_IZ8rL0FRjEo7PzQx3DsYNebswi9yPvvAGIxU5EYL3jIqICEQrS8XzjVP4trvs__JAjFcG5503WZjco1ypqiKql_3zAV3298T0wbquE1Dzqd8RMNfHxJVnSUDgayw1aqU-wMt-072CPMyvMASbWghJXNSM1rg8D13xypJnTnJHI5LVCrINfj5czPnVurbS8ObdO6mEHOmaSXgWI4AIEPFgoECdWdqTz8KSznRp9L8h8h1r8WiBU5FESb-D45zzL_qYXMrRrTV8VH91H7wEnL5tfuCAEmNRAwrTtvnL6oaMatt5QbItqFrWfrkugIIjEo9xN5axu0xcUK9YHWjPr04WtHdYrnP6hqLKTg",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Sderot Ben Gurion 39, Haifa, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.8194281,
+                    "lng": 34.9903608
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.82080747989271,
+                        "lng": 34.99164127989273
+                    },
+                    "southwest": {
+                        "lat": 32.81810782010727,
+                        "lng": 34.98894162010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Shtroudl",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100129841401185967237\">marcellolerner</a>"
+                    ],
+                    "photo_reference": "AXCi2Q483vFsdM9iEIpD19CdpJeNrwAM9det09Nyr4IF6T-RfsEfNe98RhcveaTI7G9pAXZ2GiWV2B2hpogoCPkMVKpQhfEFmL_yFdn54ACnAKw7WHXGYQsqEmOx_KdX2ZT60SywtHwOz6zs3c4hguFJtyTGypsrJWXWm2-G_z61MrV4Cel4",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJnyCC9rW7HRURQ8SVUuUl9R4",
+            "plus_code": {
+                "compound_code": "RX9R+Q4 Haifa",
+                "global_code": "8G4PRX9R+Q4"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJnyCC9rW7HRURQ8SVUuUl9R4",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3679
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Sderot Ben Gurion 38, Haifa, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.8193373,
+                    "lng": 34.9899074
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.82066507989272,
+                        "lng": 34.99130842989273
+                    },
+                    "southwest": {
+                        "lat": 32.81796542010728,
+                        "lng": 34.98860877010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Fattoush",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107683706420541987212\">odem peled</a>"
+                    ],
+                    "photo_reference": "AXCi2Q79bc3UdPLE6jns7s2ajBIZo0sOk0NMFlZ2zkatkWNn2fH122TxMhwyuvrVdE1Cuo6eOCpcy_TVarMvoxnMVJ4B0OixItCcY906seVcYPkI5D0odapeqYOaHfSxNxBcRYiWIKWflH-yhnMbPxoepy7D0wyKu34583Il435IX10z0dHd",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJFWAU5rW7HRURg71pdiFbbHI",
+            "plus_code": {
+                "compound_code": "RX9Q+PX Haifa",
+                "global_code": "8G4PRX9Q+PX"
+            },
+            "price_level": 2,
+            "rating": 4.4,
+            "reference": "ChIJFWAU5rW7HRURg71pdiFbbHI",
+            "types": [
+                "restaurant",
+                "book_store",
+                "cafe",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6438
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "HaAliya HaShniya St 96, Haifa, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.8313908,
+                    "lng": 34.9704919
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.83274062989273,
+                        "lng": 34.97184172989272
+                    },
+                    "southwest": {
+                        "lat": 32.83004097010728,
+                        "lng": 34.96914207010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Eataliano Dalla Costa",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1362,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113577082945034471775\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4qxLtlMxE1iEXGFF8dwxou_VTx6dwQ4FAYhxqLwQi0ToTmnXEW7wXHlgEoTFcFYiS8IcBgF96OyJlILmd2x1YWzVWxPU_WH96exmOc1GKqrvmE5-WfZXJQkgpMG3C5OgcdBoFSCjAgt2o0n1-c_E6agIcb6N-1Pe7jQBtx4zy99cI1",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJ5_2rhem7HRURMFCPzcelXXE",
+            "plus_code": {
+                "compound_code": "RXJC+H5 Haifa",
+                "global_code": "8G4PRXJC+H5"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJ5_2rhem7HRURMFCPzcelXXE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6632
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Tsafririm St 1, Haifa, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.7968544,
+                    "lng": 34.983835
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.79824982989273,
+                        "lng": 34.98523827989272
+                    },
+                    "southwest": {
+                        "lat": 32.79555017010728,
+                        "lng": 34.98253862010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Zafririm 1",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1365,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106034864838858284476\">Zafririm 1</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6Fpk40gMvs7zK3WqCfz1Gfmmdruvf3jG_liy30kr725PcRefhRbBL54vgh-B3wdli1qZtoeGPz5cL5YyvbMv-HAvqKh2VRJY6ndaQeMIy1szEG0gkSfSLSTmkof0Mw6CTaoRtaWRcqqCqZOQ3R29TyQzUeM1by0EBknUzqjaPgE-C9",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJX5wxVQ-7HRURJLhDG5qS5V4",
+            "plus_code": {
+                "compound_code": "QXWM+PG Haifa",
+                "global_code": "8G4PQXWM+PG"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJX5wxVQ-7HRURJLhDG5qS5V4",
+            "types": [
+                "restaurant",
+                "bar",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3243
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Sha'ar Palmer St 1, Haifa, 3303139, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.8198562,
+                    "lng": 35.0002252
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.82123577989272,
+                        "lng": 35.00154097989273
+                    },
+                    "southwest": {
+                        "lat": 32.81853612010728,
+                        "lng": 34.99884132010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Venya Bistro",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1800,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100249939221200084151\">Assi Bab</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7E3nVKtJnwQ1S1x_wyngFGZrWS2y-weMpkHXopZeHOKsD04V6-ZXSO-43sYl6ZxmUvuumjkyJhOBIOldVA53ulnnqEmt3TQlRQhWOS-9r_iAqxFnjBN1CHtCDWZFdwcSbqx2L_EVc0wEb-tKSxlJoHa3EALJfMCpOrPuWxr7l5hWW2",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJVzVoJjS6HRURB-msR8cKrdQ",
+            "plus_code": {
+                "compound_code": "R292+W3 Haifa",
+                "global_code": "8G4QR292+W3"
+            },
+            "price_level": 2,
+            "rating": 4.4,
+            "reference": "ChIJVzVoJjS6HRURB-msR8cKrdQ",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2008
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Elizabeth Squre, 1, Haifa, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.7866895,
+                    "lng": 34.998905
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.78803572989273,
+                        "lng": 35.00004082989272
+                    },
+                    "southwest": {
+                        "lat": 32.78533607010728,
+                        "lng": 34.99734117010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Vivino - \u05e8\u05d5\u05d1\u05e2 \u05d4\u05d0\u05d9\u05d8\u05dc\u05e7\u05d9 \u05d7\u05d9\u05e4\u05d4",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2256,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101756342359997039839\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4NezGyT8tBPDk2SuucjttsCdSLd32teh51EPQEcOcuXnOl5J1giEjaUsWg6M526FnjT_gtQXtHo9ea8GCOba21rAwmXQLkoSu9FMQL40IlMAlSFp3jd2nRSLa8Bc_z3FLgEG65HW4aVp8WN2bFd5AfoFZZIc2DM0Dy6zme4m9j2UAc",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJE5vPOeO6HRURi_NUA7LY6J0",
+            "plus_code": {
+                "compound_code": "QXPX+MH Haifa",
+                "global_code": "8G4PQXPX+MH"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJE5vPOeO6HRURi_NUA7LY6J0",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8421
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Omar el-Khayam St 12, Haifa, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.8141222,
+                    "lng": 34.9988457
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.81541172989272,
+                        "lng": 35.00027452989272
+                    },
+                    "southwest": {
+                        "lat": 32.81271207010727,
+                        "lng": 34.99757487010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Ha-Namal 24",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1362,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116814032363202226950\">Andrey Deveykin</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7OdRfKrMlAZOgd-XGr3vztjITHr0axOWQftLsoj9YWRDu6bGLWtGlSjBkH-WWVaWEVGNIlNrxucIW6ODPvEf1JygQB6wnANlCuYAn1RxScxFztccBc9PBLt_9ciDclj4mrK2K9jVJZFG4IE3Ambl3zkx6f-rd3Mto4c0X3Vt-NSgjz",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJBRKmhja6HRUR5hZI1VBcitQ",
+            "plus_code": {
+                "compound_code": "RX7X+JG Haifa",
+                "global_code": "8G4PRX7X+JG"
+            },
+            "price_level": 3,
+            "rating": 4.4,
+            "reference": "ChIJBRKmhja6HRUR5hZI1VBcitQ",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1909
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Netiv HaOr 1, Haifa, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.7852485,
+                    "lng": 34.963989
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.78656012989272,
+                        "lng": 34.96533937989273
+                    },
+                    "southwest": {
+                        "lat": 32.78386047010728,
+                        "lng": 34.96263972010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Sinta-Bar",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105470562962806151409\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6Y_6GWkwj-BkgSlTuIT3prh7LbOg9JreCwdJx6YSOojICYKWSKObVYmMdp4xcrHQjho21NM0bwKS2UUdwdViWl-gNxpymYm59sicVpKbjwiACbPB_8SWW3jxoJRvUAGnkaqdgq-FuX-fA1B3Z5Ri6xW35XKX-0E2uE0XAweHMgmC1-",
+                    "width": 1800
+                }
+            ],
+            "place_id": "ChIJd2DHSRq7HRUR420TUkAsyfs",
+            "plus_code": {
+                "compound_code": "QXP7+3H Haifa",
+                "global_code": "8G4PQXP7+3H"
+            },
+            "price_level": 3,
+            "rating": 4.3,
+            "reference": "ChIJd2DHSRq7HRUR420TUkAsyfs",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2931
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Derech HaAtsma'ut 140, Haifa, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.8230718,
+                    "lng": 34.9933871
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.82449222989272,
+                        "lng": 34.99478487989272
+                    },
+                    "southwest": {
+                        "lat": 32.82179257010728,
+                        "lng": 34.99208522010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Ein ElWadi Restaurant",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 6936,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106196171184802488630\">Ran Metzger</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7RRbPyup2I93CqM4v0e4kp0DWpDq_CpF3OCAf2TmCWYIqgeocjf44wHp-fjYvtRcfSgjqpzHGCdU6asFDwSxAQrpMj6eBVHkmsbLLn-RPs3fl8lyK3Cf9T396RnR6YrQCTNPsTTmbXXPWCW4iHcR4kNMSIf09e9SMwnWxHHSf3yiXZ",
+                    "width": 9248
+                }
+            ],
+            "place_id": "ChIJIYJyO7W7HRURUiM8pcKANU4",
+            "plus_code": {
+                "compound_code": "RXFV+69 Haifa",
+                "global_code": "8G4PRXFV+69"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJIYJyO7W7HRURUiM8pcKANU4",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1229
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "\u05de\u05e8\u05db\u05d6 \u05e7\u05e1\u05d8\u05e8\u05d0, Flieman St 8, Haifa, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.7879648,
+                    "lng": 34.9690023
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.78957557989272,
+                        "lng": 34.97031137989272
+                    },
+                    "southwest": {
+                        "lat": 32.78687592010728,
+                        "lng": 34.96761172010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Minna Tomei",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2256,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101756342359997039839\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7_hGSnhTvmsJl7QKHDVlaH2lwCixRshSf1FmbXXXyZrqr8LyvFXk3Yos_HXzcsGfv3LODkB0lNHdY5OI_vrsT3Ry4iI-nX9VEycfPJoBakvAXJtoY65kTp93YazsjDFykYr2_hzzXnsrCcmzp0xG1aMR3IAzCBWknkicyDuHKg0ojc",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ4Uc6RGi7HRURVggFI-PS58A",
+            "plus_code": {
+                "compound_code": "QXQ9+5J Haifa",
+                "global_code": "8G4PQXQ9+5J"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJ4Uc6RGi7HRURVggFI-PS58A",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5691
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Derech Allenby 56, Haifa, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.8187542,
+                    "lng": 34.9893075
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.82017297989272,
+                        "lng": 34.99063842989273
+                    },
+                    "southwest": {
+                        "lat": 32.81747332010728,
+                        "lng": 34.98793877010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Colony Grill",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101412269473734949260\">Mike Tim</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4mUhXVFrCn06zyOexlYGof6ha7lPy7Kx44zMAK6QvdPXduwKc2o8DMfHwSjMF8bMcCCx37nlBapsWQ-XV3tpj-gE727ugAp4kDWtptrEeOarfiIp4604m8drzuqmD-xFKv7AzbWE77mWmuBwz8jfcre3wEwFNitbZAhmIdczTpPuWu",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJi_jZCra7HRURpNcfNGalqks",
+            "plus_code": {
+                "compound_code": "RX9Q+GP Haifa",
+                "global_code": "8G4PRX9Q+GP"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJi_jZCra7HRURpNcfNGalqks",
+            "types": [
+                "restaurant",
+                "store",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4335
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Natanzon St 4, Haifa, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.8184032,
+                    "lng": 34.9986877
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.81981862989272,
+                        "lng": 34.99997007989272
+                    },
+                    "southwest": {
+                        "lat": 32.81711897010727,
+                        "lng": 34.99727042010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Maayan Habira",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109585649088303334746\">Ludmila Bether</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4MRHP_Bcm3aEqZuOe67xX622bembfeBCg1kp4xctSLi-SP4-qjuJ1O-c_azmeNum7Ydpg9vH5T9fCl_ZR214JFU676-DnU-vKt3nIr_11MpigUhI1bGMwNsfRB-tRXxR3ZbyAS2w3oraWKLYWys7iXp-tPDw5ql8TIfXsDGF4fTzQ7",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJuzERvzW6HRURku5sg5gkeqg",
+            "plus_code": {
+                "compound_code": "RX9X+9F Haifa",
+                "global_code": "8G4PRX9X+9F"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJuzERvzW6HRURku5sg5gkeqg",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4033
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Sderot Ben Gurion 35, Haifa, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.8198943,
+                    "lng": 34.9906545
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.82126922989272,
+                        "lng": 34.99194547989272
+                    },
+                    "southwest": {
+                        "lat": 32.81856957010728,
+                        "lng": 34.98924582010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Douzan",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 719,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102959048320010066842\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7NxurEXjtfQUd1plCTQR_glWOcIgd4PeUeZswMqEGCMmMkIkM6mYM2mawDKFM4_oSqMH5PJyJUHCu1QHrOQSBy-vffgQwU7l21WVnVOGBJU8SsVIpJdFySIkJPnPV1BfvyOUuZa3o-vUjr292ntb89V7yzGBYRPqcAVGvOvZtGE_vT",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJ-SgJC8q7HRURKut-5y2WNYI",
+            "plus_code": {
+                "compound_code": "RX9R+X7 Haifa",
+                "global_code": "8G4PRX9R+X7"
+            },
+            "price_level": 2,
+            "rating": 4.2,
+            "reference": "ChIJ-SgJC8q7HRURKut-5y2WNYI",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1757
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Ha-Namal St 13, Haifa, 3303113, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.8177174,
+                    "lng": 35.0018628
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.81911912989273,
+                        "lng": 35.00325927989272
+                    },
+                    "southwest": {
+                        "lat": 32.81641947010728,
+                        "lng": 35.00055962010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "\u05dc\u05d5\u05e7\u05e1 LUX - \u05d7\u05d9\u05e4\u05d4",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1066,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101875711699901007540\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4HpvDvE80W8fH12gghPTMtNdsfHc6aIwXaJerUpeX4NdCESpldNTBLYRLNZkoyFdlWe9VhSKr02bXHdYL2cDQqWXqVctc7BVlqOCE1dw8HQgdpzkeE6blnz5vBT4xAwJU3ZU8jCV1J8w7EBgdAIyztnleGsA6sBdq_UZD0cio104c4",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJEYsAQza6HRURqgwegfifc_E",
+            "plus_code": {
+                "compound_code": "R292+3P Haifa",
+                "global_code": "8G4QR292+3P"
+            },
+            "price_level": 3,
+            "rating": 4.6,
+            "reference": "ChIJEYsAQza6HRURqgwegfifc_E",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3393
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "HaBankim St 5, Haifa, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.8196885,
+                    "lng": 34.996901
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.82106312989271,
+                        "lng": 34.99820957989272
+                    },
+                    "southwest": {
+                        "lat": 32.81836347010727,
+                        "lng": 34.99550992010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Sangria Restaurant Tapas",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114077369679786395277\">Moore Ohayon</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7LcjRmVlh5mRosRfmOFZDv7o9NQrbPfnJtb9U9J08jvdo-O3PqVhoKg5fw84pt7nCugTVevJdVZC9d5hkQh0D68JVqFuljytbzWuJCsypHZ-2ZCLKJiTHWoemHGHtshy0q-5E9HJLYmxTjoZXapd9Vw98F2l0OmpC8XMH2z7x5yH4Z",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJE46UipW7HRURcwsBHZR81gc",
+            "plus_code": {
+                "compound_code": "RX9W+VQ Haifa",
+                "global_code": "8G4PRX9W+VQ"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJE46UipW7HRURcwsBHZR81gc",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 814
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Sderot Ben Gurion 12, Haifa, 3502206, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.8222444,
+                    "lng": 34.9918241
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.82359487989272,
+                        "lng": 34.99317227989272
+                    },
+                    "southwest": {
+                        "lat": 32.82089522010727,
+                        "lng": 34.99047262010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Havana plus",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117373369287798234053\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7CmHBbgWwIdNeEzNd8JcrccgdaKnpQmBf3ox9TWYZvsS66Y9NSoVVGguMq4moP81vkjWnYaVBtAIAj9vOhXQbXJHv00aCLgwUb9VXMdNZVybmlBLVee7bfIhXVTgpaGzXPMD1q5enKP5-sGLPHZ9xJYpOamEaT0IJB4nRYCo7EoYw",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJvwzpacq7HRURjjOr68TRKyE",
+            "plus_code": {
+                "compound_code": "RXCR+VP Haifa",
+                "global_code": "8G4PRXCR+VP"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJvwzpacq7HRURjjOr68TRKyE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1495
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Ha-Namal St 26, Haifa, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.8192117,
+                    "lng": 35.0005629
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.82054207989272,
+                        "lng": 35.00188732989272
+                    },
+                    "southwest": {
+                        "lat": 32.81784242010728,
+                        "lng": 34.99918767010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Libira Brewpub \u05dc\u05d9\u05d1\u05d9\u05e8\u05d4",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4288,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117054557828685984734\">Leonid Lipkin</a>"
+                    ],
+                    "photo_reference": "AXCi2Q419xtO81QvDAUN2SQUDPxSzCMGU_Y8W0RFxyM7o_c-9DmgOVW3M7XbaG690YI7Pr7mAFUOBaDBpkOBE3LjTel1rN01-sebUiHhR2MkCRX6Aqsj4NAK_vllUTZOl52hAyHNtqC0GgjI7NRtVW9uMp82Rlf4jfiLC1wWXG76h2XsxG7o",
+                    "width": 7016
+                }
+            ],
+            "place_id": "ChIJxxMgJTW6HRUROGqHFQ78tUg",
+            "plus_code": {
+                "compound_code": "R292+M6 Haifa",
+                "global_code": "8G4QR292+M6"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJxxMgJTW6HRUROGqHFQ78tUg",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5503
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Sderot Ben Gurion 43, Haifa, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.8192939,
+                    "lng": 34.9901809
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.82065557989272,
+                        "lng": 34.99150442989273
+                    },
+                    "southwest": {
+                        "lat": 32.81795592010727,
+                        "lng": 34.98880477010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Garden Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113850054105859625944\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6qP2OdKEFyj4OMoZbQnHgTk-1OUrGAeqIpw3I6N0-ELQhaGSX2qcC1hjngo_aiqppj8k4vKIhqnLMHbOVxtsGAzL7glmfhT92o9oounoS3svwPbcvTJSMGrxNpek77jFcs7PbfqZc6FVz0uO7m55yCJJt7fXew8DHiPtj_WUb-eUUw",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJA3bG8bW7HRURmMXveXcBRGY",
+            "plus_code": {
+                "compound_code": "RX9R+P3 Haifa",
+                "global_code": "8G4PRX9R+P3"
+            },
+            "price_level": 2,
+            "rating": 4.1,
+            "reference": "ChIJA3bG8bW7HRURmMXveXcBRGY",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2346
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "\u05e7\u05e0\u05d9\u05d5\u05df \u05e7\u05e1\u05d8\u05e8\u05d0 \u05e4\u05dc\u05d9\u05de\u05df 8, Haifa, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.788711,
+                    "lng": 34.9682782
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.78975102989272,
+                        "lng": 34.96944167989273
+                    },
+                    "southwest": {
+                        "lat": 32.78705137010728,
+                        "lng": 34.96674202010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Raffaello",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114349488377099356382\">\u05db\u05e4\u05d9\u05e8 \u05e2\u05de\u05e8</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7HOv13279BpgpZmzoFiuinHcZOq6CuEx3b6WvvpwBlX2uVdoZiBIX-MQjjCt_Ra2aJoFSR0JIzYKDqO3at8BayIhAdICcHY8sAV-vSWRlmefJ6sFewh3s8Blw4HKanDBVMDyYIWofcDu-fUb2Cw7uLKpirRCQFyuxrW51RTJUjtk16",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJbycoP2q7HRURkaGuvUIwLSE",
+            "plus_code": {
+                "compound_code": "QXQ9+F8 Haifa",
+                "global_code": "8G4PQXQ9+F8"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJbycoP2q7HRURkaGuvUIwLSE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5430
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Ha-Namal St 33, Haifa, Israel",
+            "geometry": {
+                "location": {
+                    "lat": 32.8187876,
+                    "lng": 35.00059
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.82012812989272,
+                        "lng": 35.00195412989272
+                    },
+                    "southwest": {
+                        "lat": 32.81742847010727,
+                        "lng": 34.99925447010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "ROLA",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114257050900783913141\">Eddie Hait</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6mhB_iRhW2zoXhT-xSviEusVyUdY2G8nH3gkJGC1VwZvyu3GP-Y9Kx1gHZBNk3dc6B4rY3DkEkLcFqMmDx4oHFt2fqhP4Sl-CyR5KjMHJfmvTbwYUMcfAjcvHP2Oydk7ZWZMhNMImTmsln19GGenajgOmohdaGjQsl-eIWKYr23Vwk",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ2Q41fja6HRURK8J1rKmMeq8",
+            "plus_code": {
+                "compound_code": "R292+G6 Haifa",
+                "global_code": "8G4QR292+G6"
+            },
+            "price_level": 2,
+            "rating": 4.4,
+            "reference": "ChIJ2Q41fja6HRURK8J1rKmMeq8",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1979
+        }
+    ],
+    "status": "OK"
+}

@@ -31,8 +31,8 @@
                 }
             ],
             "types": [
-                "geocode",
                 "administrative_area_level_1",
+                "geocode",
                 "political"
             ]
         }

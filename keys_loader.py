@@ -1,4 +1,10 @@
 
+""" 
+Utilities for loading access-key/token/passwords required by this project
+consumer of this APP MUST provide his own key and place them in a file 'private-data' 
+(this project has such dummy file to show desired format) pointed by PRIVATE_KEYS_FILE
+"""
+
 import os
 from my_logger import print_info, print_error
 
@@ -12,15 +18,15 @@ my_secured_sites_key_names = {
     # RapidAPI sites
     "openai" : "openAI_key",
     "booking" : "booking_key",
-    "ai_trip_planner" : "aiTripPlanner_key",
+    "ai_trip_planner" : "aiTripPlanner_key",  # optional - deprecated
     # Telegram Bot
     "telebot" : "telebot_token",
     "telebot_id" : "telebot_chat_id",
-    # AWS - Has both key & secret ; they are treated as 2 "sites" for simplicity
+    # AWS (optional - as local storage also available)- Has both key & secret ; they are treated as 2 "sites" for simplicity
     "aws_key" : "aws_access_key_id",
     "aws_secret" : "aws_secret_access_key",
     # the following allow access to OPenAI Apis directly and not though rapid
-    "openai_direct" : "openAI_direct_key",
+    "openai_direct" : "openAI_direct_key",  # optional - deprecated
     # key for google maps api - to get locations, hotels, restaurants, etc...
     "google_places" : "google_places_api_key"
 }

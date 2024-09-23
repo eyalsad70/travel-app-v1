@@ -1,0 +1,245 @@
+{
+    "predictions": [
+        {
+            "description": "Tel Aviv, Israel",
+            "matched_substrings": [
+                {
+                    "length": 8,
+                    "offset": 0
+                },
+                {
+                    "length": 6,
+                    "offset": 10
+                }
+            ],
+            "place_id": "ChIJH3w7GaZMHRURkD-WwKJy-8E",
+            "reference": "ChIJH3w7GaZMHRURkD-WwKJy-8E",
+            "structured_formatting": {
+                "main_text": "Tel Aviv",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 8,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Israel",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 0
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Tel Aviv"
+                },
+                {
+                    "offset": 10,
+                    "value": "Israel"
+                }
+            ],
+            "types": [
+                "geocode",
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "description": "Israel National Trail, Tel Aviv",
+            "matched_substrings": [
+                {
+                    "length": 6,
+                    "offset": 0
+                },
+                {
+                    "length": 8,
+                    "offset": 23
+                }
+            ],
+            "place_id": "Eh9Jc3JhZWwgTmF0aW9uYWwgVHJhaWwsIFRlbCBBdml2Ii4qLAoUChIJdRQCC579AhURMMBo17qwX20SFAoSCR98OxmmTB0VEZA_lsCicvvB",
+            "reference": "Eh9Jc3JhZWwgTmF0aW9uYWwgVHJhaWwsIFRlbCBBdml2Ii4qLAoUChIJdRQCC579AhURMMBo17qwX20SFAoSCR98OxmmTB0VEZA_lsCicvvB",
+            "structured_formatting": {
+                "main_text": "Israel National Trail",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Tel Aviv",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 8,
+                        "offset": 0
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Israel National Trail"
+                },
+                {
+                    "offset": 23,
+                    "value": "Tel Aviv"
+                }
+            ],
+            "types": [
+                "route",
+                "geocode"
+            ]
+        },
+        {
+            "description": "Israel Post - Central Bus Station branch, Levinski Street, Tel Aviv, Israel",
+            "matched_substrings": [
+                {
+                    "length": 6,
+                    "offset": 0
+                },
+                {
+                    "length": 8,
+                    "offset": 59
+                }
+            ],
+            "place_id": "ChIJ-9jWV-9LHRURqlXuGvC50jU",
+            "reference": "ChIJ-9jWV-9LHRURqlXuGvC50jU",
+            "structured_formatting": {
+                "main_text": "Israel Post - Central Bus Station branch",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Levinski Street, Tel Aviv, Israel",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 8,
+                        "offset": 17
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Israel Post - Central Bus Station branch"
+                },
+                {
+                    "offset": 42,
+                    "value": "Levinski Street"
+                },
+                {
+                    "offset": 59,
+                    "value": "Tel Aviv"
+                },
+                {
+                    "offset": 69,
+                    "value": "Israel"
+                }
+            ],
+            "types": [
+                "finance",
+                "establishment",
+                "post_office",
+                "point_of_interest"
+            ]
+        },
+        {
+            "description": "Israelis Street, Tel Aviv, Israel",
+            "matched_substrings": [
+                {
+                    "length": 6,
+                    "offset": 0
+                },
+                {
+                    "length": 8,
+                    "offset": 17
+                }
+            ],
+            "place_id": "EiFJc3JhZWxpcyBTdHJlZXQsIFRlbCBBdml2LCBJc3JhZWwiLiosChQKEglFeIJ4h0sdFRGsBLiLQXYt4RIUChIJH3w7GaZMHRURkD-WwKJy-8E",
+            "reference": "EiFJc3JhZWxpcyBTdHJlZXQsIFRlbCBBdml2LCBJc3JhZWwiLiosChQKEglFeIJ4h0sdFRGsBLiLQXYt4RIUChIJH3w7GaZMHRURkD-WwKJy-8E",
+            "structured_formatting": {
+                "main_text": "Israelis Street",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Tel Aviv, Israel",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 8,
+                        "offset": 0
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Israelis Street"
+                },
+                {
+                    "offset": 17,
+                    "value": "Tel Aviv"
+                },
+                {
+                    "offset": 27,
+                    "value": "Israel"
+                }
+            ],
+            "types": [
+                "geocode",
+                "route"
+            ]
+        },
+        {
+            "description": "Israel Tal street, Tel Aviv",
+            "matched_substrings": [
+                {
+                    "length": 6,
+                    "offset": 0
+                },
+                {
+                    "length": 8,
+                    "offset": 19
+                }
+            ],
+            "place_id": "EhtJc3JhZWwgVGFsIHN0cmVldCwgVGVsIEF2aXYiLiosChQKEgmDTYVteksdFRHkl8HdmdGP9BIUChIJH3w7GaZMHRURkD-WwKJy-8E",
+            "reference": "EhtJc3JhZWwgVGFsIHN0cmVldCwgVGVsIEF2aXYiLiosChQKEgmDTYVteksdFRHkl8HdmdGP9BIUChIJH3w7GaZMHRURkD-WwKJy-8E",
+            "structured_formatting": {
+                "main_text": "Israel Tal street",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Tel Aviv",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 8,
+                        "offset": 0
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Israel Tal street"
+                },
+                {
+                    "offset": 19,
+                    "value": "Tel Aviv"
+                }
+            ],
+            "types": [
+                "geocode",
+                "route"
+            ]
+        }
+    ],
+    "status": "OK"
+}

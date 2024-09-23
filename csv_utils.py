@@ -1,3 +1,8 @@
+
+""" 
+    Utilities for CSV files operations - creation, read, save, find data, etc...
+"""
+
 # import pandas as pd
 import csv 
 import os
@@ -5,16 +10,31 @@ from my_logger import print_info, print_error
 import utils
 
 ###############   TABLES Definitions    ##########################
-attractions_columns = ['Name', 'Type', 'Nearest-City', 'Address', 'Google-Id', 'Latitude', 'Longitude']
+attractions_columns = ['Name', 'Type', 'NearestCity', 'Latitude', 'Longitude', 'GoogleId']
 
 def get_attractions_file_path(country):
-    return f"{utils.get_country_folder(country)}/attractions.csv"
+    folder = utils.get_country_folder(country)
+    if not folder.endswith('/'):
+        folder += '/'
+    return folder + 'attractions.csv'
 
 
-destinations_columns = ["Name", "Type", "google_place_id"]
+destinations_columns = ["Name", "Type", "GoogleId", "Latitude", "longitude"]
 
 def get_destinations_file_path(country):
-    return f"{utils.get_country_folder(country)}/{"destinations.csv"}"
+    folder = utils.get_country_folder(country)
+    if not folder.endswith('/'):
+        folder += '/'
+    return folder + 'destinations.csv'
+
+
+ammenties_columns = ['Name', 'Type', 'Address', 'Rating', 'Reviews', 'Latitude', 'Longitude', 'GoogleId', "Url"]
+
+def get_ammentis_file_path(country):
+    folder = utils.get_country_folder(country)
+    if not folder.endswith('/'):
+        folder += '/'
+    return folder + 'ammenties.csv'
 
 ################################################################################################
 def create_csv_file(file_path, column_names):      
@@ -58,7 +78,7 @@ def get_row(file_path, column_name, column_value):
                 
     return None    
     
-    
+###############################################################################
 def update_or_append_row(file_path, new_row, search_index = None):
     # search_index is the name of the column that is checked for existance. if exists replace it with new content. otherwise, append
     

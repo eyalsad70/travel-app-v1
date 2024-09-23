@@ -1,3 +1,7 @@
+""" 
+RAPID-API HTTP Client adapter
+"""
+
 import http.client
 import json
 import keys_loader
