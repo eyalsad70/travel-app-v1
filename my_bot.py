@@ -11,8 +11,9 @@ import json
 import keys_loader
 from my_logger import print_info, print_error
 import user_session
+import os
 
-test_token = keys_loader.load_private_key("telebot")
+test_token = os.getenv('TELEGRAM_BOT_TOKEN') # keys_loader.load_private_key("telebot")
 bot_name = "eyal_cde_test1"
 
 
@@ -48,6 +49,7 @@ def log_message(message):
 
 # Create bot class
 bot = telebot.TeleBot(test_token)
+
 
 def start_bot():    
     # start listening

@@ -1,35 +1,41 @@
 
 """ 
 Utilities for loading access-key/token/passwords required by this project
-consumer of this APP MUST provide his own key and place them in a file 'private-data' 
-(this project has such dummy file to show desired format) pointed by PRIVATE_KEYS_FILE
+consumer of this APP MUST provide his own keys and set them as environment variables (see help.txt for instructions)
 """
 
 import os
 from my_logger import print_info, print_error
 
-####  The following Data represnts the names of keys and tokens used in this project and saved in a private file (which isn't part of this project
-####  real access keys & tokens should be achieved by the project user, and saved in a file at your will
+# PRIVATE_KEYS_FILE = "C:/Naya/Python projects/private-data.txt"
+telebot_key = os.getenv('TELEGRAM_BOT_TOKEN')
+if not telebot_key:
+    print_error("environment keys were NOT set. please see help.txt to understand how to set")
+    exit()
 
-PRIVATE_KEYS_FILE = "C:/Naya/Python projects/private-data.txt"
+google_places_key = os.getenv('GOOGLE_PLACES_KEY')
+rapid_api_key = os.getenv('RAPID_API_KEY')
+
+aws_access_key = os.getenv('AWS_ACCESS_KEY_ID')
+aws_secret_key = os.getenv('AWS_SECRET_ACCESS_KEY')
 
 # site_key_name represnts the name given to the site key in private key file
 my_secured_sites_key_names = {
-    # RapidAPI sites
-    "openai" : "openAI_key",
-    "booking" : "booking_key",
-    "ai_trip_planner" : "aiTripPlanner_key",  # optional - deprecated
-    # Telegram Bot
-    "telebot" : "telebot_token",
-    "telebot_id" : "telebot_chat_id",
-    # AWS (optional - as local storage also available)- Has both key & secret ; they are treated as 2 "sites" for simplicity
-    "aws_key" : "aws_access_key_id",
-    "aws_secret" : "aws_secret_access_key",
-    # the following allow access to OPenAI Apis directly and not though rapid
-    "openai_direct" : "openAI_direct_key",  # optional - deprecated
-    # key for google maps api - to get locations, hotels, restaurants, etc...
-    "google_places" : "google_places_api_key"
-}
+# RapidAPI sites
+        "openai" : rapid_api_key,
+        "booking" : rapid_api_key,
+        "ai_trip_planner" : rapid_api_key,  # optional - deprecated
+        # Telegram Bot
+        "telebot" : telebot_key,
+        "telebot_id" : 6550133750,
+        # AWS (optional - as local storage also available)- Has both key & secret ; they are treated as 2 "sites" for simplicity
+        "aws_key" : aws_access_key,
+        "aws_secret" : aws_secret_key,
+        # the following allow access to OPenAI Apis directly and not though rapid
+        "openai_direct" : 0,  # optional - deprecated
+        # key for google maps api - to get locations, hotels, restaurants, etc...
+        "google_places" : google_places_key
+    }
 
 aws_s3_bucket_name = 'eyalsad70-s3'
 aws_s3_folder_name = 'my_travel_app_v1/'
@@ -41,21 +47,23 @@ def load_private_key(site_name):
         print_error(f"site_name {site_name} is NOT valid")
         return None
     
-    with open(PRIVATE_KEYS_FILE, "r") as read_file:
-        lines = read_file.readlines()
-        for line in lines:
-            if my_secured_sites_key_names[site] in line:
-                # find ket offset in line assuming separator is '=' (with or without spaces)
-                start_index = line.find('=') + 1
-                if line[start_index] == ' ':
-                    start_index += 1
-                end_index = line.find("\n")
-                if end_index > 0:
-                    key = line[start_index:end_index]
-                else:
-                    key = line[start_index:]
-                return key
-    return None
+    return my_secured_sites_key_names[site]
+
+    # with open(PRIVATE_KEYS_FILE, "r") as read_file:
+    #     lines = read_file.readlines()
+    #     for line in lines:
+    #         if my_secured_sites_key_names[site] in line:
+    #             # find ket offset in line assuming separator is '=' (with or without spaces)
+    #             start_index = line.find('=') + 1
+    #             if line[start_index] == ' ':
+    #                 start_index += 1
+    #             end_index = line.find("\n")
+    #             if end_index > 0:
+    #                 key = line[start_index:end_index]
+    #             else:
+    #                 key = line[start_index:]
+    #             return key
+    # return None
                 
             
 

@@ -1,0 +1,247 @@
+{
+    "predictions": [
+        {
+            "description": "Athens, Greece",
+            "matched_substrings": [
+                {
+                    "length": 6,
+                    "offset": 0
+                },
+                {
+                    "length": 6,
+                    "offset": 8
+                }
+            ],
+            "place_id": "ChIJ8UNwBh-9oRQR3Y1mdkU1Nic",
+            "reference": "ChIJ8UNwBh-9oRQR3Y1mdkU1Nic",
+            "structured_formatting": {
+                "main_text": "Athens",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Greece",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 0
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Athens"
+                },
+                {
+                    "offset": 8,
+                    "value": "Greece"
+                }
+            ],
+            "types": [
+                "political",
+                "geocode",
+                "locality"
+            ]
+        },
+        {
+            "description": "Greece U Around, Akamantos, Athens, Greece",
+            "matched_substrings": [
+                {
+                    "length": 6,
+                    "offset": 0
+                },
+                {
+                    "length": 6,
+                    "offset": 28
+                }
+            ],
+            "place_id": "ChIJC3kGUSq9oRQREknmj6Q94CE",
+            "reference": "ChIJC3kGUSq9oRQREknmj6Q94CE",
+            "structured_formatting": {
+                "main_text": "Greece U Around",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Akamantos, Athens, Greece",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 11
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Greece U Around"
+                },
+                {
+                    "offset": 17,
+                    "value": "Akamantos"
+                },
+                {
+                    "offset": 28,
+                    "value": "Athens"
+                },
+                {
+                    "offset": 36,
+                    "value": "Greece"
+                }
+            ],
+            "types": [
+                "establishment",
+                "lodging",
+                "point_of_interest"
+            ]
+        },
+        {
+            "description": "Athens International Airport \"Eleftherios Venizelos\" (ATH), Attiki Odos, Spata, Greece",
+            "matched_substrings": [
+                {
+                    "length": 58,
+                    "offset": 0
+                }
+            ],
+            "place_id": "ChIJYVzn2RqQoRQRqrPuCt8Vsjg",
+            "reference": "ChIJYVzn2RqQoRQRqrPuCt8Vsjg",
+            "structured_formatting": {
+                "main_text": "Athens International Airport \"Eleftherios Venizelos\" (ATH)",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 58,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Attiki Odos, Spata, Greece"
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Athens International Airport \"Eleftherios Venizelos\" (ATH)"
+                },
+                {
+                    "offset": 60,
+                    "value": "Attiki Odos"
+                },
+                {
+                    "offset": 73,
+                    "value": "Spata"
+                },
+                {
+                    "offset": 80,
+                    "value": "Greece"
+                }
+            ],
+            "types": [
+                "establishment",
+                "airport",
+                "point_of_interest"
+            ]
+        },
+        {
+            "description": "Greece Tour Hub, Stadiou, Athens, Greece",
+            "matched_substrings": [
+                {
+                    "length": 6,
+                    "offset": 0
+                },
+                {
+                    "length": 6,
+                    "offset": 26
+                }
+            ],
+            "place_id": "ChIJE-SP0gC9oRQRM1WWP_6gtv4",
+            "reference": "ChIJE-SP0gC9oRQRM1WWP_6gtv4",
+            "structured_formatting": {
+                "main_text": "Greece Tour Hub",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Stadiou, Athens, Greece",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 9
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Greece Tour Hub"
+                },
+                {
+                    "offset": 17,
+                    "value": "Stadiou"
+                },
+                {
+                    "offset": 26,
+                    "value": "Athens"
+                },
+                {
+                    "offset": 34,
+                    "value": "Greece"
+                }
+            ],
+            "types": [
+                "establishment",
+                "travel_agency",
+                "point_of_interest"
+            ]
+        },
+        {
+            "description": "Athens Greece, \u03a0\u03b1\u03bd\u03b1\u03b3\u03ae \u039a\u03c5\u03c1\u03b9\u03b1\u03ba\u03bf\u03cd, Athens, Greece",
+            "matched_substrings": [
+                {
+                    "length": 13,
+                    "offset": 0
+                }
+            ],
+            "place_id": "ChIJeYsWNsK9oRQRCaxJ-aiyxeU",
+            "reference": "ChIJeYsWNsK9oRQRCaxJ-aiyxeU",
+            "structured_formatting": {
+                "main_text": "Athens Greece",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 13,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "\u03a0\u03b1\u03bd\u03b1\u03b3\u03ae \u039a\u03c5\u03c1\u03b9\u03b1\u03ba\u03bf\u03cd, Athens, Greece"
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Athens Greece"
+                },
+                {
+                    "offset": 15,
+                    "value": "\u03a0\u03b1\u03bd\u03b1\u03b3\u03ae \u039a\u03c5\u03c1\u03b9\u03b1\u03ba\u03bf\u03cd"
+                },
+                {
+                    "offset": 32,
+                    "value": "Athens"
+                },
+                {
+                    "offset": 40,
+                    "value": "Greece"
+                }
+            ],
+            "types": [
+                "establishment",
+                "point_of_interest",
+                "travel_agency"
+            ]
+        }
+    ],
+    "status": "OK"
+}

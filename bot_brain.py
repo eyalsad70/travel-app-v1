@@ -45,7 +45,6 @@ class BotBrain():
                 1. find tourist attractions
                 2. find nearby hotels
                 3. find nearby restaurants 
-                5. email summary (TBD)
                 6. select another destination in country
                 7. select another country
                 /start to restart App
@@ -185,4 +184,5 @@ class BotBrain():
         self.action_state = 'country_sel'
         self.last_destination_selected = ""
         return self.user_action_state_machine['country_sel']
+    
     

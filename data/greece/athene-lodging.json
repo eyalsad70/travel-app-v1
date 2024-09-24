@@ -1,0 +1,989 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AXCi2Q4HjBmKBvmnZpGQc_BS9aFGbvi8Q-mOG6IqYORT7wyd2Ymcy7nrnYtsshePOt1r_ewRf8_sydzxF2QhL0OY2R8YHbyH6q7TZf8swuc-eLopI6aK6NpE3iJe0K2f4wrq_PmT6laY4bOg_imEiKKkl2Wx3nZvQkVy-p5i8T151eY5qJ8hz4kZeashLtA_HSL6Yg6JZBf9Ffofz2nLF7prA0U6qXNG90UUPmJoAJWeTje1QxNEJ27RpgH_0cC3kbNbYqhtg6rnHj8QiRFe4joVmsM7j5lM6QgB7wJ3QmEBZYyWCkB2QGW-z0fB4voyh3bgSIKQvb3p-Iljmhp8ZBYWgyFk_qhBi4ZbbxUjWUWwa7ez0o-M-rS9mwc-7whGXKEm4qnuIDHki5E1sfEUw9KG_7ytHVPir3oGmHvKwaqo4Zez",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "\u0395\u03c1\u03bc\u03bf\u03cd 5 str, Athina 105 63, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 37.9757864,
+                    "lng": 23.7330304
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.97713622989272,
+                        "lng": 23.73438022989272
+                    },
+                    "southwest": {
+                        "lat": 37.97443657010728,
+                        "lng": 23.73168057010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Electra Athens",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 800,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117951942974544179877\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q79cMxkwtwtcNJw3O1JF0hx2_fpMn0MxwwWs9Yp63fwtKfapVln0w1whFpPk6miVIbfXpPf1OCaju44zJAK7A3Hj-LvB3VdsrET1_TKKYjLI4FkawfLDF9FfNWNGccQd5krhbbqfPtupnJ8T7jnS8267iqQN1XCS6gr3Og7PUJxfQgv",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJf7kKkz29oRQRYjN9rN5NTCs",
+            "plus_code": {
+                "compound_code": "XPGM+86 Athens, Greece",
+                "global_code": "8G95XPGM+86"
+            },
+            "rating": 4.5,
+            "reference": "ChIJf7kKkz29oRQRYjN9rN5NTCs",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1467
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4, Michail Voda Str, Athina 104 39, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 37.9895941,
+                    "lng": 23.7250174
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.99094747989272,
+                        "lng": 23.72632702989273
+                    },
+                    "southwest": {
+                        "lat": 37.98824782010727,
+                        "lng": 23.72362737010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Novotel Athenes",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110425847865059475168\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7q3BW7TyhqFFNV2q2PBvpelOI23073YUHOkcjIP51Ih6IRBNDMinfrOkQre152Wg4oyH018QnMYgIKY0nZjHqaFEk81-Nwvy238zKMB4t7d6bsARegjWNoHwKhydCr3mRgYkM58UmSE8IUkFpKUoBr8gs6rx1L0qTuyuM4rzdiTXAx",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJa-QX1C29oRQRFbl43xxnp-w",
+            "plus_code": {
+                "compound_code": "XPQG+R2 Athens, Greece",
+                "global_code": "8G95XPQG+R2"
+            },
+            "rating": 4.2,
+            "reference": "ChIJa-QX1C29oRQRFbl43xxnp-w",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4120
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Veranzerou 25, Athina 104 32, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 37.9856077,
+                    "lng": 23.7277751
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.98697497989273,
+                        "lng": 23.72912882989272
+                    },
+                    "southwest": {
+                        "lat": 37.98427532010729,
+                        "lng": 23.72642917010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Dave Red Athens, a member of Brown Hotels",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3072,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102137786978612240072\">google@kevinsaey.be</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4UIg_bU0vxEVCDC7MtTrCSrVyWHSTlCbUd24nl1GneSf1LN1I4m-p2c7vbY3K_nVP0kc4AOxfcMRtFQo6qxjdg5gRGWhT13sd4Ytj28rMPSuzUvdmWaKy0mfsofNdVa8ZGcW59vKDq_4gXvuXRrvEZYEc2mg3IVpZITG8zSiOj_vXq",
+                    "width": 4096
+                }
+            ],
+            "place_id": "ChIJlZIqJjC9oRQR-Asd8IBzi_8",
+            "plus_code": {
+                "compound_code": "XPPH+64 Athens, Greece",
+                "global_code": "8G95XPPH+64"
+            },
+            "rating": 4.1,
+            "reference": "ChIJlZIqJjC9oRQR-Asd8IBzi_8",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 498
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Ag. Dimitriou 18, Athina 105 54, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 37.9794503,
+                    "lng": 23.7256903
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.98078237989272,
+                        "lng": 23.72703147989272
+                    },
+                    "southwest": {
+                        "lat": 37.97808272010727,
+                        "lng": 23.72433182010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Arion Athens Hotel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3328,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117461652188277648754\">Arion Athens Hotel</a>"
+                    ],
+                    "photo_reference": "AXCi2Q440cvLtB65OBpJyBb3Iy105HWOxC4rI3-5J0T14MQZQI4agh2xvO7-bdPVJ6kXV1c__qhu26yAJLxboH1JHlNvnGslYit8CM_8HZ87JI1GB6QNUmryr07DwwVV84YwxOOdJ07RHwzzCQKuiPKGWA7uBOId6zJpDiw48R-GKg2VWwdY",
+                    "width": 4992
+                }
+            ],
+            "place_id": "ChIJ2eYbnCS9oRQRNYlDhT8ypSg",
+            "plus_code": {
+                "compound_code": "XPHG+Q7 Athens, Greece",
+                "global_code": "8G95XPHG+Q7"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ2eYbnCS9oRQRNYlDhT8ypSg",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 690
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Karori 9, Athina 105 51, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 37.9774896,
+                    "lng": 23.727272
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.97893247989272,
+                        "lng": 23.72873692989272
+                    },
+                    "southwest": {
+                        "lat": 37.97623282010728,
+                        "lng": 23.72603727010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Anasa Hotel Athens",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106962355478063713128\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5Rsd084HrEcvIzxH9r31Uiabzzxt0OFb3a-asiCsY8146b_hQEVhIl5mf_TUOsMLcAiIZPOQ8tsVAGE5TwxnXMtP0h6ktVyIiPb5CXsWkRmjjfiPJ6dM4I8A2o6WMB_X4svsCNkX0pkc280urnqxKvMUobEye1xx-Vc7U0c1b2xw-v",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJdSK2-7e9oRQR_lPlfa1_jqY",
+            "plus_code": {
+                "compound_code": "XPGG+XW Athens, Greece",
+                "global_code": "8G95XPGG+XW"
+            },
+            "rating": 4.5,
+            "reference": "ChIJdSK2-7e9oRQR_lPlfa1_jqY",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Aristidou 3, Athina 105 59, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 37.9797847,
+                    "lng": 23.7298075
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.98112947989272,
+                        "lng": 23.73118677989272
+                    },
+                    "southwest": {
+                        "lat": 37.97842982010728,
+                        "lng": 23.72848712010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "The Gem Society Boutique Hotel & Spa",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 900,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100902644788181935767\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q466GmfHFkqQxj4zqbPTl75R3RrDCVqCWB3KdB2Z2OrdpCIcSiF2g7Sh9rXYnwmUrF6C_tBmKXeDExcQhFM-AIwxZapKf8Hjb0hudxIVFlB4K2xrmkWuvb3zj4L6WImXgRPeAdDealApfePoD9o0EC-uuxNyBfy_Ow3z2uLt8Tm9VmK",
+                    "width": 1350
+                }
+            ],
+            "place_id": "ChIJkQWHmsa9oRQRWcz14E7XqvU",
+            "plus_code": {
+                "compound_code": "XPHH+WW Athens, Greece",
+                "global_code": "8G95XPHH+WW"
+            },
+            "rating": 4.7,
+            "reference": "ChIJkQWHmsa9oRQRWcz14E7XqvU",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 393
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Domokou 2, Athina 104 40, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 37.9937789,
+                    "lng": 23.7213543
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.99513412989273,
+                        "lng": 23.72265797989272
+                    },
+                    "southwest": {
+                        "lat": 37.99243447010728,
+                        "lng": 23.71995832010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Athens Iris Hotel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 5636,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116214362190115523052\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5Wxc0tOlkf_42eQxP7xHPvkW3qkqas0Y0aVYB4YsNHlvkPmriqATlFD_3DsJay7ZXROytOnZ3n_m3L4PU1UF8XyqQbGHTAXxu3HIogm6NCW5VZ4zN-kDW6IX1q8ZrMSfDfF8HPK_uqS0N53dTLW2JjC4mGE8lcTLAY9lgMPAzQZ3P7",
+                    "width": 3692
+                }
+            ],
+            "place_id": "ChIJw952y-29oRQRy3l15m2O_GU",
+            "plus_code": {
+                "compound_code": "XPVC+GG Athens, Greece",
+                "global_code": "8G95XPVC+GG"
+            },
+            "rating": 4.5,
+            "reference": "ChIJw952y-29oRQRy3l15m2O_GU",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 420
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Diomeias 5, Athina 105 63, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 37.9763758,
+                    "lng": 23.7316886
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.97781637989272,
+                        "lng": 23.73303577989272
+                    },
+                    "southwest": {
+                        "lat": 37.97511672010727,
+                        "lng": 23.73033612010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Athens Cypria Hotel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 5600,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105816164175592685266\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4Y3cIwatrX2of_0WlNBqpWVfnnjqNZZReH5Buz0whZm_CdIro_JpqR2UcapvWqi5neE5fwEJAKkjJQsc0kip041PZ_7NpjR-SxlxtgVh1AcmJgWIv1yKfPGcXiv4PSYLJSYES9aASKHFE3105ZTWS-qSGCXIpz6luFj5MxroAO8luZ",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJv_LuQzy9oRQRZKQVue1rf6U",
+            "plus_code": {
+                "compound_code": "XPGJ+HM Athens, Greece",
+                "global_code": "8G95XPGJ+HM"
+            },
+            "rating": 4.2,
+            "reference": "ChIJv_LuQzy9oRQRZKQVue1rf6U",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1193
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Pireos 78, Athina 104 35, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 37.9800814,
+                    "lng": 23.7184469
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.98133357989273,
+                        "lng": 23.71986592989272
+                    },
+                    "southwest": {
+                        "lat": 37.97863392010728,
+                        "lng": 23.71716627010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Athenaeum Eridanus Luxury Hotel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3226,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112653371604148206801\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6UrVu5tH_yWrhL6XBd0zuBKezis9KoH_I69Cr53NpoNN08eHvHyYzOuP5QM5_YASV1d22E8FNy3r9XtvS7dTNA2FFfuY9AWzHkyNkjXmVRdCB9Bm8UVWoaD56UfUAtJgpRoWpBc9VS_mWDr3Uplm3_knfnaMo4D1LSbzHATq6V3XRb",
+                    "width": 4847
+                }
+            ],
+            "place_id": "ChIJe2-r2SC9oRQRdbNv4r0DPZQ",
+            "plus_code": {
+                "compound_code": "XPJ9+29 Athens, Greece",
+                "global_code": "8G95XPJ9+29"
+            },
+            "rating": 4.3,
+            "reference": "ChIJe2-r2SC9oRQRdbNv4r0DPZQ",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 502
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Odisseos 15-17, Athina 104 36, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 37.9854152,
+                    "lng": 23.7198869
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.98675062989272,
+                        "lng": 23.72109667989272
+                    },
+                    "southwest": {
+                        "lat": 37.98405097010728,
+                        "lng": 23.71839702010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Rio Athens",
+            "photos": [
+                {
+                    "height": 900,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114355497803575724679\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7UM6kVv5XfqbBSucPzQOLhuJd1b1LhCSPWpOsgUBJD94TtRYjZhnmdN_lsihbV4vKW60XxTktr8N8RDdJycVDfJAj7VULAseKeivr_pySEGxThqSyc1kGE8LIiajpbdocDqVt1x2EXjvXbkd6mAj4NSNA8NPLfo9RLY_VWfzip2q9Q",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJo05BryO9oRQRZf2v4OMZoMo",
+            "plus_code": {
+                "compound_code": "XPP9+5X Athens, Greece",
+                "global_code": "8G95XPP9+5X"
+            },
+            "rating": 2.6,
+            "reference": "ChIJo05BryO9oRQRZf2v4OMZoMo",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 330
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Navarchou Nikodimou 18-20, Athina 105 57, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 37.97376130000001,
+                    "lng": 23.7317086
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.97508992989273,
+                        "lng": 23.73305617989272
+                    },
+                    "southwest": {
+                        "lat": 37.97239027010728,
+                        "lng": 23.73035652010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Electra Palace Athens",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107738249098786580593\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7JzUmFnVP50xB0CEb7Nb-NMahGJv3_sCn_3PUO_fSVLV0IJoB-KwWqmiN-xyE8cvuTzFbp7P3BiW14qlldAdEZXDyTviopPtLJ4cbZkNBsunS1wz96PE4iklaY20vFjJw6BVetfTDOnCK-grXxydMh4i6S--rzvsiTyfA_YQs00lIh",
+                    "width": 6000
+                }
+            ],
+            "place_id": "ChIJ090SbiGVoRQRneonR3iT4R0",
+            "plus_code": {
+                "compound_code": "XPFJ+GM Athens, Greece",
+                "global_code": "8G95XPFJ+GM"
+            },
+            "rating": 4.6,
+            "reference": "ChIJ090SbiGVoRQRneonR3iT4R0",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2865
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Chalkokondili 46, Athina 104 32, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 37.9863533,
+                    "lng": 23.7275792
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.98768307989272,
+                        "lng": 23.72892452989272
+                    },
+                    "southwest": {
+                        "lat": 37.98498342010728,
+                        "lng": 23.72622487010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Breeze Boutique Hotel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116141529755378692478\">Moses Samuel</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4l3fyCI93Kfsgv-d-mJZcz2Vu5GWiUaNAN4_fz2xkDpMFzvtHIw13B0xrxEz-IzgtkcNfG2NguPLJYbemnaUb3FxWD9UtReACQ2RvHGKaPKl0mR6s5HZCUA-ruWQKqp1T2lUxN50v_i7ZufArhX4aeXMgnUzExjlqLs3Fr1WJeUp0E",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJL7l81TG9oRQRHjdg_sxbMzk",
+            "plus_code": {
+                "compound_code": "XPPH+H2 Athens, Greece",
+                "global_code": "8G95XPPH+H2"
+            },
+            "rating": 4.2,
+            "reference": "ChIJL7l81TG9oRQRHjdg_sxbMzk",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 798
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Chavriou 7, Athina 105 62, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 37.97802009999999,
+                    "lng": 23.7305347
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.97943657989273,
+                        "lng": 23.73191047989272
+                    },
+                    "southwest": {
+                        "lat": 37.97673692010728,
+                        "lng": 23.72921082010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Classic Hotel by Athens Prime Hotels",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117108252044256816740\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7wm3da9iIecKsZySvXCwp2PTpkWBKPmUmgv3msQXHwxFLrd7pfHdHY4F7bLkmZjvhcyxKnYL_fYx8uImvGpVofwczuzsN1ZqNi9ZH3hTaaL7NTQ8JGfCXTD_DZhBYPkOQiB1wJQhS4xEhMaruek2iT2qKegmdG08DWTShu4g5fxgII",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJe3tZ2lq9oRQRquyamIqL_1I",
+            "plus_code": {
+                "compound_code": "XPHJ+66 Athens, Greece",
+                "global_code": "8G95XPHJ+66"
+            },
+            "rating": 4.5,
+            "reference": "ChIJe3tZ2lq9oRQRquyamIqL_1I",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 159
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Trias 20, Athina 112 57, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 37.9960824,
+                    "lng": 23.7342666
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.99742597989272,
+                        "lng": 23.73561537989272
+                    },
+                    "southwest": {
+                        "lat": 37.99472632010728,
+                        "lng": 23.73291572010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Victory Inn",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110071033245773603157\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7DkBEoVMbZrOsdrDPu-6_oZxr6NuQAfsHacFIim5Qog-ahbT1_313hhqTyFOe9sSaK1yDwm1VeYb92gEjtTikwxsLMskV3hqw7fZJ2I2T-iALeMmwvb3yYiPrhLnNGTQK7HAJaydleMzyG_L1cwL-4Zpio22o-uW1eB24Q3TLEC-N6",
+                    "width": 4928
+                }
+            ],
+            "place_id": "ChIJ2xHdjMuioRQR2kgz1agPsFM",
+            "plus_code": {
+                "compound_code": "XPWM+CP Athens, Greece",
+                "global_code": "8G95XPWM+CP"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ2xHdjMuioRQR2kgz1agPsFM",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 609
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Agias Irinis 43, Athina 105 51, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 37.9771448,
+                    "lng": 23.7265729
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.97856492989272,
+                        "lng": 23.72782917989272
+                    },
+                    "southwest": {
+                        "lat": 37.97586527010728,
+                        "lng": 23.72512952010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Royalty Hotel Athens",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3789,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102585318332616426396\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5fuzquQYSQakC4lSSN_zyBmdhiOyGW1Rr5TtgX6L_msGpt_j8Aazu6P4C29ls38h-6hlEFyHpmTVPUicoAqzqGWS4auLdXrXtrJt3eVSzL_MHSngMkqOdwdP724UKwM-b3CaK3CbwZLK85WKhbogxMdFQqOJgbgO7K9gK9mr9RToVQ",
+                    "width": 5683
+                }
+            ],
+            "place_id": "ChIJ__9TIyO9oRQRBmxyqgq5nHk",
+            "plus_code": {
+                "compound_code": "XPGG+VJ Athens, Greece",
+                "global_code": "8G95XPGG+VJ"
+            },
+            "rating": 4.6,
+            "reference": "ChIJ__9TIyO9oRQRBmxyqgq5nHk",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 198
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Ermou 131, Athina 105 55, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 37.9771972,
+                    "lng": 23.7218021
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.97859052989272,
+                        "lng": 23.72316152989272
+                    },
+                    "southwest": {
+                        "lat": 37.97589087010728,
+                        "lng": 23.72046187010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "One three one",
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110644792571740530597\">Aleksandra Saliaj</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5cQ7UxDIS1a4Gy3zfQP8cDFYv6xT9-_CA7XsX3FcJZ0JkTxrWepBcgFSLUG0eV7DFmmHWtHRZ5BTFfUN-UwfvbfdP1aQUJdMCXyAk_m9WByBuYoYxClvHeJzSvjY1fuiJlehruJv8pTBC2UdcKCJVjMnXEbmoJst3WzCAA0W2CYpSX",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ0TRqkVC9oRQRHLLXqigbUXw",
+            "plus_code": {
+                "compound_code": "XPGC+VP Athens, Greece",
+                "global_code": "8G95XPGC+VP"
+            },
+            "rating": 3.8,
+            "reference": "ChIJ0TRqkVC9oRQRHLLXqigbUXw",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 45
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Leof. Andrea Siggrou 56, Athina 117 42, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 37.9657047,
+                    "lng": 23.7278778
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.96700117989272,
+                        "lng": 23.72929452989272
+                    },
+                    "southwest": {
+                        "lat": 37.96430152010727,
+                        "lng": 23.72659487010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Acropolis Magenta Luxury Suites",
+            "photos": [
+                {
+                    "height": 2400,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104003578047753504414\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4EClmh6IX5_540H77qpGQw3INhpuHKQk7CsrRFmTCGF9mbiHyzlidcZ7iEQv5L_9qcmGMPkryOpPpABOJQhdceHdWuCm9S-g8OQDMmfH1sWttbvkpnFxxXlENDUrNgXLUHlSO2AkUtoUOjKEnK0eh8JJuz3yeP5yvI5NUlZ8bS5zEH",
+                    "width": 3600
+                }
+            ],
+            "place_id": "ChIJ4aaQeRC9oRQR0C7Mwaj-ZJQ",
+            "plus_code": {
+                "compound_code": "XP8H+75 Athens, Greece",
+                "global_code": "8G95XP8H+75"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ4aaQeRC9oRQR0C7Mwaj-ZJQ",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 67
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Geraniou 49, Athina 104 31, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 37.9841439,
+                    "lng": 23.7259362
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.98563402989272,
+                        "lng": 23.72737972989272
+                    },
+                    "southwest": {
+                        "lat": 37.98293437010728,
+                        "lng": 23.72468007010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "The Athens Mirabello City Hotel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 5247,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103323783108955037078\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q52tcLUAuYWAgVWriRGHG8bdnXdss8iPXL0UzJJt5m8OksKLp6NjJpQ4J-PH5IuLTZTFEqmFhy256K6phu9qEMgpU69Afdu39nQK9UVYGSjzQVGmHTA6vyNR2BKL7GBAtGi7qPqKmgkRSBeVDAiA04_-XAgIO6vdCptPePdIHR3FGw1",
+                    "width": 3503
+                }
+            ],
+            "place_id": "ChIJMagGjsXdoRQRiVLICeeeJ5M",
+            "plus_code": {
+                "compound_code": "XPMG+M9 Athens, Greece",
+                "global_code": "8G95XPMG+M9"
+            },
+            "rating": 4,
+            "reference": "ChIJMagGjsXdoRQRiVLICeeeJ5M",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 771
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Voulgari 13, Athina 104 37, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 37.9834709,
+                    "lng": 23.7240944
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.98482882989272,
+                        "lng": 23.72550007989272
+                    },
+                    "southwest": {
+                        "lat": 37.98212917010728,
+                        "lng": 23.72280042010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Marina-Athens Hotel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1046,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116994326810615266241\">Marina-Athens Hotel</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4vqED-7KoOlesmRPhveMTzPXnkOrFLf9qVa01M40U5Rq0AiUPs99k1U8PSK8Cg88P9UXNfzNyQnO5e7hYnxt4yqE-vAceLodhfLLn0rJqDMkVujMqOzgAi2WxAdCTT2t-IkLmMrNiOW5CYe9GEfxBxDeoW5flfrj8WxTB3nQRkCmEf",
+                    "width": 1000
+                }
+            ],
+            "place_id": "ChIJS1bjmyW9oRQRR7tnNSzb2nI",
+            "plus_code": {
+                "compound_code": "XPMF+9J Athens, Greece",
+                "global_code": "8G95XPMF+9J"
+            },
+            "rating": 3.4,
+            "reference": "ChIJS1bjmyW9oRQRR7tnNSzb2nI",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1373
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "\u1f08charnon 15, Athina 104 38, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 37.9882982,
+                    "lng": 23.726596
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.98964622989272,
+                        "lng": 23.72797592989272
+                    },
+                    "southwest": {
+                        "lat": 37.98694657010728,
+                        "lng": 23.72527627010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Aristoteles Hotel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106047932917143472017\">miguel angel girard pereira</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4IgK3vYOvd2tWvy5KjRprrs0HGfO3-A1nLxPeLS3Xo36Hvmu-TOAlT81O5MlsiSphsXgL-mcxHbf70M0Ev2vmzG19s6NEilyvDbUAzxKNsVVGB0IFjH_PsxJyrRmlVUIlg8I3ncCkW7c9sDe-RtXFeA5ruISIUXqz7BPRF6zAwqois",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJw9XODy69oRQRYZ2d_-UYTOg",
+            "plus_code": {
+                "compound_code": "XPQG+8J Athens, Greece",
+                "global_code": "8G95XPQG+8J"
+            },
+            "rating": 3.1,
+            "reference": "ChIJw9XODy69oRQRYZ2d_-UYTOg",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 573
+        }
+    ],
+    "status": "OK"
+}

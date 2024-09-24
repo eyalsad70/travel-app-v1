@@ -1,0 +1,257 @@
+{
+    "predictions": [
+        {
+            "description": "Meteora, Kalabaka, Greece",
+            "matched_substrings": [
+                {
+                    "length": 7,
+                    "offset": 0
+                },
+                {
+                    "length": 6,
+                    "offset": 19
+                }
+            ],
+            "place_id": "ChIJOX8y6K4PWRMR_zK82NStJ3E",
+            "reference": "ChIJOX8y6K4PWRMR_zK82NStJ3E",
+            "structured_formatting": {
+                "main_text": "Meteora",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 7,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Kalabaka, Greece",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 10
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Meteora"
+                },
+                {
+                    "offset": 9,
+                    "value": "Kalabaka"
+                },
+                {
+                    "offset": 19,
+                    "value": "Greece"
+                }
+            ],
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment",
+                "place_of_worship"
+            ]
+        },
+        {
+            "description": "Meteora, Polichni, Greece",
+            "matched_substrings": [
+                {
+                    "length": 7,
+                    "offset": 0
+                },
+                {
+                    "length": 6,
+                    "offset": 19
+                }
+            ],
+            "place_id": "ChIJ482qaTM4qBQRSyHlvGoWp4M",
+            "reference": "ChIJ482qaTM4qBQRSyHlvGoWp4M",
+            "structured_formatting": {
+                "main_text": "Meteora",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 7,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Polichni, Greece",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 10
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Meteora"
+                },
+                {
+                    "offset": 9,
+                    "value": "Polichni"
+                },
+                {
+                    "offset": 19,
+                    "value": "Greece"
+                }
+            ],
+            "types": [
+                "neighborhood",
+                "political",
+                "geocode"
+            ]
+        },
+        {
+            "description": "Kalambaka, Greece",
+            "matched_substrings": [
+                {
+                    "length": 9,
+                    "offset": 0
+                },
+                {
+                    "length": 6,
+                    "offset": 11
+                }
+            ],
+            "place_id": "ChIJxWC113INWRMR0dLrkdb3NSs",
+            "reference": "ChIJxWC113INWRMR0dLrkdb3NSs",
+            "structured_formatting": {
+                "main_text": "Kalambaka",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 9,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Greece",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 0
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Kalambaka"
+                },
+                {
+                    "offset": 11,
+                    "value": "Greece"
+                }
+            ],
+            "types": [
+                "political",
+                "administrative_area_level_4",
+                "geocode"
+            ]
+        },
+        {
+            "description": "\u039c\u03b5\u03c4\u03b5\u03ce\u03c1\u03c9\u03bd, Athens, Greece",
+            "matched_substrings": [
+                {
+                    "length": 8,
+                    "offset": 0
+                },
+                {
+                    "length": 6,
+                    "offset": 18
+                }
+            ],
+            "place_id": "EiDOnM61z4TOtc-Oz4HPic69LCBBdGhlbnMsIEdyZWVjZSIuKiwKFAoSCf9RzbJyvaEUEXWaqosGCK1IEhQKEgnxQ3AGH72hFBHdjWZ2RTU2Jw",
+            "reference": "EiDOnM61z4TOtc-Oz4HPic69LCBBdGhlbnMsIEdyZWVjZSIuKiwKFAoSCf9RzbJyvaEUEXWaqosGCK1IEhQKEgnxQ3AGH72hFBHdjWZ2RTU2Jw",
+            "structured_formatting": {
+                "main_text": "\u039c\u03b5\u03c4\u03b5\u03ce\u03c1\u03c9\u03bd",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 8,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Athens, Greece",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 8
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "\u039c\u03b5\u03c4\u03b5\u03ce\u03c1\u03c9\u03bd"
+                },
+                {
+                    "offset": 10,
+                    "value": "Athens"
+                },
+                {
+                    "offset": 18,
+                    "value": "Greece"
+                }
+            ],
+            "types": [
+                "geocode",
+                "route"
+            ]
+        },
+        {
+            "description": "Meteora, Lelas Karagianni, Lykovrysi, Greece",
+            "matched_substrings": [
+                {
+                    "length": 7,
+                    "offset": 0
+                },
+                {
+                    "length": 6,
+                    "offset": 38
+                }
+            ],
+            "place_id": "ChIJhdlQLR-foRQR1lnC3q8Djb0",
+            "reference": "ChIJhdlQLR-foRQR1lnC3q8Djb0",
+            "structured_formatting": {
+                "main_text": "Meteora",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 7,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Lelas Karagianni, Lykovrysi, Greece",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 29
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Meteora"
+                },
+                {
+                    "offset": 9,
+                    "value": "Lelas Karagianni"
+                },
+                {
+                    "offset": 27,
+                    "value": "Lykovrysi"
+                },
+                {
+                    "offset": 38,
+                    "value": "Greece"
+                }
+            ],
+            "types": [
+                "establishment",
+                "point_of_interest",
+                "store",
+                "food",
+                "bakery"
+            ]
+        }
+    ],
+    "status": "OK"
+}

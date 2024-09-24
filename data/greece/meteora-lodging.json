@@ -1,0 +1,983 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AXCi2Q63y4Y_g9nJbj4OBFzrpPFjZnXR-EU3WnLHZ0J96VOEs628B4D0hVzosWoEsq6jpkmEHIvdxeJ5QyqNZfLIcqkEa4d35htQ-WaAxtEGtWMHYow8UYAuj72wmQ1PYYrirqqbjLsKwXLu5mOrx7h2ub4YDmwzJvE7KIXfSEoNahNt5tKudjgiOFGaoTE0zulZKVZAXz82VTVWTUxJ50erRc-m-0aU4c_kzAVdhqVnFAA8FuBlyAFFYBH9O0Zy_SwrNf5vrzItiBEsaAxVac3DD4Or919ARtjkXfSZSiV8PWofvKYn1xSQyPL6d_t5YTlNtDSACe0kU0AmLMNA-Hq_ohc5sEuxlWeBMT4Q6jk1dtPdwbeh34-GL6zGOG9Dzl6nO6Y7qAJz5p98abtsgid6jsxDf2kLIJi2A4DA1PT-sV7h0w",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Interchange 7A, A2, Metsovo 442 00, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 39.7748405,
+                    "lng": 21.2046022
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.77617067989272,
+                        "lng": 21.20603157989272
+                    },
+                    "southwest": {
+                        "lat": 39.77347102010727,
+                        "lng": 21.20333192010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Grand Forest Metsovo",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117358853112140814068\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5c9PpNamQlA1w9ittiWwqByCXL53cQWkIXK2EgP_Fp1HEcsKpXmO8G0ASNuaRn4wD4Fb4lrhXeLoBSzd0pBBFMd1phO1mw5GF86iNr82wwBdYtYr6en_Y0hudUrT4MZhXQ9hGmHDu-4adFslci2Pf5oIdxfV00FF7Mq8kuu5WNnVeL",
+                    "width": 2304
+                }
+            ],
+            "place_id": "ChIJqf4r0kx7WRMRFIhTcD0W6jk",
+            "plus_code": {
+                "compound_code": "Q6F3+WR Metsovo, Greece",
+                "global_code": "8GF3Q6F3+WR"
+            },
+            "rating": 4.4,
+            "reference": "ChIJqf4r0kx7WRMRFIhTcD0W6jk",
+            "types": [
+                "spa",
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1796
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "\u039a\u03b1\u03c3\u03c4\u03c1\u03ac\u03ba\u03b9 \u039a\u03b1\u03bb\u03b1\u03bc\u03c0\u03ac\u03ba\u03b1\u03c2, Kastraki Kalmpaka, Kastraki 422 00, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 39.7195582,
+                    "lng": 21.6111602
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.72090392989272,
+                        "lng": 21.61249677989272
+                    },
+                    "southwest": {
+                        "lat": 39.71820427010728,
+                        "lng": 21.60979712010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Grand Meteora Hotel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3744,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109814876841957649348\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6SH3D7ZhAfuvE_4DzpKoo0hHO3sBCoXB0Yk47vazxXFl-ku5HQwgx_D3gZjFT5orgk3y3DzNeiAV6fwkOgPZRxFtjPEc-Xy6icsCyP-I6K42ZhwzKZyWnrj9xjW5AZPx-rW5KT32EsFNCEMjvlAuoH7j1gRUWbrW8-NIRhhuddrw-S",
+                    "width": 5616
+                }
+            ],
+            "place_id": "ChIJC6QVYEkOWRMR2CWb-CwnTuA",
+            "plus_code": {
+                "compound_code": "PJ96+RF Kastraki, Greece",
+                "global_code": "8GF3PJ96+RF"
+            },
+            "rating": 4.4,
+            "reference": "ChIJC6QVYEkOWRMR2CWb-CwnTuA",
+            "types": [
+                "beauty_salon",
+                "spa",
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1992
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "National Road, Trikalon - Kalampaka, Kalampaka 422 00, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 39.702687,
+                    "lng": 21.633046
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.70396967989272,
+                        "lng": 21.63436272989272
+                    },
+                    "southwest": {
+                        "lat": 39.70127002010728,
+                        "lng": 21.63166307010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Divani Meteora Hotel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2500,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100239786603372555087\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5hYqD22VMH0YFc4F1WqSjjWVl-ZEjI7cWIKSUX0oFnhOlVHNREkQ_bRC3Ux0NRn-re3U7lrMFgR78iV6j2-d6nxX9JzUAw8EH-IsJWPk9HpjraxGLioE-zbP6mwrFVDtagU_lfYi1ZOc8WnzmtwSnWnkdjm7RLPXc3cwo57CqIbktp",
+                    "width": 3753
+                }
+            ],
+            "place_id": "ChIJrSk2IcUPWRMR12-V2Oj-eWQ",
+            "plus_code": {
+                "compound_code": "PJ3M+36 Kalabaka, Greece",
+                "global_code": "8GF3PJ3M+36"
+            },
+            "rating": 4.5,
+            "reference": "ChIJrSk2IcUPWRMR12-V2Oj-eWQ",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2226
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Metsovo 442 00, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 39.7768166,
+                    "lng": 21.180013
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.77813197989272,
+                        "lng": 21.18141962989272
+                    },
+                    "southwest": {
+                        "lat": 39.77543232010727,
+                        "lng": 21.17871997010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Katogi Averoff Hotel & Winery",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113683613872123564980\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q6-INh0P49rPLtYjB8igcv7vz1gp-fjbyR1E7YWVYV0wKhbnTrGp1R1_PfgwQc5KwVOdw_Q-04FxIavSo75WFBxtiyzMDNOB2Emlwpn6EepPtEL6-d__xwICIjVKmfKzfA8uaatyPBWkM6eCvVPsl5-R2V5EhyvTpA5vYJKTqH1s4E7",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJfQnI-1NjWRMRZjV_X43MYsQ",
+            "plus_code": {
+                "compound_code": "Q5GJ+P2 Metsovo, Greece",
+                "global_code": "8GF3Q5GJ+P2"
+            },
+            "rating": 4.8,
+            "reference": "ChIJfQnI-1NjWRMRZjV_X43MYsQ",
+            "types": [
+                "lodging",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 540
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Kastraki 422 00, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 39.7202121,
+                    "lng": 21.6168304
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.72155717989271,
+                        "lng": 21.61819817989273
+                    },
+                    "southwest": {
+                        "lat": 39.71885752010727,
+                        "lng": 21.61549852010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Doupiani House",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100559153901215972880\">Doupiani House</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7bp30l4NlxxHFj02Kx543KUpnxtLnfE9qgCu0b0HFFP3YDORVd3hKymN-vNBlV707gLiW5ND5OKstchV25ywCoXQh_rlgD9OJhGjX7Z6sOyKr_s-5kAF6flxV6Y8Mz4SKa-kAIOpAfC2Cacj0OwC8vB5xPjrDTTS13Ohvrs19aRwiA",
+                    "width": 3888
+                }
+            ],
+            "place_id": "ChIJJ4zppEwOWRMRus0803-lpAY",
+            "plus_code": {
+                "compound_code": "PJC8+3P Kastraki, Greece",
+                "global_code": "8GF3PJC8+3P"
+            },
+            "rating": 4.6,
+            "reference": "ChIJJ4zppEwOWRMRus0803-lpAY",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 984
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2nd km. Kalambaka - Ioannina, Kastraki, Kalambaka 422 00, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 39.7165,
+                    "lng": 21.608157
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.71794452989272,
+                        "lng": 21.60937277989272
+                    },
+                    "southwest": {
+                        "lat": 39.71524487010727,
+                        "lng": 21.60667312010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Meteora Hotel",
+            "photos": [
+                {
+                    "height": 3543,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115632930986562898041\">Hotel Meteora</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7tYtAuecH6GXzXUFmOlS61Fj0l-sxEc7_eoTZNcEM8nP6xprSQywTV1rUCNxKP5bDSJNT46oYxH8zmEiQU7DXYxbc5jK4_5VhYAef2TnvCfHR6HQLySsaAkdgz3oTjmP8BWzk-RjGJnvbOGV0B2YGrWltVw6DFA9L0DdNLjd6JgMpD",
+                    "width": 3543
+                }
+            ],
+            "place_id": "ChIJHZXstUoOWRMRpJZtNRnvYvA",
+            "plus_code": {
+                "compound_code": "PJ85+H7 Kalabaka, Greece",
+                "global_code": "8GF3PJ85+H7"
+            },
+            "rating": 4.3,
+            "reference": "ChIJHZXstUoOWRMRpJZtNRnvYvA",
+            "types": [
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1338
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Rodou 3, Kalampaka 422 00, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 39.7065441,
+                    "lng": 21.6232311
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.70788762989272,
+                        "lng": 21.62451202989272
+                    },
+                    "southwest": {
+                        "lat": 39.70518797010727,
+                        "lng": 21.62181237010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "The Storyteller Boutique House",
+            "photos": [
+                {
+                    "height": 1226,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105383555112028535343\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4u4fuj6wgTHdcK2OWesYcmFQr7GU3DddKM4DDQO8N7Xf2PE-_-TRsMitnZwcly9FPlpwXJta36v3JT0n3VUclnfNVIYskjJ7wDpMaCbdEakdTQU5dAi5IEv_GlF22dk_-3OZEjrRf-N_dSoaFE1dEt7DQtBRKojx9kCi1Ilx3X5qo",
+                    "width": 764
+                }
+            ],
+            "place_id": "ChIJjz8hOwcPWRMRGTlYJkCAg6U",
+            "plus_code": {
+                "compound_code": "PJ4F+J7 Kalabaka, Greece",
+                "global_code": "8GF3PJ4F+J7"
+            },
+            "rating": 4.9,
+            "reference": "ChIJjz8hOwcPWRMRGTlYJkCAg6U",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 72
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Vitoima Terma, Kalampaka 422 00, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 39.6971086,
+                    "lng": 21.621051
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.69858732989272,
+                        "lng": 21.62259897989272
+                    },
+                    "southwest": {
+                        "lat": 39.69588767010728,
+                        "lng": 21.61989932010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Mirabilis Boutique Hotel Meteora",
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100974282334863114854\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4fpsIOXz2onaSVuk1PyxeLyeJ6rZChyheZslsKDySr9ciOPzw80TVAqRPGAEnzWbgIRs9oLA8AA__f6CVVKzH10gpkqU7dA-g44PRxuZOX96LVI6n13k7x1zHqA6I5lXbtRUAi1k3YGVpukQo3jWUZ5gPF14A9RgG0oVP7Bla2_3Cf",
+                    "width": 1620
+                }
+            ],
+            "place_id": "ChIJl3X0UQ4PWRMRRkEZCwRHuZ4",
+            "plus_code": {
+                "compound_code": "MJWC+RC Kalabaka, Greece",
+                "global_code": "8GF3MJWC+RC"
+            },
+            "rating": 4.8,
+            "reference": "ChIJl3X0UQ4PWRMRRkEZCwRHuZ4",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 138
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Kastraki 422 00, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 39.7159251,
+                    "lng": 21.6237867
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.71728502989272,
+                        "lng": 21.62509127989272
+                    },
+                    "southwest": {
+                        "lat": 39.71458537010728,
+                        "lng": 21.62239162010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Archontiko Mesohori Meteora",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102640931461169143384\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7yJDG4WhOb-ZBV48nx4d4s-XekgvrQEFRpsyql8sFwEZ9sm7XaeaM887SKFwTlr99j4i6gwI6ur9e0jIwDpvCVjDNjXsqRlgpITGv773N7UWjKQk7bnmUI0cIJq7qK3PfN7TryLBjC5fKNcPt1JSjWRpUOMZxIk96YvEY_Mp7I8rOg",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJU31I49EPWRMR4veLtOfPPvM",
+            "plus_code": {
+                "compound_code": "PJ8F+9G Kastraki, Greece",
+                "global_code": "8GF3PJ8F+9G"
+            },
+            "rating": 4.8,
+            "reference": "ChIJU31I49EPWRMR4veLtOfPPvM",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 234
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Kastraki 422 00, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 39.7163764,
+                    "lng": 21.6238085
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.71772622989273,
+                        "lng": 21.62515832989272
+                    },
+                    "southwest": {
+                        "lat": 39.71502657010728,
+                        "lng": 21.62245867010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Pyrgos Adrachti",
+            "photos": [
+                {
+                    "height": 1259,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106222941294505949107\">Pyrgos Adrachti</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7rGhM0Hfw1ARnUIBYumD1GksblH-0qq9YtEYMHdkafrhxI4iwc6YAX3RU4ejHjMg9ET-2GdwonyXtbV_leFAzE2DUQInD6cHKubA_G1tP6v5TNPSV9ePnDCPZf25YHw7QvYDr_bFP1qiwt8lpurmsLJ6c8tibnJ5oSWGblS2x4N3LR",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJvUlmQLUPWRMRl-gA8cJ8KKQ",
+            "plus_code": {
+                "compound_code": "PJ8F+HG Kastraki, Greece",
+                "global_code": "8GF3PJ8F+HG"
+            },
+            "rating": 4.9,
+            "reference": "ChIJvUlmQLUPWRMRl-gA8cJ8KKQ",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 314
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "\u0391\u03b3\u03af\u03b1 \u03a4\u03c1\u03b9\u03ac\u03b4\u03b1, Metsovo 442 00, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 39.7717961,
+                    "lng": 21.1782405
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.77314592989271,
+                        "lng": 21.17957812989272
+                    },
+                    "southwest": {
+                        "lat": 39.77044627010727,
+                        "lng": 21.17687847010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "FLOARA DI MUNTE Forest Luxury Suites",
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104365810141062004264\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5wECrv4EnKQy1r3CRXFXOkGt9WPvB2R21MLVkFHU3cXIm454HRWXlu2Dpo2QMzDbdpoI7WvpinvyRNYLuooMpOihyrfYYfYzmLwig1v_mixW422XplY06Fj7bgdAuYbajy_080wcZuOZ5U62E3oK8C-vCjRpw-cP1eaercAbzYb8Qf",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJfSPUMWdjWRMROmBfDedw-04",
+            "plus_code": {
+                "compound_code": "Q5CH+P7 Metsovo, Greece",
+                "global_code": "8GF3Q5CH+P7"
+            },
+            "rating": 5,
+            "reference": "ChIJfSPUMWdjWRMROmBfDedw-04",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 47
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "\u039c\u03b5\u03c4\u03b5\u03ce\u03c1\u03c9\u03bd 56 \u039a\u03b1\u03c3\u03c4\u03c1\u03b1\u03ba\u03b9, Kalampaka 422 00, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 39.7173338,
+                    "lng": 21.6167214
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.71882652989272,
+                        "lng": 21.61820987989272
+                    },
+                    "southwest": {
+                        "lat": 39.71612687010727,
+                        "lng": 21.61551022010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Meteoritis",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3334,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104459907124413699995\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7qjvYRcQRvrvQixad_fD3DVpNiBngxyKjLIHu2Q7xKOl2gGUvv4fOPGjRpXz0CH__iS5M_42y1MWXde_ZDAr0GCXRLlP5ln5wikGogVvl4fecflmqZMM6oJMnt9pxpLxDM8IGODZr_bk6H7LgWz_gpzqBfyPW_yNn5HEuLtd8M7FhG",
+                    "width": 5000
+                }
+            ],
+            "place_id": "ChIJ5_a8y0oOWRMRhcXkh1DMN18",
+            "plus_code": {
+                "compound_code": "PJ88+WM Kalabaka, Greece",
+                "global_code": "8GF3PJ88+WM"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ5_a8y0oOWRMRhcXkh1DMN18",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 815
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "EO Trikalon Ioanninon 254, Trikala 421 00, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 39.5876692,
+                    "lng": 21.735906
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.58902387989272,
+                        "lng": 21.73728022989272
+                    },
+                    "southwest": {
+                        "lat": 39.58632422010728,
+                        "lng": 21.73458057010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Vintage Suites Trikala",
+            "photos": [
+                {
+                    "height": 3217,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110591910696650708050\">George Giannakis</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5HEdpklqc8YhnFLFJ5U_rIZKcZh4wPnqI79cOMvagTab8HHrteUwGUlybwXmq8tcuqIVQUuxoi-Gj1U8Oj50zP1UU4TfkvTIT3MUKcT_63FW6OceBWJQ7rASLzYwbVQlg7-onTUqVxhJK7w425PpP1X6e2uqrilwyII_Z8SJ8OGTeZ",
+                    "width": 4972
+                }
+            ],
+            "place_id": "ChIJOeN_4mcZWRMRkQFifvC_Fg4",
+            "plus_code": {
+                "compound_code": "HPQP+39 Trikala, Greece",
+                "global_code": "8GF3HPQP+39"
+            },
+            "rating": 4.9,
+            "reference": "ChIJOeN_4mcZWRMRkQFifvC_Fg4",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 194
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Kastraki Village, Kalambaka 422 00, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 39.71637399999999,
+                    "lng": 21.620061
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.71774597989272,
+                        "lng": 21.62139757989272
+                    },
+                    "southwest": {
+                        "lat": 39.71504632010728,
+                        "lng": 21.61869792010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Boutique Plakias Guesthouse ex Boutique Holy Spirit",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3341,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102514776669228681730\">Gil Eilam</a>"
+                    ],
+                    "photo_reference": "AXCi2Q4y8MfLyRiZ5pF2yHfVDKroyYXwLtS9q3hlabn_iO7V_ZPtcjGoTBrJT4DuysihBsWyLewLxeWEm7N1prvPgcGhexTiT3-QC5pFs4MjDo42grEG3pYBgxtp2Tw3hwLW8QIdCS-vwSMoVT4BjoOCWfEmVJDj_lzN2Tq-P6fjqi4I5qkA",
+                    "width": 5012
+                }
+            ],
+            "place_id": "ChIJPZjY0koOWRMRQcSmeOo9wws",
+            "plus_code": {
+                "compound_code": "PJ8C+G2 Kastraki, Greece",
+                "global_code": "8GF3PJ8C+G2"
+            },
+            "rating": 4.9,
+            "reference": "ChIJPZjY0koOWRMRQcSmeOo9wws",
+            "types": [
+                "spa",
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 125
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "\u0394\u0397\u039c\u039f\u03a4\u0399\u039a\u039f \u03a3\u03a7\u039f\u039b\u0395\u0399\u039f, Metsovo 442 00, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 39.7703759,
+                    "lng": 21.1846749
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.77176807989272,
+                        "lng": 21.18600492989272
+                    },
+                    "southwest": {
+                        "lat": 39.76906842010728,
+                        "lng": 21.18330527010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Aroma Dryos Spa & Eco Hotel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1759,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117271378639681338481\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5_m6iV2FHcnaaVa8WDJu88eldFY4vtyyLoIDIsz-SwgK8vNLk-tPuEeI5qUO8tmd5BcZsUQIM7Hz-I0pismtLXiDLRdkpxUpuXfg1uV4HDFuAih5ZpiWo2sOMnXDheNVH_MVC5gNA-dRtZayklz0QTcNJ-Y3K_EchL28O0di87rTZc",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJbRW-GVdjWRMRkSdKrUU3xeA",
+            "plus_code": {
+                "compound_code": "Q5CM+5V Metsovo, Greece",
+                "global_code": "8GF3Q5CM+5V"
+            },
+            "rating": 4.9,
+            "reference": "ChIJbRW-GVdjWRMRkSdKrUU3xeA",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 856
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Patriarchou Dimitriou 45, Kalampaka 422 00, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 39.7076852,
+                    "lng": 21.6181151
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.70909467989272,
+                        "lng": 21.61943927989272
+                    },
+                    "southwest": {
+                        "lat": 39.70639502010727,
+                        "lng": 21.61673962010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Oikia Guesthouse Meteora",
+            "photos": [
+                {
+                    "height": 2976,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115201229596753772984\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5ZtD4acZLmkv_o1GVZD9hQ9FiElygISL4-silSxUpLuIw7eWjOCdFXwyhnR7T2BdLtYRz2oaA-SQdr53zKBCsmK0G7uTDygejFf2GDXX2dhFTCVUWeXSgPj-aydS8BO0eH31OzUme6rSI-YCdFk6vjA0UFtpXfloVWM9hQp_puXoQc",
+                    "width": 3968
+                }
+            ],
+            "place_id": "ChIJP183byAPWRMRD87mFnFqbpY",
+            "plus_code": {
+                "compound_code": "PJ59+36 Kalabaka, Greece",
+                "global_code": "8GF3PJ59+36"
+            },
+            "rating": 4.9,
+            "reference": "ChIJP183byAPWRMRD87mFnFqbpY",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 252
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Neraidochori 420 32, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 39.5299622,
+                    "lng": 21.4427998
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.53122117989272,
+                        "lng": 21.44421132989272
+                    },
+                    "southwest": {
+                        "lat": 39.52852152010727,
+                        "lng": 21.44151167010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Magiossi",
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115214022126005075842\">STATHIS KALAMPOIKIS</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5dMBFGxRaXU3gDdqXPolemFBp8c0x4_OPXTjF1ET1Ps11tLB-CkdijFAu3VtBYZUEcZRC2sP5j0nt2T-ealriUcEr0npqQ6z6_ZnP6pVCbhz6HBZcfd3Vg8IXoV8oeZwv_6ld67jZurTKBqynTjJmLRW8z0T0tNxxwXoQAvGoOlLmv",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJB8Gl4PtAWRMRuWpPmXEtnf0",
+            "plus_code": {
+                "compound_code": "GCHV+X4 Neraidochori, Greece",
+                "global_code": "8GF3GCHV+X4"
+            },
+            "rating": 4.6,
+            "reference": "ChIJB8Gl4PtAWRMRuWpPmXEtnf0",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 359
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Metsovo 442 00, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 39.777434,
+                    "lng": 21.179366
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.77878287989272,
+                        "lng": 21.18067437989272
+                    },
+                    "southwest": {
+                        "lat": 39.77608322010727,
+                        "lng": 21.17797472010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Victoria Metsovon Hotel S.A.",
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110752519287583338494\">Tolis Vadevoulis</a>"
+                    ],
+                    "photo_reference": "AXCi2Q77OthX5JxARJ5SgXA3dxQYt6U6QxMAYlEF1NCK7VdA5kKRpDlJNMnxgZxXPzkAiui76GWxq4OKWbdBWb6PYBpN5X5hMp64R0Ehb5xsbwmlkxDU0voC5vjGtwx3IwaD_e9MkPEjxJKAXy4E4dsZq6mNhP1eFfmM964lm41Rg9w0N5ZC",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJb2ryxFpjWRMRfKVoN720ed0",
+            "plus_code": {
+                "compound_code": "Q5GH+XP Metsovo, Greece",
+                "global_code": "8GF3Q5GH+XP"
+            },
+            "rating": 4.6,
+            "reference": "ChIJb2ryxFpjWRMRfKVoN720ed0",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 239
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "\u039a\u0391\u03a3\u03a4\u03a1\u0391\u039a\u0399 0, Kalampaka 422 00, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 39.7163136,
+                    "lng": 21.6178993
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.71765442989273,
+                        "lng": 21.61922787989272
+                    },
+                    "southwest": {
+                        "lat": 39.71495477010728,
+                        "lng": 21.61652822010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Meteora Heaven and Earth Kastraki premium suites",
+            "photos": [
+                {
+                    "height": 3744,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115539712203918800266\">A Google User</a>"
+                    ],
+                    "photo_reference": "AXCi2Q5jr1RryG2W_OdpXYl6BKUnqQwGyRwv1CehL8pSher4YUYfFtlzvjtCnQqzFpeEe2WxjEilciOnphqP8o6otrVF2V6uH6Sh4Han3J1LNshSryhjmAqvziDhC_RLvx6FPvLxMORcCyUWLel5ebXFqUx5e5p4yVI5DX7IxSs3lDYb0gx6",
+                    "width": 5616
+                }
+            ],
+            "place_id": "ChIJO6Mln8sPWRMRpwWoOF3h-vk",
+            "plus_code": {
+                "compound_code": "PJ89+G5 Kalabaka, Greece",
+                "global_code": "8GF3PJ89+G5"
+            },
+            "rating": 4.9,
+            "reference": "ChIJO6Mln8sPWRMRpwWoOF3h-vk",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 50
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Kalabaka 422 00, Greece",
+            "geometry": {
+                "location": {
+                    "lat": 39.70460509999999,
+                    "lng": 21.6364169
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 39.70599112989272,
+                        "lng": 21.63781612989272
+                    },
+                    "southwest": {
+                        "lat": 39.70329147010727,
+                        "lng": 21.63511647010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Epavlis Suites Hotel",
+            "photos": [
+                {
+                    "height": 2252,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112076606372642597211\">venkatesh kandalam</a>"
+                    ],
+                    "photo_reference": "AXCi2Q7ZDq1bOyyHtFcI3Uo8aWUQXjzGZhFfZg5JuItJBt-SpRJDg1xT054_pxHP24jM-MEzS0Vkc_qzThBWKs_3MU5_d6G2Yc5o-PYE7_rdhFn6cVvc-UpkcBgS7HlJ13Ty1Iqc8os7oYIrNqw5SRD9w0i67aguetUhYYSkvF_4Y5WoySm3",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJn0eQjOoPWRMReIbe4e9P2qM",
+            "plus_code": {
+                "compound_code": "PJ3P+RH Kalabaka, Greece",
+                "global_code": "8GF3PJ3P+RH"
+            },
+            "rating": 4.7,
+            "reference": "ChIJn0eQjOoPWRMReIbe4e9P2qM",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 278
+        }
+    ],
+    "status": "OK"
+}

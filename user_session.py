@@ -62,7 +62,11 @@ class UserSession():
         data['email'] = self.email
         return data
         
-        
+    def save_activities_log(self):
+        file_name = f"summary_{self.user_id}.txt"
+        with open(file_name, "w") as fd:
+            fd.write(self.bot_activities)
+    
 user_sessions = dict()
 
 def get_user_session(user_id, create_if_not_exists = False):

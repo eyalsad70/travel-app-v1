@@ -1,0 +1,22 @@
+# File is STILL under development. its missing environment variables for the mandatory tokens/keys  
+
+# Step 1: Use an official Python runtime as a parent image
+FROM python:3.10-slim
+
+# Step 2: Set the working directory in the container
+WORKDIR /app
+
+# Step 3: Copy the current directory contents into the container at /app
+COPY requirements.txt .
+
+# Step 4: Install the dependencies
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copy the rest of your application code
+COPY . .
+
+# step 5: make sure script is executable
+RUN chmod +x main.py
+
+# Step 6: Run your application
+CMD ["python", "main.py"]

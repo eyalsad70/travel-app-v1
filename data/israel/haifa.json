@@ -1,0 +1,259 @@
+{
+    "predictions": [
+        {
+            "description": "Haifa, Israel",
+            "matched_substrings": [
+                {
+                    "length": 5,
+                    "offset": 0
+                },
+                {
+                    "length": 6,
+                    "offset": 7
+                }
+            ],
+            "place_id": "ChIJRegNdUy6HRURmlKBKpgjXcM",
+            "reference": "ChIJRegNdUy6HRURmlKBKpgjXcM",
+            "structured_formatting": {
+                "main_text": "Haifa",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 5,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Israel",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 0
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Haifa"
+                },
+                {
+                    "offset": 7,
+                    "value": "Israel"
+                }
+            ],
+            "types": [
+                "political",
+                "locality",
+                "geocode"
+            ]
+        },
+        {
+            "description": "Israel shipyards engineering, Yulius Simon Street, Haifa, Israel",
+            "matched_substrings": [
+                {
+                    "length": 6,
+                    "offset": 0
+                },
+                {
+                    "length": 5,
+                    "offset": 51
+                }
+            ],
+            "place_id": "ChIJ37Pi7j-7HRURUtptBW329VE",
+            "reference": "ChIJ37Pi7j-7HRURUtptBW329VE",
+            "structured_formatting": {
+                "main_text": "Israel shipyards engineering",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Yulius Simon Street, Haifa, Israel",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 5,
+                        "offset": 21
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Israel shipyards engineering"
+                },
+                {
+                    "offset": 30,
+                    "value": "Yulius Simon Street"
+                },
+                {
+                    "offset": 51,
+                    "value": "Haifa"
+                },
+                {
+                    "offset": 58,
+                    "value": "Israel"
+                }
+            ],
+            "types": [
+                "point_of_interest",
+                "lodging",
+                "establishment"
+            ]
+        },
+        {
+            "description": "Technion - Israel Institute of Technology, Haifa, Israel",
+            "matched_substrings": [
+                {
+                    "length": 6,
+                    "offset": 11
+                },
+                {
+                    "length": 5,
+                    "offset": 43
+                }
+            ],
+            "place_id": "ChIJU_GqGJK6HRURnMB5PmvE7Zo",
+            "reference": "ChIJU_GqGJK6HRURnMB5PmvE7Zo",
+            "structured_formatting": {
+                "main_text": "Technion - Israel Institute of Technology",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 11
+                    }
+                ],
+                "secondary_text": "Haifa, Israel",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 5,
+                        "offset": 0
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Technion - Israel Institute of Technology"
+                },
+                {
+                    "offset": 43,
+                    "value": "Haifa"
+                },
+                {
+                    "offset": 50,
+                    "value": "Israel"
+                }
+            ],
+            "types": [
+                "establishment",
+                "university",
+                "point_of_interest"
+            ]
+        },
+        {
+            "description": "Israel Amikam Street, Haifa, Israel",
+            "matched_substrings": [
+                {
+                    "length": 6,
+                    "offset": 0
+                },
+                {
+                    "length": 5,
+                    "offset": 22
+                }
+            ],
+            "place_id": "EiNJc3JhZWwgQW1pa2FtIFN0cmVldCwgSGFpZmEsIElzcmFlbCIuKiwKFAoSCRHBOMEKux0VEX2cVs66lBjjEhQKEglF6A11TLodFRGaUoEqmCNdww",
+            "reference": "EiNJc3JhZWwgQW1pa2FtIFN0cmVldCwgSGFpZmEsIElzcmFlbCIuKiwKFAoSCRHBOMEKux0VEX2cVs66lBjjEhQKEglF6A11TLodFRGaUoEqmCNdww",
+            "structured_formatting": {
+                "main_text": "Israel Amikam Street",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Haifa, Israel",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 5,
+                        "offset": 0
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Israel Amikam Street"
+                },
+                {
+                    "offset": 22,
+                    "value": "Haifa"
+                },
+                {
+                    "offset": 29,
+                    "value": "Israel"
+                }
+            ],
+            "types": [
+                "geocode",
+                "route"
+            ]
+        },
+        {
+            "description": "Israel-Haifa Apartments, David Elazar Street, Haifa, Israel",
+            "matched_substrings": [
+                {
+                    "length": 6,
+                    "offset": 0
+                },
+                {
+                    "length": 5,
+                    "offset": 46
+                }
+            ],
+            "place_id": "ChIJEUENQ3m7HRURQJA5nZut4Gk",
+            "reference": "ChIJEUENQ3m7HRURQJA5nZut4Gk",
+            "structured_formatting": {
+                "main_text": "Israel-Haifa Apartments",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 6,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "David Elazar Street, Haifa, Israel",
+                "secondary_text_matched_substrings": [
+                    {
+                        "length": 5,
+                        "offset": 21
+                    }
+                ]
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Israel-Haifa Apartments"
+                },
+                {
+                    "offset": 25,
+                    "value": "David Elazar Street"
+                },
+                {
+                    "offset": 46,
+                    "value": "Haifa"
+                },
+                {
+                    "offset": 53,
+                    "value": "Israel"
+                }
+            ],
+            "types": [
+                "lodging",
+                "real_estate_agency",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    ],
+    "status": "OK"
+}

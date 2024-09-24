@@ -6,7 +6,7 @@ import re
 import os
 
 # A sample list of country names (could also be loaded from an external source)
-countries = ["Israel", "Canada", "France", "Germany", "Slovakia", "Poland", "Greece"]
+countries = ["Israel", "Canada", "France", "Germany", "Slovakia", "Poland", "Greece", "England"]
 
 # Join country names into a single regex pattern
 pattern = r'\b(?:' + '|'.join(re.escape(country) for country in countries) + r')\b'
