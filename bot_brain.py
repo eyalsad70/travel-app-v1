@@ -28,18 +28,7 @@ class BotBrain():
         select restaurants
         get summary in mail 
 """
-    
-    user_action_state_machine = {
-        # 'state' : "next suggestion for user"
-        'start' :'please select a country',
-        'country_sel' : 'please select destination (can be a city, region-name, or an area (i.e. north east, central))',
-        'destination_sel' : "processing...",
-        # 'city_sel' : 'please select city from list',  # this state is optional and only if user choose non-city destination
-        # 'hotel_sel' : 'please select hotel from list',
-        # 'rest_sel' : 'please select restaurant',
-        'summary_sel' : 'please insert your email address'
-    }
-    
+        
     menu = """ 
             menu-options (choose number):
                 1. find tourist attractions
@@ -50,6 +39,17 @@ class BotBrain():
                 /start to restart App
             """
     
+    user_action_state_machine = {
+        # 'state' : "next suggestion for user"
+        'start' :'please select a country',
+        'country_sel' : 'please select destination (can be a city, region-name, or an area (i.e. north east, central))',
+        'destination_sel' : "processing...",
+        'menu_sel' : menu,
+        # 'city_sel' : 'please select city from list',  # this state is optional and only if user choose non-city destination
+        # 'hotel_sel' : 'please select hotel from list',
+        # 'rest_sel' : 'please select restaurant',
+        'summary_sel' : 'please insert your email address'
+    }
     
     def __init__(self) -> None:
         self.start_command = 'start'
@@ -61,6 +61,7 @@ class BotBrain():
         self.last_country_selected = ""
         self.last_destination_selected = ""
         self.tmp_city_names = []
+        self.wait_for_user_key = False   
     
     def display_status(self):
         print(f"state = {self.action_state} ; last country selected = {self.last_country_selected} ; last destination selected = {self.last_destination_selected}")
@@ -106,15 +107,23 @@ class BotBrain():
             #         return f"destination selected doesn't exists in country {self.last_country_selected}. choose again"     
             # else:
             
+            # if self.wait_for_user_key:  # this means we are waiting for user next action so nothing to do here
+            #     return None
+
             # need to check user response -> attractions(1), hotels(2), restaurants(3) and activate proper handler
+            
             request = message.text
             content = "Invalid choice"
+
             if '1' in request:
                 content = self.get_attractions()
+                self.action_state = 'menu_sel'                
             elif '2' in request:
                 content = self.get_nearest_ammenties('lodging')
+                self.action_state = 'menu_sel'                
             elif '3' in request:
                 content = self.get_nearest_ammenties('restaurant')
+                self.action_state = 'menu_sel'                
             elif '6' in request:
                 content = self.request_for_new_destination()
             elif '7' in request:
@@ -122,12 +131,24 @@ class BotBrain():
                 content = self.handle_user_message(message)
             elif '9' in request:  # hidden command for admin bot debugging
                 user_session.display_users_activities()
+                self.action_state = 'menu_sel'
+                                            
+            if content != "Invalid choice":
+                self.wait_for_user_key = True   # wait for next user command after he got his detailed answer
+                
             return content
     
     # ------------------------------------------------------------------------------------
     def next_action(self):
         if self.action_state == 'destination_sel':
             return self.menu
+        elif self.action_state == 'menu_sel':
+            if self.wait_for_user_key:
+                self.wait_for_user_key = False
+                return "Press any character key to continue..."
+            else:
+                self.action_state = 'destination_sel'
+                return self.menu
         return None
 
     

@@ -12,6 +12,10 @@ from botocore.exceptions import ClientError
 from my_logger import print_info, print_error, print_warning
 import utils
 
+s3_bucket_name = 'eyalsad70-s3'
+s3_root_folder = 'my_travel_app_v1/'
+
+
 # Initialize a session using Amazon S3
 def initialize_s3_client():
     key = keys_loader.load_private_key("aws_key")
@@ -27,8 +31,6 @@ def initialize_s3_client():
 
 
 s3 = initialize_s3_client()
-s3_bucket_name = keys_loader.aws_s3_bucket_name
-s3_root_folder = keys_loader.aws_s3_folder_name
 
 
 # Function to check if a folder (prefix) exists in S3 and create it if not

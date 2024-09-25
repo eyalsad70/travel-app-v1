@@ -8,7 +8,7 @@ and when called save results in cache (to reduce response-time & costs)
 import requests
 import my_json_repository
 import keys_loader
-from my_logger import print_info, print_error
+from my_logger import print_info, print_error, print_warning
 import utils
 import csv_utils
 import pandas as pd
@@ -40,6 +40,7 @@ def get_place_coordinates(query):
         print_info(f"get_place_coordinates for {query} - latitude {location['lat']}, longitude {location['lng']}")
         return location['lat'], location['lng'], place['place_id']
     else:
+        print_warning(f"get_place_coordinates for {query} - wasn't found")
         return None, None, None
 
 #####################################################################
@@ -54,9 +55,11 @@ def get_place_db_coordinates(place_name, file_path, country):
     if place_name in df['Name'].values:
         # Return the row where the 'Name' column matches the search name
         row = df.loc[df['Name'] == place_name]
-        latitude = row['Latitude']
-        longitude = row['Longitude']
-    return latitude, longitude
+        latitude = row.get('Latitude', None)
+        longitude = row.get('Longitude', None)
+        place_id = row.get('GoogleId', None)
+    return latitude, longitude, place_id
+
 
 #####################################################################
 google_classification_types = {
@@ -165,12 +168,12 @@ def get_places_near_attraction(attraction_name, place_type, country, write_to_fi
    
     # check first in Destinations DB for coordinates
     db_file_path = csv_utils.get_destinations_file_path(country)
-    latitude, longitude = get_place_db_coordinates(attraction_name, db_file_path, country)
+    latitude, longitude, place_id = get_place_db_coordinates(attraction_name, db_file_path, country)
 
     # check in attractions DB for coordinates
     if not latitude:
         db_file_path = csv_utils.get_attractions_file_path(country)
-        latitude, longitude = get_place_db_coordinates(attraction_name, db_file_path, country)
+        latitude, longitude, place_id = get_place_db_coordinates(attraction_name, db_file_path, country)
 
     # Example coordinates for demonstration purposes
     if not latitude:

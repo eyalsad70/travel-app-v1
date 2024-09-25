@@ -27,7 +27,6 @@ my_secured_sites_key_names = {
         "ai_trip_planner" : rapid_api_key,  # optional - deprecated
         # Telegram Bot
         "telebot" : telebot_key,
-        "telebot_id" : 6550133750,
         # AWS (optional - as local storage also available)- Has both key & secret ; they are treated as 2 "sites" for simplicity
         "aws_key" : aws_access_key,
         "aws_secret" : aws_secret_key,
@@ -36,9 +35,6 @@ my_secured_sites_key_names = {
         # key for google maps api - to get locations, hotels, restaurants, etc...
         "google_places" : google_places_key
     }
-
-aws_s3_bucket_name = 'eyalsad70-s3'
-aws_s3_folder_name = 'my_travel_app_v1/'
 
 #######################################################################################
 def load_private_key(site_name):

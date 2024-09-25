@@ -146,7 +146,11 @@ def get_proccessed_content(destination, content_type = 'attractions', country = 
                     google_search = f"{name}, {country}"
                     latitude, longitude, place_id = google_maps_api.get_place_coordinates(google_search)
                     # Append the new row if it doesn't exist
-                    new_row_values = [name, type, destination, float(latitude), float(longitude), place_id]
+                    if latitude and longitude:
+                        new_row_values = [name, type, destination, float(latitude), float(longitude), place_id]
+                    else:
+                        new_row_values = [name, type, destination, None, None, place_id]
+                        
                     df.loc[len(df)] = new_row_values
                     # empty_df.loc[len(empty_df)] = new_row_values
                     updates = True

@@ -14,7 +14,7 @@ import user_session
 import os
 
 test_token = os.getenv('TELEGRAM_BOT_TOKEN') # keys_loader.load_private_key("telebot")
-bot_name = "eyal_cde_test1"
+# bot_name = "eyal_cde_test1"
 
 
 # Get url for updates - run this once from Browser (not from here) to get chat id
@@ -25,7 +25,7 @@ bot_name = "eyal_cde_test1"
 def send_welcome_message():
     # put your chat id and send a message
     bot_url = f'https://api.telegram.org/bot{test_token}/'
-    chat_id = int(keys_loader.load_private_key("telebot_id"))
+    chat_id = 6550133750  # int(keys_loader.load_private_key("telebot_id"))
 
     current_time = time.localtime()
     time_string = time.strftime("%Y-%m-%d %H:%M:%S", current_time)
