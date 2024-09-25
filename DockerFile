@@ -1,22 +1,28 @@
-# File is STILL under development. its missing environment variables for the mandatory tokens/keys  
+# Use the official Ubuntu 20.04 base image
+FROM ubuntu:20.04
 
-# Step 1: Use an official Python runtime as a parent image
-FROM python:3.10-slim
+# Set environment variables to non-interactive (prevents interactive prompts during package installation)
+ENV DEBIAN_FRONTEND=noninteractive
 
-# Step 2: Set the working directory in the container
+# Update Ubuntu and install Python 3 and pip
+RUN apt-get update && \
+    apt-get install -y python3 python3-pip && \
+    rm -rf /var/lib/apt/lists/*
+
+# Set the working directory inside the container
 WORKDIR /app
 
-# Step 3: Copy the current directory contents into the container at /app
+# Copy the requirements.txt to the working directory
 COPY requirements.txt .
 
-# Step 4: Install the dependencies
-RUN pip install --no-cache-dir -r requirements.txt
+# Install Python dependencies using pip
+RUN pip3 install --no-cache-dir -r requirements.txt
 
-# Copy the rest of your application code
+# Copy the rest of the application code into the container
 COPY . .
 
-# step 5: make sure script is executable
+# Make sure your main Python script is executable (optional, only if required)
 RUN chmod +x main.py
 
-# Step 6: Run your application
-CMD ["python", "main.py"]
+# Command to run your Python application
+CMD ["python3", "main.py"]
