@@ -16,21 +16,21 @@ database = 'Naya'
 
 if DOCKER_MODE:
     server = 'host.docker.internal\MSSQLSERVER01'
+    # for SQLite
+    connection_string = "sqlite+pysqlite:///:memory:"
 else:    
     server = 'localhost\MSSQLSERVER01'
-
-# for SQLite
-# connection_string = "sqlite+pysqlite:///:memory:"
-# for MS SQL Server
-connection_string = 'mssql+pyodbc://' + server + '/' + database + '?trusted_connection=yes&driver=ODBC+Driver+17+for+SQL+Server'
+    # for MS SQL Server
+    connection_string = 'mssql+pyodbc://' + server + '/' + database + '?trusted_connection=yes&driver=ODBC+Driver+17+for+SQL+Server'
 
 
 def create_my_engine():
     # print(pyodbc.drivers())
     print(connection_string + "\n\n")
     
-    engine = create_engine(connection_string , echo=False, connect_args={"charset": "utf8"})
-    
+    engine = create_engine(connection_string , echo=False)
+    # engine = create_engine(connection_string , echo=False, connect_args={"charset": "utf8"})
+
     # if DOCKER_MODE:
     #     try:
     #         with engine.connect() as connection:
