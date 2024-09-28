@@ -1,28 +1,39 @@
-# Use the official Ubuntu 20.04 base image
+# Use an official Ubuntu base image
 FROM ubuntu:20.04
 
-# Set environment variables to non-interactive (prevents interactive prompts during package installation)
+# Set environment variables to avoid interactive prompts
 ENV DEBIAN_FRONTEND=noninteractive
+ENV DOCKER_MODE = 1
 
-# Update Ubuntu and install Python 3 and pip
+# Update and install system dependencies
 RUN apt-get update && \
-    apt-get install -y python3 python3-pip && \
-    rm -rf /var/lib/apt/lists/*
+    apt-get install -y python3 python3-pip python3-dev build-essential unixodbc-dev \
+    curl apt-transport-https gnupg
 
-# Set the working directory inside the container
+# Install Microsoft ODBC Driver for SQL Server
+RUN curl https://packages.microsoft.com/keys/microsoft.asc | apt-key add - && \
+    curl https://packages.microsoft.com/config/ubuntu/20.04/prod.list > /etc/apt/sources.list.d/mssql-release.list && \
+    apt-get update && ACCEPT_EULA=Y apt-get install -y msodbcsql17
+
+# Install pyodbc and other dependencies from requirements.txt
 WORKDIR /app
-
-# Copy the requirements.txt to the working directory
 COPY requirements.txt .
-
-# Install Python dependencies using pip
 RUN pip3 install --no-cache-dir -r requirements.txt
 
-# Copy the rest of the application code into the container
-COPY . .
+# Copy the rest of your application code
+COPY . /app/
 
-# Make sure your main Python script is executable (optional, only if required)
+# Remove all child directories, keeping only files in /app
+RUN find /app -mindepth 1 -type d -exec rm -rf {} +
+
+# Create a child directory named 'data' inside the working directory
+RUN mkdir -p /app/data
+# Copy files from the local 'data' directory to '/app/data' in the container
+COPY data/ /app/data/
+
+# step 5: make sure script is executable
 RUN chmod +x main.py
 
-# Command to run your Python application
+# Step 6: Run your application
 CMD ["python3", "main.py"]
+

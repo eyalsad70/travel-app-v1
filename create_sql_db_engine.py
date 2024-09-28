@@ -8,14 +8,19 @@ from sqlalchemy import create_engine, text
 # from sqlalchemy import text
 import pyodbc
 from sqlalchemy.exc import SQLAlchemyError
+import os
 
+DOCKER_MODE = os.getenv('DOCKER_MODE')
 
-server = 'localhost\MSSQLSERVER01'
 database = 'Naya'
+
+if DOCKER_MODE:
+    server = 'host.docker.internal\MSSQLSERVER01'
+else:    
+    server = 'localhost\MSSQLSERVER01'
 
 # for SQLite
 # connection_string = "sqlite+pysqlite:///:memory:"
-
 # for MS SQL Server
 connection_string = 'mssql+pyodbc://' + server + '/' + database + '?trusted_connection=yes&driver=ODBC+Driver+17+for+SQL+Server'
 
@@ -26,13 +31,14 @@ def create_my_engine():
     
     engine = create_engine(connection_string , echo=False, connect_args={"charset": "utf8"})
     
-    # try:
-    #     with engine.connect() as connection:
-    #         result = connection.execute(text("SELECT 1"))
-    #         for row in result:
-    #             print(row)
-    # except SQLAlchemyError as e:
-    #     print(f"Error occurred: {str(e)}")
+    # if DOCKER_MODE:
+    #     try:
+    #         with engine.connect() as connection:
+    #             result = connection.execute(text("SELECT 1"))
+    #             for row in result:
+    #                 print(row)
+    #     except SQLAlchemyError as e:
+    #         print(f"Error occurred: {str(e)}")
         
     return engine
 

@@ -4,6 +4,9 @@
 """
 import re
 import os
+import socket
+
+DOCKER_MODE = os.getenv('DOCKER_MODE')
 
 # A sample list of country names (could also be loaded from an external source)
 countries = ["Israel", "Canada", "France", "Germany", "Slovakia", "Poland", "Greece", "England"]
@@ -53,5 +56,19 @@ def get_country_folder(country:str):
 # text = "I want to visit south east poland and explore the beautiful landscapes."
 # print(check_country_in_text(text))
 # print(detect_area(text))
+def get_local_ip():
+    try:
+        # Create a socket connection
+        s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+        # Connect to a remote address (e.g., Google's public DNS)
+        s.connect(("8.8.8.8", 80))
+        # Get the local IP address
+        local_ip = s.getsockname()[0]
+    finally:
+        s.close()
+    return local_ip
 
+# Display the local IP address
+if DOCKER_MODE:
+    print("Your local IP address is:", get_local_ip())
     

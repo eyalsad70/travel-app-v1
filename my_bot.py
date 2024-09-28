@@ -9,11 +9,13 @@ import time, datetime
 import requests
 import json
 import keys_loader
-from my_logger import print_info, print_error
+from my_logger import print_info, print_error, DOCKER_MODE
 import user_session
 import os
 
 test_token = os.getenv('TELEGRAM_BOT_TOKEN') # keys_loader.load_private_key("telebot")
+if DOCKER_MODE:
+    print(f"Using bot token: {test_token}")
 # bot_name = "eyal_cde_test1"
 
 
@@ -88,5 +90,5 @@ def handle_response(message):
     else:
         bot.reply_to(message, "press /start to begin!!")
 
-
-# send_welcome_message()
+# if MY_DEBUG_MODE:
+#     send_welcome_message()
