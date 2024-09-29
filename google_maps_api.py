@@ -67,6 +67,8 @@ google_classification_types = {
         'locality' : 'city', 
         'administrative_area_level_1' : 'district', 
         'administrative_area_level_2' : 'district', 
+        'administrative_area_level_3' : 'district', 
+        'administrative_area_level_4' : 'district', 
         'park' : 'attraction',
         'airport' : 'airport',
         'establishment' : 'attraction'  # this can be a park, tourist-attraction, spa, museum, etc..
@@ -111,6 +113,7 @@ def get_place_classification(place_name, country, write_to_file = False):
             place_id = predictions[id]['place_id']
             types = predictions[id]['types']
             name = predictions[id]['description']
+            app_type = 'other'
         
             for key, value in google_classification_types.items():
                 if key in types:
